@@ -1,19 +1,13 @@
 import json
 import pandas as pd
-#from flatten_json import flatten
-
 
 #Read in file
 data = open('Data/hs24022017.json').read()
-#print (data)
 
 #Decode json
 config = json.loads(data)
 
-x = 0
 
-for i in range(len(sequence)):
-    # work with index i
 
 #Create a list from the json of game1 only
 game1 = config['history'][0]['card_history']
@@ -40,43 +34,35 @@ game1df['result'] = game1result
 game1df['rank'] = game1rank
 
 
-print(game1df)
+#Create a list from the json of game2 only
+game1 = config['history'][1]['card_history']
+game1rank = config['history'][1]['rank']
+game1result = config['history'][1]['result']
+game1mode = config['history'][1]['mode']
+game1id = config['history'][1]['id']
+game1coin = config['history'][1]['coin']
+game1duration = config['history'][1]['duration']
 
-#game1df2 = pd.DataFrame([game1df]['card'], columns=['id', 'cost', 'name'])
+#convert list to dataframe
+game2df = pd.DataFrame(game1)
 
-#print(game1df2)
+#break out the dict that is one of the fields in the dataframe
+game2df = pd.concat([game2df, game2df['card'].apply(pd.Series)], axis=1)
+#delete the original dict field
+del game2df['card']
 
-#game1turn1 = game1[0]
-#cardsgame1turn1 = game1turn1['card']
-#print(type(cardsgame1turn1))
-
-
-#print(game1df)
-
-#game1andmoreturn1 = game1[0]
-
-
-
-#pd.DataFrame(game1turn1['card'].items(), columns=['id', 'mana'])
+game2df['duration'] = game1duration
+game2df['coin'] = game1coin
+game2df['gameid'] = game1id
+game2df['mode'] = game1mode
+game2df['result'] = game1result
+game2df['rank'] = game1rank
 
 
-#access my first game
-#print(config['history'][0])
 
-#list_for_table = []
+#print(game1df.head(5))
+#print(game2df.head(5))
 
-#access my first game result
-#print(config['history'][0]['id'])
+bigdata = game1df.append(game2df, ignore_index=True)
 
-#for element in config['history']:
-#    print (element)
-
-#for element in config['history']:
-
-#    list_for_table.append(element)
-#print(list_for_table)
-
-#'meta' in config
-#print(config)
-#print(config['meta'])
-#print(config['history'])
+print(bigdata)
