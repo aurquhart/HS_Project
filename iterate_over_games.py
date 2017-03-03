@@ -2,7 +2,7 @@ import json
 import pandas as pd
 
 #Read in file
-data = open('Data/hs24022017.json').read()
+data = open('Data/hs_v2.json').read()
 
 #Decode json
 config = json.loads(data)
@@ -14,12 +14,14 @@ counter = 0
 for i in range(len(config['history'])):
     if i == 0:
         game = config['history'][counter]['card_history']
-        gamerank = config['history'][counter]['rank']
+        #gamerank = config['history'][counter]['rank']
         gameresult = config['history'][counter]['result']
         gamemode = config['history'][counter]['mode']
         gameid = config['history'][counter]['id']
         gamecoin = config['history'][counter]['coin']
         gameduration = config['history'][counter]['duration']
+        gameopponent = config['history'][counter]['opponent']
+        gamehero = config['history'][counter]['hero']
         game = pd.DataFrame(game)
 
         # break out the dict that is one of the fields in the dataframe
@@ -32,17 +34,22 @@ for i in range(len(config['history'])):
         game['gameid'] = gameid
         game['mode'] = gamemode
         game['result'] = gameresult
-        game['rank'] = gamerank
+        game['opponent'] = gameopponent
+        game['hero'] = gamehero
+
+       # game['rank'] = gamerank
 
         counter = counter + 1
     else:
         game1 = config['history'][counter]['card_history']
-        gamerank = config['history'][counter]['rank']
+       # gamerank = config['history'][counter]['rank']
         gameresult = config['history'][counter]['result']
         gamemode = config['history'][counter]['mode']
         gameid = config['history'][counter]['id']
         gamecoin = config['history'][counter]['coin']
         gameduration = config['history'][counter]['duration']
+        gameopponent = config['history'][counter]['opponent']
+        gamehero = config['history'][counter]['hero']
         game1 = pd.DataFrame(game1)
         # break out the dict that is one of the fields in the dataframe
         game1 = pd.concat([game1, game1['card'].apply(pd.Series)], axis=1)
@@ -54,12 +61,14 @@ for i in range(len(config['history'])):
         game1['gameid'] = gameid
         game1['mode'] = gamemode
         game1['result'] = gameresult
-        game1['rank'] = gamerank
+        game['opponent'] = gameopponent
+        game['hero'] = gamehero
+       # game1['rank'] = gamerank
 
         counter = counter + 1
         game = game.append(game1)
 
-#print(game)
+print(game)
 game['name'] = game['name'].str.replace(',', '')
-game.to_csv('Data/hs_alytic.csv', sep='\t', encoding='utf-8')
+game.to_csv('Data/hs_alytic_v2.csv', sep='\t', encoding='utf-8')
 #bigdata = game1df.append(game2df, ignore_index=True)
