@@ -2,7 +2,7 @@ import json
 import pandas as pd
 
 #Read in file
-data = open('Data/hs_v2.json').read()
+data = open('Data/pg4.json').read()
 
 #Decode json
 config = json.loads(data)
@@ -40,6 +40,9 @@ for i in range(len(config['history'])):
        # game['rank'] = gamerank
 
         counter = counter + 1
+    elif not config['history'][counter]['card_history']:
+                counter = counter + 1
+
     else:
         game1 = config['history'][counter]['card_history']
        # gamerank = config['history'][counter]['rank']
@@ -52,6 +55,8 @@ for i in range(len(config['history'])):
         gamehero = config['history'][counter]['hero']
         game1 = pd.DataFrame(game1)
         # break out the dict that is one of the fields in the dataframe
+        
+        
         game1 = pd.concat([game1, game1['card'].apply(pd.Series)], axis=1)
         # delete the original dict field
         del game1['card']

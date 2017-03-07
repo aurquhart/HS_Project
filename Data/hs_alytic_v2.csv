@@ -1,470 +1,468 @@
 	coin	duration	gameid	hero	id	mana	mode	name	opponent	player	result	turn
-0	False	509	65357566	Druid	AT_037	1.0	ranked	Living Roots	Paladin	me	win	1
-1	False	509	65357566	Druid	OG_061	1.0	ranked	On the Hunt	Paladin	opponent	win	1
-2	False	509	65357566	Druid	CS2_017	2.0	ranked	Shapeshift	Paladin	me	win	2
-3	False	509	65357566	Druid	AT_058	2.0	ranked	King's Elekk	Paladin	opponent	win	2
-4	False	509	65357566	Druid	CS2_017	2.0	ranked	Shapeshift	Paladin	me	win	3
-5	False	509	65357566	Druid	KAR_300	1.0	ranked	Enchanted Raven	Paladin	me	win	3
-6	False	509	65357566	Druid	CFM_338	2.0	ranked	Trogg Beastrager	Paladin	opponent	win	3
-7	False	509	65357566	Druid	CFM_713	3.0	ranked	Jade Blossom	Paladin	me	win	4
-8	False	509	65357566	Druid	CFM_602	1.0	ranked	Jade Idol	Paladin	me	win	4
-9	False	509	65357566	Druid	OG_216	4.0	ranked	Infested Wolf	Paladin	opponent	win	4
-10	False	509	65357566	Druid	CFM_852	5.0	ranked	Lotus Agents	Paladin	me	win	5
-11	False	509	65357566	Druid	AT_060	2.0	ranked	Bear Trap	Paladin	opponent	win	5
-12	False	509	65357566	Druid	EX1_617	3.0	ranked	Deadly Shot	Paladin	opponent	win	5
-13	False	509	65357566	Druid	EX1_169	0.0	ranked	Innervate	Paladin	me	win	6
-14	False	509	65357566	Druid	CS2_232	8.0	ranked	Ironbark Protector	Paladin	me	win	6
-15	False	509	65357566	Druid	NEW1_031	3.0	ranked	Animal Companion	Paladin	opponent	win	6
-16	False	509	65357566	Druid	EX1_539	3.0	ranked	Kill Command	Paladin	opponent	win	6
-17	False	509	65357566	Druid	CS2_012	4.0	ranked	Swipe	Paladin	me	win	7
-18	False	509	65357566	Druid	LOE_012	4.0	ranked	Tomb Pillager	Paladin	me	win	7
-19	False	509	65357566	Druid	OG_325	3.0	ranked	Carrion Grub	Paladin	opponent	win	7
-20	False	509	65357566	Druid	DS1_070	4.0	ranked	Houndmaster	Paladin	opponent	win	7
-21	False	509	65357566	Druid	EX1_298	8.0	ranked	Ragnaros the Firelord	Paladin	me	win	8
-22	False	509	65357566	Druid	AT_037	1.0	ranked	Living Roots	Paladin	me	win	8
-23	False	509	65357566	Druid	DS1_175	1.0	ranked	Timber Wolf	Paladin	opponent	win	8
-24	False	509	65357566	Druid	CS2_120	2.0	ranked	River Crocolisk	Paladin	opponent	win	8
-25	False	509	65357566	Druid	DS1h_292	2.0	ranked	Steady Shot	Paladin	opponent	win	8
-26	False	509	65357566	Druid	CFM_852	5.0	ranked	Lotus Agents	Paladin	me	win	9
-27	False	509	65357566	Druid	KAR_070	5.0	ranked	Ethereal Peddler	Paladin	me	win	9
-28	False	509	65357566	Druid	EX1_160	2.0	ranked	Power of the Wild	Paladin	me	win	9
-29	False	509	65357566	Druid	EX1_028	5.0	ranked	Stranglethorn Tiger	Paladin	opponent	win	9
-30	False	509	65357566	Druid	DS1h_292	2.0	ranked	Steady Shot	Paladin	opponent	win	9
-31	False	509	65357566	Druid	CFM_811	5.0	ranked	Lunar Visions	Paladin	me	win	10
-32	False	509	65357566	Druid	EX1_165	5.0	ranked	Druid of the Claw	Paladin	me	win	10
-33	False	509	65357566	Druid	CS2_017	2.0	ranked	Shapeshift	Paladin	me	win	10
-34	False	509	65357566	Druid	DS1h_292	2.0	ranked	Steady Shot	Paladin	opponent	win	10
-35	False	509	65357566	Druid	NEW1_031	3.0	ranked	Animal Companion	Paladin	opponent	win	10
-36	False	509	65357566	Druid	GAME_005		ranked	The Coin	Paladin	opponent	win	10
-0	True	386	65356927	Druid	CS2_235	1.0	ranked	Northshire Cleric	Paladin	opponent	loss	1
-1	True	386	65356927	Druid	CFM_602	1.0	ranked	Jade Idol	Paladin	me	loss	1
-2	True	386	65356927	Druid	EX1_154	2.0	ranked	Wrath	Paladin	me	loss	2
-3	True	386	65356927	Druid	BRM_033	3.0	ranked	Blackwing Technician	Paladin	opponent	loss	3
-4	True	386	65356927	Druid	GAME_005		ranked	The Coin	Paladin	me	loss	3
-5	True	386	65356927	Druid	CFM_715	4.0	ranked	Jade Spirit	Paladin	me	loss	3
-6	True	386	65356927	Druid	AT_017	4.0	ranked	Twilight Guardian	Paladin	opponent	loss	4
-7	True	386	65356927	Druid	CFM_715	4.0	ranked	Jade Spirit	Paladin	me	loss	4
-8	True	386	65356927	Druid	CFM_626	3.0	ranked	Kabal Talonpriest	Paladin	opponent	loss	5
-9	True	386	65356927	Druid	CS2_234	2.0	ranked	Shadow Word: Pain	Paladin	opponent	loss	5
-10	True	386	65356927	Druid	EX1_165	5.0	ranked	Druid of the Claw	Paladin	me	loss	5
-11	True	386	65356927	Druid	CS2_235	1.0	ranked	Northshire Cleric	Paladin	opponent	loss	6
-12	True	386	65356927	Druid	CS1h_001	2.0	ranked	Lesser Heal	Paladin	opponent	loss	6
-13	True	386	65356927	Druid	CS2_012	4.0	ranked	Swipe	Paladin	me	loss	6
-14	True	386	65356927	Druid	CS2_017	2.0	ranked	Shapeshift	Paladin	me	loss	6
-15	True	386	65356927	Druid	CFM_605	5.0	ranked	Drakonid Operative	Paladin	opponent	loss	7
-16	True	386	65356927	Druid	CS1h_001	2.0	ranked	Lesser Heal	Paladin	opponent	loss	7
-17	True	386	65356927	Druid	EX1_160	2.0	ranked	Power of the Wild	Paladin	me	loss	7
-18	True	386	65356927	Druid	CS2_017	2.0	ranked	Shapeshift	Paladin	me	loss	7
-19	True	386	65356927	Druid	BRM_034	5.0	ranked	Blackwing Corruptor	Paladin	opponent	loss	8
-20	True	386	65356927	Druid	CS1h_001	2.0	ranked	Lesser Heal	Paladin	opponent	loss	8
-0	False	339	65356421	Druid	KAR_300	1.0	ranked	Enchanted Raven	Paladin	me	win	1
-1	False	339	65356421	Druid	EX1_160	2.0	ranked	Power of the Wild	Paladin	me	win	2
-2	False	339	65356421	Druid	CS2_034	2.0	ranked	Fireblast	Paladin	opponent	win	2
-3	False	339	65356421	Druid	AT_037	1.0	ranked	Living Roots	Paladin	me	win	3
-4	False	339	65356421	Druid	EX1_160	2.0	ranked	Power of the Wild	Paladin	me	win	3
-5	False	339	65356421	Druid	GAME_005		ranked	The Coin	Paladin	opponent	win	3
-6	False	339	65356421	Druid	EX1_608	2.0	ranked	Sorcerer's Apprentice	Paladin	opponent	win	3
-7	False	339	65356421	Druid	EX1_594	3.0	ranked	Vaporize	Paladin	opponent	win	3
-8	False	339	65356421	Druid	AT_037	1.0	ranked	Living Roots	Paladin	me	win	4
-9	False	339	65356421	Druid	CS2_017	2.0	ranked	Shapeshift	Paladin	me	win	4
-10	False	339	65356421	Druid	CS2_203	3.0	ranked	Ironbeak Owl	Paladin	opponent	win	4
-11	False	339	65356421	Druid	CFM_852	5.0	ranked	Lotus Agents	Paladin	me	win	5
-0	True	636	65355976	Druid	CFM_315	1.0	ranked	Alleycat	Paladin	opponent	loss	1
-1	True	636	65355976	Druid	AT_037	1.0	ranked	Living Roots	Paladin	me	loss	1
-2	True	636	65355976	Druid	GAME_005		ranked	The Coin	Paladin	me	loss	1
-3	True	636	65355976	Druid	KAR_300	1.0	ranked	Enchanted Raven	Paladin	me	loss	1
-4	True	636	65355976	Druid	LOE_046	2.0	ranked	Huge Toad	Paladin	opponent	loss	2
-5	True	636	65355976	Druid	EX1_154	2.0	ranked	Wrath	Paladin	me	loss	2
-6	True	636	65355976	Druid	CS2_125	3.0	ranked	Ironfur Grizzly	Paladin	opponent	loss	3
-7	True	636	65355976	Druid	EX1_160	2.0	ranked	Power of the Wild	Paladin	me	loss	3
-8	True	636	65355976	Druid	OG_216	4.0	ranked	Infested Wolf	Paladin	opponent	loss	4
-9	True	636	65355976	Druid	CFM_715	4.0	ranked	Jade Spirit	Paladin	me	loss	4
-10	True	636	65355976	Druid	CFM_338	2.0	ranked	Trogg Beastrager	Paladin	opponent	loss	5
-11	True	636	65355976	Druid	OG_325	3.0	ranked	Carrion Grub	Paladin	opponent	loss	5
-12	True	636	65355976	Druid	CS2_012	4.0	ranked	Swipe	Paladin	me	loss	5
-13	True	636	65355976	Druid	OG_325	3.0	ranked	Carrion Grub	Paladin	opponent	loss	6
-14	True	636	65355976	Druid	DS1h_292_H1	2.0	ranked	Steady Shot	Paladin	opponent	loss	6
-15	True	636	65355976	Druid	EX1_165	5.0	ranked	Druid of the Claw	Paladin	me	loss	6
-16	True	636	65355976	Druid	CFM_685	7.0	ranked	Don Han'Cho	Paladin	opponent	loss	7
-17	True	636	65355976	Druid	CFM_852	5.0	ranked	Lotus Agents	Paladin	me	loss	7
-18	True	636	65355976	Druid	CS2_017	2.0	ranked	Shapeshift	Paladin	me	loss	7
-19	True	636	65355976	Druid	EX1_531	2.0	ranked	Scavenging Hyena	Paladin	opponent	loss	8
-20	True	636	65355976	Druid	KAR_005	2.0	ranked	Kindly Grandmother	Paladin	opponent	loss	8
-21	True	636	65355976	Druid	DS1h_292_H1	2.0	ranked	Steady Shot	Paladin	opponent	loss	8
-22	True	636	65355976	Druid	CS2_232	8.0	ranked	Ironbark Protector	Paladin	me	loss	8
-23	True	636	65355976	Druid	EX1_298	8.0	ranked	Ragnaros the Firelord	Paladin	opponent	loss	9
-0	True	782	65189903	Druid	CS2_027	1.0	friendly	Mirror Image	Paladin	opponent	loss	1
-1	True	782	65189903	Druid	CFM_315	1.0	friendly	Alleycat	Paladin	me	loss	1
-2	True	782	65189903	Druid	CS2_034	2.0	friendly	Fireblast	Paladin	opponent	loss	2
-3	True	782	65189903	Druid	NEW1_019	2.0	friendly	Knife Juggler	Paladin	me	loss	2
-4	True	782	65189903	Druid	KAR_009	1.0	friendly	Babbling Book	Paladin	opponent	loss	3
-5	True	782	65189903	Druid	CS2_034	2.0	friendly	Fireblast	Paladin	opponent	loss	3
-6	True	782	65189903	Druid	CFM_338	2.0	friendly	Trogg Beastrager	Paladin	me	loss	3
-7	True	782	65189903	Druid	CS2_024	2.0	friendly	Frostbolt	Paladin	opponent	loss	4
-8	True	782	65189903	Druid	CS2_034	2.0	friendly	Fireblast	Paladin	opponent	loss	4
-9	True	782	65189903	Druid	DS1h_292	2.0	friendly	Steady Shot	Paladin	me	loss	4
-10	True	782	65189903	Druid	CS2_034	2.0	friendly	Fireblast	Paladin	opponent	loss	5
-11	True	782	65189903	Druid	EX1_531	2.0	friendly	Scavenging Hyena	Paladin	me	loss	5
-12	True	782	65189903	Druid	GAME_005		friendly	The Coin	Paladin	me	loss	5
-13	True	782	65189903	Druid	DS1_070	4.0	friendly	Houndmaster	Paladin	me	loss	5
-14	True	782	65189903	Druid	CS2_029	4.0	friendly	Fireball	Paladin	opponent	loss	6
-15	True	782	65189903	Druid	CS2_034	2.0	friendly	Fireblast	Paladin	opponent	loss	6
-16	True	782	65189903	Druid	EX1_534	6.0	friendly	Savannah Highmane	Paladin	me	loss	6
-17	True	782	65189903	Druid	OG_207	6.0	friendly	Faceless Summoner	Paladin	opponent	loss	7
-18	True	782	65189903	Druid	EX1_617	3.0	friendly	Deadly Shot	Paladin	me	loss	7
-19	True	782	65189903	Druid	DS1_070	4.0	friendly	Houndmaster	Paladin	me	loss	7
-20	True	782	65189903	Druid	CS2_022	4.0	friendly	Polymorph	Paladin	opponent	loss	8
-21	True	782	65189903	Druid	CFM_649	3.0	friendly	Kabal Courier	Paladin	opponent	loss	8
-22	True	782	65189903	Druid	OG_216	4.0	friendly	Infested Wolf	Paladin	me	loss	8
-23	True	782	65189903	Druid	DS1h_292	2.0	friendly	Steady Shot	Paladin	me	loss	8
-24	True	782	65189903	Druid	LOE_002	3.0	friendly	Forgotten Torch	Paladin	opponent	loss	9
-25	True	782	65189903	Druid	LOE_011	6.0	friendly	Reno Jackson	Paladin	opponent	loss	9
-26	True	782	65189903	Druid	DS1h_292	2.0	friendly	Steady Shot	Paladin	me	loss	9
-27	True	782	65189903	Druid	NEW1_012	1.0	friendly	Mana Wyrm	Paladin	opponent	loss	10
-28	True	782	65189903	Druid	CFM_660	3.0	friendly	Manic Soulcaster	Paladin	opponent	loss	10
-29	True	782	65189903	Druid	CS2_034	2.0	friendly	Fireblast	Paladin	opponent	loss	10
-30	True	782	65189903	Druid	CFM_335	4.0	friendly	Dispatch Kodo	Paladin	me	loss	10
-31	True	782	65189903	Druid	DS1h_292	2.0	friendly	Steady Shot	Paladin	me	loss	10
-32	True	782	65189903	Druid	KAR_076	7.0	friendly	Firelands Portal	Paladin	opponent	loss	11
-33	True	782	65189903	Druid	CS2_034	2.0	friendly	Fireblast	Paladin	opponent	loss	11
-34	True	782	65189903	Druid	EX1_617	3.0	friendly	Deadly Shot	Paladin	me	loss	11
-35	True	782	65189903	Druid	DS1_178	5.0	friendly	Tundra Rhino	Paladin	me	loss	11
-36	True	782	65189903	Druid	OG_179	1.0	friendly	Fiery Bat	Paladin	me	loss	11
-37	True	782	65189903	Druid	CFM_315	1.0	friendly	Alleycat	Paladin	me	loss	11
-38	True	782	65189903	Druid	tt_010	3.0	friendly	Spellbender	Paladin	opponent	loss	12
-39	True	782	65189903	Druid	KAR_037	5.0	friendly	Avian Watcher	Paladin	opponent	loss	12
-40	True	782	65189903	Druid	KAR_092	2.0	friendly	Medivh's Valet	Paladin	opponent	loss	12
-41	True	782	65189903	Druid	DS1_183	4.0	friendly	Multi-Shot	Paladin	me	loss	12
-42	True	782	65189903	Druid	EX1_539	3.0	friendly	Kill Command	Paladin	me	loss	12
-43	True	782	65189903	Druid	DS1h_292	2.0	friendly	Steady Shot	Paladin	me	loss	12
-44	True	782	65189903	Druid	CFM_851	4.0	friendly	Daring Reporter	Paladin	opponent	loss	13
-45	True	782	65189903	Druid	CS2_029	4.0	friendly	Fireball	Paladin	opponent	loss	13
-46	True	782	65189903	Druid	CS2_034	2.0	friendly	Fireblast	Paladin	opponent	loss	13
-47	True	782	65189903	Druid	KAR_005	2.0	friendly	Kindly Grandmother	Paladin	me	loss	13
-48	True	782	65189903	Druid	DS1h_292	2.0	friendly	Steady Shot	Paladin	me	loss	13
-49	True	782	65189903	Druid	EX1_626	4.0	friendly	Mass Dispel	Paladin	opponent	loss	14
-50	True	782	65189903	Druid	CFM_066	1.0	friendly	Kabal Lackey	Paladin	opponent	loss	14
-51	True	782	65189903	Druid	CS2_034	2.0	friendly	Fireblast	Paladin	opponent	loss	14
-52	True	782	65189903	Druid	DS1_183	4.0	friendly	Multi-Shot	Paladin	me	loss	14
-53	True	782	65189903	Druid	DS1h_292	2.0	friendly	Steady Shot	Paladin	me	loss	14
-54	True	782	65189903	Druid	KAR_097	8.0	friendly	Medivh the Guardian	Paladin	opponent	loss	15
-55	True	782	65189903	Druid	CS2_034	2.0	friendly	Fireblast	Paladin	opponent	loss	15
-56	True	782	65189903	Druid	DS1h_292	2.0	friendly	Steady Shot	Paladin	me	loss	15
-57	True	782	65189903	Druid	DS1_185	1.0	friendly	Arcane Shot	Paladin	me	loss	15
-58	True	782	65189903	Druid	CS2_032	7.0	friendly	Flamestrike	Paladin	opponent	loss	16
-0	False	377	65188868	Druid	CS2_034	2.0	ranked	Fireblast	Paladin	me	loss	2
-1	False	377	65188868	Druid	CS2_083b	2.0	ranked	Dagger Mastery	Paladin	opponent	loss	2
-2	False	377	65188868	Druid	OG_303	2.0	ranked	Cult Sorcerer	Paladin	me	loss	3
-3	False	377	65188868	Druid	EX1_044	3.0	ranked	Questing Adventurer	Paladin	opponent	loss	3
-4	False	377	65188868	Druid	CS2_072	0.0	ranked	Backstab	Paladin	opponent	loss	3
-5	False	377	65188868	Druid	CS2_022	4.0	ranked	Polymorph	Paladin	me	loss	4
-6	False	377	65188868	Druid	LOE_012	4.0	ranked	Tomb Pillager	Paladin	opponent	loss	4
-7	False	377	65188868	Druid	CFM_649	3.0	ranked	Kabal Courier	Paladin	me	loss	5
-8	False	377	65188868	Druid	CS2_034	2.0	ranked	Fireblast	Paladin	me	loss	5
-9	False	377	65188868	Druid	EX1_284	5.0	ranked	Azure Drake	Paladin	opponent	loss	5
-10	False	377	65188868	Druid	CFM_066	1.0	ranked	Kabal Lackey	Paladin	me	loss	6
-11	False	377	65188868	Druid	EX1_295	3.0	ranked	Ice Block	Paladin	me	loss	6
-12	False	377	65188868	Druid	CS2_034	2.0	ranked	Fireblast	Paladin	me	loss	6
-13	False	377	65188868	Druid	EX1_044	3.0	ranked	Questing Adventurer	Paladin	opponent	loss	6
-14	False	377	65188868	Druid	EX1_129	3.0	ranked	Fan of Knives	Paladin	opponent	loss	6
-15	False	377	65188868	Druid	EX1_334	4.0	ranked	Shadow Madness	Paladin	me	loss	7
-16	False	377	65188868	Druid	CS2_034	2.0	ranked	Fireblast	Paladin	me	loss	7
-17	False	377	65188868	Druid	LOE_012	4.0	ranked	Tomb Pillager	Paladin	opponent	loss	7
-18	False	377	65188868	Druid	KAR_069	1.0	ranked	Swashburglar	Paladin	opponent	loss	7
-19	False	377	65188868	Druid	CS2_083b	2.0	ranked	Dagger Mastery	Paladin	opponent	loss	7
-20	False	377	65188868	Druid	CS2_032	7.0	ranked	Flamestrike	Paladin	me	loss	8
-21	False	377	65188868	Druid	EX1_095	6.0	ranked	Gadgetzan Auctioneer	Paladin	opponent	loss	8
-22	False	377	65188868	Druid	GAME_005		ranked	The Coin	Paladin	opponent	loss	8
-23	False	377	65188868	Druid	GAME_005		ranked	The Coin	Paladin	opponent	loss	8
-24	False	377	65188868	Druid	GAME_005		ranked	The Coin	Paladin	opponent	loss	8
-25	False	377	65188868	Druid	CS2_073	1.0	ranked	Cold Blood	Paladin	opponent	loss	8
-26	False	377	65188868	Druid	EX1_613	3.0	ranked	Edwin VanCleef	Paladin	opponent	loss	8
-27	False	377	65188868	Druid	EX1_128	1.0	ranked	Conceal	Paladin	opponent	loss	8
-0	False	389	65127886	Druid	CS2_146	1.0	ranked	Southsea Deckhand	Paladin	opponent	loss	1
-1	False	389	65127886	Druid	CFM_637	1.0	ranked	Patches the Pirate	Paladin	opponent	loss	1
-2	False	389	65127886	Druid	CS2_034	2.0	ranked	Fireblast	Paladin	me	loss	2
-3	False	389	65127886	Druid	CFM_717	2.0	ranked	Jade Claws	Paladin	opponent	loss	2
-4	False	389	65127886	Druid	CFM_649	3.0	ranked	Kabal Courier	Paladin	me	loss	3
-5	False	389	65127886	Druid	EX1_565	2.0	ranked	Flametongue Totem	Paladin	opponent	loss	3
-6	False	389	65127886	Druid	CS2_034	2.0	ranked	Fireblast	Paladin	me	loss	4
-7	False	389	65127886	Druid	EX1_608	2.0	ranked	Sorcerer's Apprentice	Paladin	me	loss	4
-8	False	389	65127886	Druid	CS2_031	1.0	ranked	Ice Lance	Paladin	me	loss	4
-9	False	389	65127886	Druid	EX1_248	3.0	ranked	Feral Spirit	Paladin	opponent	loss	4
-10	False	389	65127886	Druid	KAR_063	1.0	ranked	Spirit Claws	Paladin	opponent	loss	4
-11	False	389	65127886	Druid	CS2_023	3.0	ranked	Arcane Intellect	Paladin	me	loss	5
-12	False	389	65127886	Druid	CS2_034	2.0	ranked	Fireblast	Paladin	me	loss	5
-13	False	389	65127886	Druid	CS2_027	1.0	ranked	Mirror Image	Paladin	me	loss	5
-14	False	389	65127886	Druid	CFM_066	1.0	ranked	Kabal Lackey	Paladin	me	loss	5
-15	False	389	65127886	Druid	AT_052	2.0	ranked	Totem Golem	Paladin	opponent	loss	5
-16	False	389	65127886	Druid	GAME_005		ranked	The Coin	Paladin	opponent	loss	5
-17	False	389	65127886	Druid	EX1_012	2.0	ranked	Bloodmage Thalnos	Paladin	opponent	loss	5
-18	False	389	65127886	Druid	CFM_851	4.0	ranked	Daring Reporter	Paladin	me	loss	6
-19	False	389	65127886	Druid	CS2_034	2.0	ranked	Fireblast	Paladin	me	loss	6
-20	False	389	65127886	Druid	CFM_707	4.0	ranked	Jade Lightning	Paladin	opponent	loss	6
-21	False	389	65127886	Druid	CS2_032	7.0	ranked	Flamestrike	Paladin	me	loss	7
-22	False	389	65127886	Druid	OG_024	4.0	ranked	Flamewreathed Faceless	Paladin	opponent	loss	7
-23	False	389	65127886	Druid	CFM_325	1.0	ranked	Small-Time Buccaneer	Paladin	opponent	loss	7
-24	False	389	65127886	Druid	KAR_097	8.0	ranked	Medivh the Guardian	Paladin	me	loss	8
-25	False	389	65127886	Druid	EX1_565	2.0	ranked	Flametongue Totem	Paladin	opponent	loss	8
-0	True	585	65126916	Druid	KAR_009	1.0	ranked	Babbling Book	Paladin	me	win	1
-1	True	585	65126916	Druid	AT_071	2.0	ranked	Alexstrasza's Champion	Paladin	opponent	win	2
-2	True	585	65126916	Druid	CS2_034	2.0	ranked	Fireblast	Paladin	me	win	2
-3	True	585	65126916	Druid	NEW1_023	2.0	ranked	Faerie Dragon	Paladin	opponent	win	3
-4	True	585	65126916	Druid	GAME_005		ranked	The Coin	Paladin	me	win	3
-5	True	585	65126916	Druid	CFM_851	4.0	ranked	Daring Reporter	Paladin	me	win	3
-6	True	585	65126916	Druid	CS2_106	2.0	ranked	Fiery War Axe	Paladin	opponent	win	4
-7	True	585	65126916	Druid	CS2_102	2.0	ranked	Armor Up!	Paladin	opponent	win	4
-8	True	585	65126916	Druid	CFM_621	4.0	ranked	Kazakus	Paladin	me	win	4
-9	True	585	65126916	Druid	BRM_034	5.0	ranked	Blackwing Corruptor	Paladin	opponent	win	5
-10	True	585	65126916	Druid	CFM_621t14	5.0	ranked	Kazakus Potion	Paladin	me	win	5
-11	True	585	65126916	Druid	BRM_024	6.0	ranked	Drakonid Crusher	Paladin	opponent	win	6
-12	True	585	65126916	Druid	CS2_024	2.0	ranked	Frostbolt	Paladin	me	win	6
-13	True	585	65126916	Druid	CFM_620	3.0	ranked	Potion of Polymorph	Paladin	me	win	6
-14	True	585	65126916	Druid	BRM_033	3.0	ranked	Blackwing Technician	Paladin	opponent	win	7
-15	True	585	65126916	Druid	OG_218	4.0	ranked	Bloodhoof Brave	Paladin	opponent	win	7
-16	True	585	65126916	Druid	EX1_289	3.0	ranked	Ice Barrier	Paladin	me	win	7
-17	True	585	65126916	Druid	KAR_092	2.0	ranked	Medivh's Valet	Paladin	me	win	7
-18	True	585	65126916	Druid	CS2_034	2.0	ranked	Fireblast	Paladin	me	win	7
-19	True	585	65126916	Druid	OG_218	4.0	ranked	Bloodhoof Brave	Paladin	opponent	win	8
-20	True	585	65126916	Druid	NEW1_023	2.0	ranked	Faerie Dragon	Paladin	opponent	win	8
-21	True	585	65126916	Druid	CS2_102	2.0	ranked	Armor Up!	Paladin	opponent	win	8
-22	True	585	65126916	Druid	KAR_097	8.0	ranked	Medivh the Guardian	Paladin	me	win	8
-23	True	585	65126916	Druid	EX1_298	8.0	ranked	Ragnaros the Firelord	Paladin	opponent	win	9
-24	True	585	65126916	Druid	CS2_022	4.0	ranked	Polymorph	Paladin	me	win	9
-25	True	585	65126916	Druid	CS2_034	2.0	ranked	Fireblast	Paladin	me	win	9
-26	True	585	65126916	Druid	EX1_392	2.0	ranked	Battle Rage	Paladin	opponent	win	10
-27	True	585	65126916	Druid	EX1_392	2.0	ranked	Battle Rage	Paladin	opponent	win	10
-28	True	585	65126916	Druid	OG_314	1.0	ranked	Blood To Ichor	Paladin	opponent	win	10
-29	True	585	65126916	Druid	AT_017	4.0	ranked	Twilight Guardian	Paladin	opponent	win	10
-30	True	585	65126916	Druid	KAR_076	7.0	ranked	Firelands Portal	Paladin	me	win	10
-31	True	585	65126916	Druid	CS2_034	2.0	ranked	Fireblast	Paladin	me	win	10
-32	True	585	65126916	Druid	CFM_685	7.0	ranked	Don Han'Cho	Paladin	opponent	win	11
-33	True	585	65126916	Druid	CS2_106	2.0	ranked	Fiery War Axe	Paladin	opponent	win	11
-0	True	440	65125435	Druid	KAR_009	1.0	ranked	Babbling Book	Paladin	me	win	1
-1	True	440	65125435	Druid	GAME_005		ranked	The Coin	Paladin	opponent	win	1
-2	True	440	65125435	Druid	CFM_753	2.0	ranked	Grimestreet Outfitter	Paladin	opponent	win	1
-3	True	440	65125435	Druid	CS2_034	2.0	ranked	Fireblast	Paladin	me	win	2
-4	True	440	65125435	Druid	EX1_509	1.0	ranked	Murloc Tidecaller	Paladin	opponent	win	2
-5	True	440	65125435	Druid	OG_006	1.0	ranked	Vilefin Inquisitor	Paladin	opponent	win	2
-6	True	440	65125435	Druid	CS2_024	2.0	ranked	Frostbolt	Paladin	me	win	3
-7	True	440	65125435	Druid	EX1_050	3.0	ranked	Coldlight Oracle	Paladin	opponent	win	3
-8	True	440	65125435	Druid	LOE_002	3.0	ranked	Forgotten Torch	Paladin	me	win	4
-9	True	440	65125435	Druid	CFM_753	2.0	ranked	Grimestreet Outfitter	Paladin	opponent	win	4
-10	True	440	65125435	Druid	OG_156	2.0	ranked	Bilefin Tidehunter	Paladin	opponent	win	4
-11	True	440	65125435	Druid	AT_002	3.0	ranked	Effigy	Paladin	me	win	5
-12	True	440	65125435	Druid	KAR_092	2.0	ranked	Medivh's Valet	Paladin	me	win	5
-13	True	440	65125435	Druid	EX1_508	1.0	ranked	Grimscale Oracle	Paladin	opponent	win	5
-14	True	440	65125435	Druid	AT_076	4.0	ranked	Murloc Knight	Paladin	opponent	win	5
-15	True	440	65125435	Druid	LOE_002t	3.0	ranked	Roaring Torch	Paladin	me	win	6
-16	True	440	65125435	Druid	CFM_649	3.0	ranked	Kabal Courier	Paladin	me	win	6
-17	True	440	65125435	Druid	EX1_507	3.0	ranked	Murloc Warleader	Paladin	opponent	win	6
-18	True	440	65125435	Druid	EX1_349	3.0	ranked	Divine Favor	Paladin	opponent	win	6
-19	True	440	65125435	Druid	EX1_608	2.0	ranked	Sorcerer's Apprentice	Paladin	me	win	7
-20	True	440	65125435	Druid	CS2_026	3.0	ranked	Frost Nova	Paladin	me	win	7
-21	True	440	65125435	Druid	CS2_034	2.0	ranked	Fireblast	Paladin	me	win	7
-22	True	440	65125435	Druid	CFM_305	1.0	ranked	Smuggler's Run	Paladin	opponent	win	7
-23	True	440	65125435	Druid	CFM_650	1.0	ranked	Grimscale Chum	Paladin	opponent	win	7
-24	True	440	65125435	Druid	EX1_103	3.0	ranked	Coldlight Seer	Paladin	opponent	win	7
-25	True	440	65125435	Druid	KAR_076	7.0	ranked	Firelands Portal	Paladin	me	win	8
-26	True	440	65125435	Druid	CS2_034	2.0	ranked	Fireblast	Paladin	me	win	8
-27	True	440	65125435	Druid	EX1_507	3.0	ranked	Murloc Warleader	Paladin	opponent	win	8
-28	True	440	65125435	Druid	CS2_173	2.0	ranked	Bluegill Warrior	Paladin	opponent	win	8
-29	True	440	65125435	Druid	OG_006	1.0	ranked	Vilefin Inquisitor	Paladin	opponent	win	8
-30	True	440	65125435	Druid	LOE_011	6.0	ranked	Reno Jackson	Paladin	me	win	9
-31	True	440	65125435	Druid	CS2_034	2.0	ranked	Fireblast	Paladin	me	win	9
-32	True	440	65125435	Druid	LOE_115	1.0	ranked	Raven Idol	Paladin	opponent	win	1
-33	True	440	65125435	Druid	NEW1_012	1.0	ranked	Mana Wyrm	Paladin	me	win	1
-34	True	440	65125435	Druid	EX1_066	2.0	ranked	Acidic Swamp Ooze	Paladin	opponent	win	2
-35	True	440	65125435	Druid	CS2_024	2.0	ranked	Frostbolt	Paladin	me	win	2
-36	True	440	65125435	Druid	OG_047	3.0	ranked	Feral Rage	Paladin	opponent	win	3
-37	True	440	65125435	Druid	EX1_289	3.0	ranked	Ice Barrier	Paladin	me	win	3
-38	True	440	65125435	Druid	KAR_114	4.0	ranked	Barnes	Paladin	opponent	win	4
-39	True	440	65125435	Druid	KAR_092	2.0	ranked	Medivh's Valet	Paladin	me	win	4
-40	True	440	65125435	Druid	CS2_034	2.0	ranked	Fireblast	Paladin	me	win	4
-41	True	440	65125435	Druid	GAME_005		ranked	The Coin	Paladin	me	win	4
-42	True	440	65125435	Druid	KAR_009	1.0	ranked	Babbling Book	Paladin	me	win	4
-43	True	440	65125435	Druid	EX1_284	5.0	ranked	Azure Drake	Paladin	opponent	win	5
-44	True	440	65125435	Druid	CS2_024	2.0	ranked	Frostbolt	Paladin	me	win	5
-45	True	440	65125435	Druid	CS2_034	2.0	ranked	Fireblast	Paladin	me	win	5
-46	True	440	65125435	Druid	CFM_066	1.0	ranked	Kabal Lackey	Paladin	me	win	5
-47	True	440	65125435	Druid	CFM_715	4.0	ranked	Jade Spirit	Paladin	opponent	win	6
-48	True	440	65125435	Druid	CS2_017	2.0	ranked	Shapeshift	Paladin	opponent	win	6
-49	True	440	65125435	Druid	CFM_760	6.0	ranked	Kabal Crystal Runner	Paladin	me	win	6
-50	True	440	65125435	Druid	CS2_034	2.0	ranked	Fireblast	Paladin	me	win	6
-51	True	440	65125435	Druid	CS2_011	3.0	ranked	Savage Roar	Paladin	opponent	win	7
-52	True	440	65125435	Druid	NEW1_020	2.0	ranked	Wild Pyromancer	Paladin	opponent	win	7
-53	True	440	65125435	Druid	AT_037	1.0	ranked	Living Roots	Paladin	opponent	win	7
-54	True	440	65125435	Druid	EX1_284	5.0	ranked	Azure Drake	Paladin	me	win	7
-55	True	440	65125435	Druid	CS2_034	2.0	ranked	Fireblast	Paladin	me	win	7
-56	True	440	65125435	Druid	EX1_164	5.0	ranked	Nourish	Paladin	opponent	win	8
-57	True	440	65125435	Druid	CFM_713	3.0	ranked	Jade Blossom	Paladin	opponent	win	8
-58	True	440	65125435	Druid	KAR_097	8.0	ranked	Medivh the Guardian	Paladin	me	win	8
-59	True	440	65125435	Druid	CS2_142	2.0	ranked	Kobold Geomancer	Paladin	opponent	win	9
-60	True	440	65125435	Druid	CS2_012	4.0	ranked	Swipe	Paladin	opponent	win	9
-61	True	440	65125435	Druid	CFM_602	1.0	ranked	Jade Idol	Paladin	opponent	win	9
-62	True	440	65125435	Druid	EX1_096	2.0	ranked	Loot Hoarder	Paladin	opponent	win	9
-63	True	440	65125435	Druid	CS2_029	4.0	ranked	Fireball	Paladin	me	win	9
-64	True	440	65125435	Druid	CS2_026	3.0	ranked	Frost Nova	Paladin	me	win	9
-65	True	440	65125435	Druid	CS2_034	2.0	ranked	Fireblast	Paladin	me	win	9
-0	True	477	65042989	Druid	KAR_009	1.0	ranked	Babbling Book	Paladin	me	loss	1
-1	True	477	65042989	Druid	GAME_005		ranked	The Coin	Paladin	me	loss	1
-2	True	477	65042989	Druid	CS2_027	1.0	ranked	Mirror Image	Paladin	me	loss	1
-3	True	477	65042989	Druid	AT_116	2.0	ranked	Wyrmrest Agent	Paladin	opponent	loss	2
-4	True	477	65042989	Druid	OG_303	2.0	ranked	Cult Sorcerer	Paladin	me	loss	2
-5	True	477	65042989	Druid	BRM_004	1.0	ranked	Twilight Whelp	Paladin	opponent	loss	3
-6	True	477	65042989	Druid	CS1h_001	2.0	ranked	Lesser Heal	Paladin	opponent	loss	3
-7	True	477	65042989	Druid	CFM_649	3.0	ranked	Kabal Courier	Paladin	me	loss	3
-8	True	477	65042989	Druid	BRM_033	3.0	ranked	Blackwing Technician	Paladin	opponent	loss	4
-9	True	477	65042989	Druid	CS2_029	4.0	ranked	Fireball	Paladin	me	loss	4
-10	True	477	65042989	Druid	CS1h_001	2.0	ranked	Lesser Heal	Paladin	opponent	loss	5
-11	True	477	65042989	Druid	NEW1_023	2.0	ranked	Faerie Dragon	Paladin	opponent	loss	5
-12	True	477	65042989	Druid	EX1_284	5.0	ranked	Azure Drake	Paladin	me	loss	5
-13	True	477	65042989	Druid	BRM_034	5.0	ranked	Blackwing Corruptor	Paladin	opponent	loss	6
-14	True	477	65042989	Druid	CFM_851	4.0	ranked	Daring Reporter	Paladin	me	loss	6
-15	True	477	65042989	Druid	CS2_034	2.0	ranked	Fireblast	Paladin	me	loss	6
-16	True	477	65042989	Druid	LOE_104	6.0	ranked	Entomb	Paladin	opponent	loss	7
-17	True	477	65042989	Druid	CFM_621	4.0	ranked	Kazakus	Paladin	me	loss	7
-18	True	477	65042989	Druid	CS2_034	2.0	ranked	Fireblast	Paladin	me	loss	7
-19	True	477	65042989	Druid	KAR_033	6.0	ranked	Book Wyrm	Paladin	opponent	loss	8
-20	True	477	65042989	Druid	CS1h_001	2.0	ranked	Lesser Heal	Paladin	opponent	loss	8
-21	True	477	65042989	Druid	EX1_608	2.0	ranked	Sorcerer's Apprentice	Paladin	me	loss	8
-22	True	477	65042989	Druid	CS2_022	4.0	ranked	Polymorph	Paladin	me	loss	8
-23	True	477	65042989	Druid	CS2_034	2.0	ranked	Fireblast	Paladin	me	loss	8
-24	True	477	65042989	Druid	CFM_605	5.0	ranked	Drakonid Operative	Paladin	opponent	loss	9
-25	True	477	65042989	Druid	CS1h_001	2.0	ranked	Lesser Heal	Paladin	opponent	loss	9
-26	True	477	65042989	Druid	EX1_095	6.0	ranked	Gadgetzan Auctioneer	Paladin	me	loss	9
-27	True	477	65042989	Druid	CS2_027	1.0	ranked	Mirror Image	Paladin	me	loss	9
-28	True	477	65042989	Druid	CS2_034	2.0	ranked	Fireblast	Paladin	me	loss	9
-29	True	477	65042989	Druid	LOE_111	5.0	ranked	Excavated Evil	Paladin	opponent	loss	10
-30	True	477	65042989	Druid	CS1h_001	2.0	ranked	Lesser Heal	Paladin	opponent	loss	10
-0	True	517	64904893	Druid	CS2_146	1.0	arena	Southsea Deckhand	Paladin	me	loss	1
-1	True	517	64904893	Druid	LOE_029	2.0	arena	Jeweled Scarab	Paladin	opponent	loss	2
-2	True	517	64904893	Druid	CS2_017	2.0	arena	Shapeshift	Paladin	me	loss	2
-3	True	517	64904893	Druid	FP1_005	3.0	arena	Shade of Naxxramas	Paladin	opponent	loss	3
-4	True	517	64904893	Druid	GAME_005		arena	The Coin	Paladin	me	loss	3
-5	True	517	64904893	Druid	OG_249	4.0	arena	Infested Tauren	Paladin	me	loss	3
-6	True	517	64904893	Druid	EX1_043	4.0	arena	Twilight Drake	Paladin	opponent	loss	4
-7	True	517	64904893	Druid	GVG_078	4.0	arena	Mechanical Yeti	Paladin	me	loss	4
-8	True	517	64904893	Druid	FP1_004	2.0	arena	Mad Scientist	Paladin	opponent	loss	5
-9	True	517	64904893	Druid	CS2_057	3.0	arena	Shadow Bolt	Paladin	opponent	loss	5
-10	True	517	64904893	Druid	CS2_012	4.0	arena	Swipe	Paladin	me	loss	5
-11	True	517	64904893	Druid	EX1_008	1.0	arena	Argent Squire	Paladin	me	loss	5
-12	True	517	64904893	Druid	EX1_595	4.0	arena	Cult Master	Paladin	opponent	loss	6
-13	True	517	64904893	Druid	PART_004	1.0	arena	Finicky Cloakfield	Paladin	opponent	loss	6
-14	True	517	64904893	Druid	CFM_715	4.0	arena	Jade Spirit	Paladin	me	loss	6
-15	True	517	64904893	Druid	FP1_002	2.0	arena	Haunted Creeper	Paladin	me	loss	6
-16	True	517	64904893	Druid	OG_113	3.0	arena	Darkshire Councilman	Paladin	opponent	loss	7
-17	True	517	64904893	Druid	BRM_006	3.0	arena	Imp Gang Boss	Paladin	opponent	loss	7
-18	True	517	64904893	Druid	OG_195	7.0	arena	Wisps of the Old Gods	Paladin	me	loss	7
-19	True	517	64904893	Druid	EX1_309	6.0	arena	Siphon Soul	Paladin	opponent	loss	8
-20	True	517	64904893	Druid	EX1_096	2.0	arena	Loot Hoarder	Paladin	opponent	loss	8
-21	True	517	64904893	Druid	LOE_053	5.0	arena	Djinni of Zephyrs	Paladin	me	loss	8
-22	True	517	64904893	Druid	PART_006	1.0	arena	Reversing Switch	Paladin	me	loss	8
-23	True	517	64904893	Druid	CS2_017	2.0	arena	Shapeshift	Paladin	me	loss	8
-24	True	517	64904893	Druid	CFM_608	4.0	arena	Blastcrystal Potion	Paladin	opponent	loss	9
-25	True	517	64904893	Druid	AT_085	4.0	arena	Maiden of the Lake	Paladin	opponent	loss	9
-26	True	517	64904893	Druid	CS2_056	2.0	arena	Life Tap	Paladin	opponent	loss	9
-27	True	517	64904893	Druid	EX1_165	5.0	arena	Druid of the Claw	Paladin	me	loss	9
-28	True	517	64904893	Druid	GVG_098	3.0	arena	Gnomeregan Infantry	Paladin	me	loss	9
-29	True	517	64904893	Druid	GVG_045	4.0	arena	Imp-losion	Paladin	opponent	loss	10
-30	True	517	64904893	Druid	EX1_093	4.0	arena	Defender of Argus	Paladin	opponent	loss	10
-31	True	517	64904893	Druid	EX1_164	5.0	arena	Nourish	Paladin	me	loss	10
-32	True	517	64904893	Druid	CS2_017	2.0	arena	Shapeshift	Paladin	me	loss	10
-33	True	517	64904893	Druid	BRM_010	3.0	arena	Druid of the Flame	Paladin	me	loss	10
-0	True	310	64904270	Druid	KAR_063	1.0	arena	Spirit Claws	Paladin	opponent	win	1
-1	True	310	64904270	Druid	EX1_008	1.0	arena	Argent Squire	Paladin	me	win	1
-2	True	310	64904270	Druid	FP1_007	2.0	arena	Nerubian Egg	Paladin	opponent	win	2
-3	True	310	64904270	Druid	GAME_005		arena	The Coin	Paladin	me	win	2
-4	True	310	64904270	Druid	CFM_713	3.0	arena	Jade Blossom	Paladin	me	win	2
-5	True	310	64904270	Druid	CS2_049	2.0	arena	Totemic Call	Paladin	opponent	win	3
-6	True	310	64904270	Druid	OG_023	1.0	arena	Primal Fusion	Paladin	opponent	win	3
-7	True	310	64904270	Druid	EX1_048	4.0	arena	Spellbreaker	Paladin	me	win	3
-8	True	310	64904270	Druid	OG_323	4.0	arena	Polluted Hoarder	Paladin	opponent	win	4
-9	True	310	64904270	Druid	EX1_165	5.0	arena	Druid of the Claw	Paladin	me	win	4
-10	True	310	64904270	Druid	CS2_049	2.0	arena	Totemic Call	Paladin	opponent	win	5
-11	True	310	64904270	Druid	EX1_248	3.0	arena	Feral Spirit	Paladin	opponent	win	5
-12	True	310	64904270	Druid	CFM_343	6.0	arena	Jade Behemoth	Paladin	me	win	5
-13	True	310	64904270	Druid	GVG_044	3.0	arena	Spider Tank	Paladin	opponent	win	6
-14	True	310	64904270	Druid	DS1_055	5.0	arena	Darkscale Healer	Paladin	me	win	6
-15	True	310	64904270	Druid	CS2_017	2.0	arena	Shapeshift	Paladin	me	win	6
-16	True	310	64904270	Druid	CS2_049	2.0	arena	Totemic Call	Paladin	opponent	win	7
-17	True	310	64904270	Druid	OG_031	5.0	arena	Hammer of Twilight	Paladin	opponent	win	7
-18	True	310	64904270	Druid	GVG_098	3.0	arena	Gnomeregan Infantry	Paladin	me	win	7
-0	True	528	64903916	Druid	EX1_008	1.0	arena	Argent Squire	Paladin	me	loss	1
-1	True	528	64903916	Druid	CFM_338	2.0	arena	Trogg Beastrager	Paladin	opponent	loss	2
-2	True	528	64903916	Druid	EX1_015	2.0	arena	Novice Engineer	Paladin	me	loss	2
-3	True	528	64903916	Druid	CFM_321	2.0	arena	Grimestreet Informant	Paladin	opponent	loss	3
-4	True	528	64903916	Druid	FP1_027	3.0	arena	Stoneskin Gargoyle	Paladin	me	loss	3
-5	True	528	64903916	Druid	LOE_047	4.0	arena	Tomb Spider	Paladin	opponent	loss	4
-6	True	528	64903916	Druid	CFM_715	4.0	arena	Jade Spirit	Paladin	me	loss	4
-7	True	528	64903916	Druid	CFM_336	3.0	arena	Shaky Zipgunner	Paladin	opponent	loss	5
-8	True	528	64903916	Druid	EX1_096	2.0	arena	Loot Hoarder	Paladin	opponent	loss	5
-9	True	528	64903916	Druid	GAME_005		arena	The Coin	Paladin	me	loss	5
-10	True	528	64903916	Druid	CFM_343	6.0	arena	Jade Behemoth	Paladin	me	loss	5
-11	True	528	64903916	Druid	OG_216	4.0	arena	Infested Wolf	Paladin	opponent	loss	6
-12	True	528	64903916	Druid	AT_060	2.0	arena	Bear Trap	Paladin	opponent	loss	6
-13	True	528	64903916	Druid	GVG_078	4.0	arena	Mechanical Yeti	Paladin	me	loss	6
-14	True	528	64903916	Druid	CS2_017	2.0	arena	Shapeshift	Paladin	me	loss	6
-15	True	528	64903916	Druid	CFM_853	3.0	arena	Grimestreet Smuggler	Paladin	opponent	loss	7
-16	True	528	64903916	Druid	KAR_004	2.0	arena	Cat Trick	Paladin	opponent	loss	7
-17	True	528	64903916	Druid	GVG_013	1.0	arena	Cogmaster	Paladin	opponent	loss	7
-18	True	528	64903916	Druid	EX1_165	5.0	arena	Druid of the Claw	Paladin	me	loss	7
-19	True	528	64903916	Druid	CS2_017	2.0	arena	Shapeshift	Paladin	me	loss	7
-20	True	528	64903916	Druid	EX1_531	2.0	arena	Scavenging Hyena	Paladin	opponent	loss	8
-21	True	528	64903916	Druid	EX1_531	2.0	arena	Scavenging Hyena	Paladin	opponent	loss	8
-22	True	528	64903916	Druid	EX1_531	2.0	arena	Scavenging Hyena	Paladin	opponent	loss	8
-23	True	528	64903916	Druid	DS1h_292	2.0	arena	Steady Shot	Paladin	opponent	loss	8
-24	True	528	64903916	Druid	EX1_048	4.0	arena	Spellbreaker	Paladin	me	loss	8
-25	True	528	64903916	Druid	CS2_012	4.0	arena	Swipe	Paladin	me	loss	8
-26	True	528	64903916	Druid	DS1h_292	2.0	arena	Steady Shot	Paladin	opponent	loss	9
-27	True	528	64903916	Druid	PART_001	1.0	arena	Armor Plating	Paladin	opponent	loss	9
-28	True	528	64903916	Druid	CS2_125	3.0	arena	Ironfur Grizzly	Paladin	me	loss	9
-29	True	528	64903916	Druid	OG_249	4.0	arena	Infested Tauren	Paladin	me	loss	9
-30	True	528	64903916	Druid	GVG_103	2.0	arena	Micro Machine	Paladin	me	loss	9
-31	True	528	64903916	Druid	AT_063	7.0	arena	Acidmaw	Paladin	opponent	loss	10
-32	True	528	64903916	Druid	EX1_538	3.0	arena	Unleash the Hounds	Paladin	opponent	loss	10
-33	True	528	64903916	Druid	EX1_164	5.0	arena	Nourish	Paladin	me	loss	10
-34	True	528	64903916	Druid	OG_047	3.0	arena	Feral Rage	Paladin	me	loss	10
-0	True	477	64903304	Druid	CS2_146	1.0	arena	Southsea Deckhand	Paladin	me	win	1
-1	True	477	64903304	Druid	CS2_101	2.0	arena	Reinforce	Paladin	opponent	win	2
-2	True	477	64903304	Druid	GAME_005		arena	The Coin	Paladin	me	win	2
-3	True	477	64903304	Druid	BRM_010	3.0	arena	Druid of the Flame	Paladin	me	win	2
-4	True	477	64903304	Druid	OG_310	3.0	arena	Steward of Darkshire	Paladin	opponent	win	3
-5	True	477	64903304	Druid	FP1_027	3.0	arena	Stoneskin Gargoyle	Paladin	me	win	3
-6	True	477	64903304	Druid	AT_074	3.0	arena	Seal of Champions	Paladin	opponent	win	4
-7	True	477	64903304	Druid	OG_249	4.0	arena	Infested Tauren	Paladin	me	win	4
-8	True	477	64903304	Druid	EX1_360	1.0	arena	Humility	Paladin	opponent	win	5
-9	True	477	64903304	Druid	GVG_098	3.0	arena	Gnomeregan Infantry	Paladin	opponent	win	5
-10	True	477	64903304	Druid	CS2_012	4.0	arena	Swipe	Paladin	me	win	5
-11	True	477	64903304	Druid	GVG_098	3.0	arena	Gnomeregan Infantry	Paladin	opponent	win	6
-12	True	477	64903304	Druid	CS2_101	2.0	arena	Reinforce	Paladin	opponent	win	6
-13	True	477	64903304	Druid	CS2_017	2.0	arena	Shapeshift	Paladin	me	win	6
-14	True	477	64903304	Druid	CFM_715	4.0	arena	Jade Spirit	Paladin	me	win	6
-15	True	477	64903304	Druid	OG_200	5.0	arena	Validated Doomsayer	Paladin	opponent	win	7
-16	True	477	64903304	Druid	CS2_101	2.0	arena	Reinforce	Paladin	opponent	win	7
-17	True	477	64903304	Druid	EX1_165	5.0	arena	Druid of the Claw	Paladin	me	win	7
-18	True	477	64903304	Druid	CFM_614	1.0	arena	Mark of the Lotus	Paladin	me	win	7
-19	True	477	64903304	Druid	CFM_321	2.0	arena	Grimestreet Informant	Paladin	opponent	win	8
-20	True	477	64903304	Druid	NEW1_022	4.0	arena	Dread Corsair	Paladin	opponent	win	8
-21	True	477	64903304	Druid	CFM_752	2.0	arena	Stolen Goods	Paladin	opponent	win	8
-0	True	285	64902779		CS2_146	1.0	arena	Southsea Deckhand		me	win	1
-1	True	285	64902779		CS2_101	2.0	arena	Reinforce		opponent	win	2
-2	True	285	64902779		CS2_017	2.0	arena	Shapeshift		me	win	2
-3	True	285	64902779		AT_087	3.0	arena	Argent Horserider		opponent	win	3
-4	True	285	64902779		CS2_017	2.0	arena	Shapeshift		me	win	3
-5	True	285	64902779		GVG_071	4.0	arena	Lost Tallstrider		opponent	win	4
-6	True	285	64902779		CFM_713	3.0	arena	Jade Blossom		me	win	4
-7	True	285	64902779		OG_273	5.0	arena	Stand Against Darkness		opponent	win	5
-8	True	285	64902779		CS2_012	4.0	arena	Swipe		me	win	5
-9	True	285	64902779		FP1_003	2.0	arena	Echoing Ooze		me	win	5
-10	True	285	64902779		CFM_753	2.0	arena	Grimestreet Outfitter		opponent	win	6
-11	True	285	64902779		EX1_556	3.0	arena	Harvest Golem		opponent	win	6
-12	True	285	64902779		CFM_715	4.0	arena	Jade Spirit		me	win	6
-13	True	285	64902779		CS2_125	3.0	arena	Ironfur Grizzly		me	win	6
-14	True	285	64902779		CFM_639	5.0	arena	Grimestreet Enforcer		opponent	win	7
-15	True	285	64902779		CS2_101	2.0	arena	Reinforce		opponent	win	7
-16	True	285	64902779		GAME_005		arena	The Coin		me	win	7
-17	True	285	64902779		FP1_002	2.0	arena	Haunted Creeper		me	win	7
-18	True	285	64902779		OG_195	7.0	arena	Wisps of the Old Gods		me	win	7
-19	True	285	64902779		KAR_077	4.0	arena	Silvermoon Portal		opponent	win	8
-20	True	285	64902779		CS2_101	2.0	arena	Reinforce		opponent	win	8
+0	True	310	64904270	Warlock	KAR_063	1.0	arena	Spirit Claws	Paladin	opponent	win	1
+1	True	310	64904270	Warlock	EX1_008	1.0	arena	Argent Squire	Paladin	me	win	1
+2	True	310	64904270	Warlock	FP1_007	2.0	arena	Nerubian Egg	Paladin	opponent	win	2
+3	True	310	64904270	Warlock	GAME_005		arena	The Coin	Paladin	me	win	2
+4	True	310	64904270	Warlock	CFM_713	3.0	arena	Jade Blossom	Paladin	me	win	2
+5	True	310	64904270	Warlock	CS2_049	2.0	arena	Totemic Call	Paladin	opponent	win	3
+6	True	310	64904270	Warlock	OG_023	1.0	arena	Primal Fusion	Paladin	opponent	win	3
+7	True	310	64904270	Warlock	EX1_048	4.0	arena	Spellbreaker	Paladin	me	win	3
+8	True	310	64904270	Warlock	OG_323	4.0	arena	Polluted Hoarder	Paladin	opponent	win	4
+9	True	310	64904270	Warlock	EX1_165	5.0	arena	Druid of the Claw	Paladin	me	win	4
+10	True	310	64904270	Warlock	CS2_049	2.0	arena	Totemic Call	Paladin	opponent	win	5
+11	True	310	64904270	Warlock	EX1_248	3.0	arena	Feral Spirit	Paladin	opponent	win	5
+12	True	310	64904270	Warlock	CFM_343	6.0	arena	Jade Behemoth	Paladin	me	win	5
+13	True	310	64904270	Warlock	GVG_044	3.0	arena	Spider Tank	Paladin	opponent	win	6
+14	True	310	64904270	Warlock	DS1_055	5.0	arena	Darkscale Healer	Paladin	me	win	6
+15	True	310	64904270	Warlock	CS2_017	2.0	arena	Shapeshift	Paladin	me	win	6
+16	True	310	64904270	Warlock	CS2_049	2.0	arena	Totemic Call	Paladin	opponent	win	7
+17	True	310	64904270	Warlock	OG_031	5.0	arena	Hammer of Twilight	Paladin	opponent	win	7
+18	True	310	64904270	Warlock	GVG_098	3.0	arena	Gnomeregan Infantry	Paladin	me	win	7
+0	True	528	64903916	Warlock	EX1_008	1.0	arena	Argent Squire	Paladin	me	loss	1
+1	True	528	64903916	Warlock	CFM_338	2.0	arena	Trogg Beastrager	Paladin	opponent	loss	2
+2	True	528	64903916	Warlock	EX1_015	2.0	arena	Novice Engineer	Paladin	me	loss	2
+3	True	528	64903916	Warlock	CFM_321	2.0	arena	Grimestreet Informant	Paladin	opponent	loss	3
+4	True	528	64903916	Warlock	FP1_027	3.0	arena	Stoneskin Gargoyle	Paladin	me	loss	3
+5	True	528	64903916	Warlock	LOE_047	4.0	arena	Tomb Spider	Paladin	opponent	loss	4
+6	True	528	64903916	Warlock	CFM_715	4.0	arena	Jade Spirit	Paladin	me	loss	4
+7	True	528	64903916	Warlock	CFM_336	3.0	arena	Shaky Zipgunner	Paladin	opponent	loss	5
+8	True	528	64903916	Warlock	EX1_096	2.0	arena	Loot Hoarder	Paladin	opponent	loss	5
+9	True	528	64903916	Warlock	GAME_005		arena	The Coin	Paladin	me	loss	5
+10	True	528	64903916	Warlock	CFM_343	6.0	arena	Jade Behemoth	Paladin	me	loss	5
+11	True	528	64903916	Warlock	OG_216	4.0	arena	Infested Wolf	Paladin	opponent	loss	6
+12	True	528	64903916	Warlock	AT_060	2.0	arena	Bear Trap	Paladin	opponent	loss	6
+13	True	528	64903916	Warlock	GVG_078	4.0	arena	Mechanical Yeti	Paladin	me	loss	6
+14	True	528	64903916	Warlock	CS2_017	2.0	arena	Shapeshift	Paladin	me	loss	6
+15	True	528	64903916	Warlock	CFM_853	3.0	arena	Grimestreet Smuggler	Paladin	opponent	loss	7
+16	True	528	64903916	Warlock	KAR_004	2.0	arena	Cat Trick	Paladin	opponent	loss	7
+17	True	528	64903916	Warlock	GVG_013	1.0	arena	Cogmaster	Paladin	opponent	loss	7
+18	True	528	64903916	Warlock	EX1_165	5.0	arena	Druid of the Claw	Paladin	me	loss	7
+19	True	528	64903916	Warlock	CS2_017	2.0	arena	Shapeshift	Paladin	me	loss	7
+20	True	528	64903916	Warlock	EX1_531	2.0	arena	Scavenging Hyena	Paladin	opponent	loss	8
+21	True	528	64903916	Warlock	EX1_531	2.0	arena	Scavenging Hyena	Paladin	opponent	loss	8
+22	True	528	64903916	Warlock	EX1_531	2.0	arena	Scavenging Hyena	Paladin	opponent	loss	8
+23	True	528	64903916	Warlock	DS1h_292	2.0	arena	Steady Shot	Paladin	opponent	loss	8
+24	True	528	64903916	Warlock	EX1_048	4.0	arena	Spellbreaker	Paladin	me	loss	8
+25	True	528	64903916	Warlock	CS2_012	4.0	arena	Swipe	Paladin	me	loss	8
+26	True	528	64903916	Warlock	DS1h_292	2.0	arena	Steady Shot	Paladin	opponent	loss	9
+27	True	528	64903916	Warlock	PART_001	1.0	arena	Armor Plating	Paladin	opponent	loss	9
+28	True	528	64903916	Warlock	CS2_125	3.0	arena	Ironfur Grizzly	Paladin	me	loss	9
+29	True	528	64903916	Warlock	OG_249	4.0	arena	Infested Tauren	Paladin	me	loss	9
+30	True	528	64903916	Warlock	GVG_103	2.0	arena	Micro Machine	Paladin	me	loss	9
+31	True	528	64903916	Warlock	AT_063	7.0	arena	Acidmaw	Paladin	opponent	loss	10
+32	True	528	64903916	Warlock	EX1_538	3.0	arena	Unleash the Hounds	Paladin	opponent	loss	10
+33	True	528	64903916	Warlock	EX1_164	5.0	arena	Nourish	Paladin	me	loss	10
+34	True	528	64903916	Warlock	OG_047	3.0	arena	Feral Rage	Paladin	me	loss	10
+0	True	477	64903304	Warlock	CS2_146	1.0	arena	Southsea Deckhand	Paladin	me	win	1
+1	True	477	64903304	Warlock	CS2_101	2.0	arena	Reinforce	Paladin	opponent	win	2
+2	True	477	64903304	Warlock	GAME_005		arena	The Coin	Paladin	me	win	2
+3	True	477	64903304	Warlock	BRM_010	3.0	arena	Druid of the Flame	Paladin	me	win	2
+4	True	477	64903304	Warlock	OG_310	3.0	arena	Steward of Darkshire	Paladin	opponent	win	3
+5	True	477	64903304	Warlock	FP1_027	3.0	arena	Stoneskin Gargoyle	Paladin	me	win	3
+6	True	477	64903304	Warlock	AT_074	3.0	arena	Seal of Champions	Paladin	opponent	win	4
+7	True	477	64903304	Warlock	OG_249	4.0	arena	Infested Tauren	Paladin	me	win	4
+8	True	477	64903304	Warlock	EX1_360	1.0	arena	Humility	Paladin	opponent	win	5
+9	True	477	64903304	Warlock	GVG_098	3.0	arena	Gnomeregan Infantry	Paladin	opponent	win	5
+10	True	477	64903304	Warlock	CS2_012	4.0	arena	Swipe	Paladin	me	win	5
+11	True	477	64903304	Warlock	GVG_098	3.0	arena	Gnomeregan Infantry	Paladin	opponent	win	6
+12	True	477	64903304	Warlock	CS2_101	2.0	arena	Reinforce	Paladin	opponent	win	6
+13	True	477	64903304	Warlock	CS2_017	2.0	arena	Shapeshift	Paladin	me	win	6
+14	True	477	64903304	Warlock	CFM_715	4.0	arena	Jade Spirit	Paladin	me	win	6
+15	True	477	64903304	Warlock	OG_200	5.0	arena	Validated Doomsayer	Paladin	opponent	win	7
+16	True	477	64903304	Warlock	CS2_101	2.0	arena	Reinforce	Paladin	opponent	win	7
+17	True	477	64903304	Warlock	EX1_165	5.0	arena	Druid of the Claw	Paladin	me	win	7
+18	True	477	64903304	Warlock	CFM_614	1.0	arena	Mark of the Lotus	Paladin	me	win	7
+19	True	477	64903304	Warlock	CFM_321	2.0	arena	Grimestreet Informant	Paladin	opponent	win	8
+20	True	477	64903304	Warlock	NEW1_022	4.0	arena	Dread Corsair	Paladin	opponent	win	8
+21	True	477	64903304	Warlock	CFM_752	2.0	arena	Stolen Goods	Paladin	opponent	win	8
+0	True	285	64902779	Warlock	CS2_146	1.0	arena	Southsea Deckhand	Paladin	me	win	1
+1	True	285	64902779	Warlock	CS2_101	2.0	arena	Reinforce	Paladin	opponent	win	2
+2	True	285	64902779	Warlock	CS2_017	2.0	arena	Shapeshift	Paladin	me	win	2
+3	True	285	64902779	Warlock	AT_087	3.0	arena	Argent Horserider	Paladin	opponent	win	3
+4	True	285	64902779	Warlock	CS2_017	2.0	arena	Shapeshift	Paladin	me	win	3
+5	True	285	64902779	Warlock	GVG_071	4.0	arena	Lost Tallstrider	Paladin	opponent	win	4
+6	True	285	64902779	Warlock	CFM_713	3.0	arena	Jade Blossom	Paladin	me	win	4
+7	True	285	64902779	Warlock	OG_273	5.0	arena	Stand Against Darkness	Paladin	opponent	win	5
+8	True	285	64902779	Warlock	CS2_012	4.0	arena	Swipe	Paladin	me	win	5
+9	True	285	64902779	Warlock	FP1_003	2.0	arena	Echoing Ooze	Paladin	me	win	5
+10	True	285	64902779	Warlock	CFM_753	2.0	arena	Grimestreet Outfitter	Paladin	opponent	win	6
+11	True	285	64902779	Warlock	EX1_556	3.0	arena	Harvest Golem	Paladin	opponent	win	6
+12	True	285	64902779	Warlock	CFM_715	4.0	arena	Jade Spirit	Paladin	me	win	6
+13	True	285	64902779	Warlock	CS2_125	3.0	arena	Ironfur Grizzly	Paladin	me	win	6
+14	True	285	64902779	Warlock	CFM_639	5.0	arena	Grimestreet Enforcer	Paladin	opponent	win	7
+15	True	285	64902779	Warlock	CS2_101	2.0	arena	Reinforce	Paladin	opponent	win	7
+16	True	285	64902779	Warlock	GAME_005		arena	The Coin	Paladin	me	win	7
+17	True	285	64902779	Warlock	FP1_002	2.0	arena	Haunted Creeper	Paladin	me	win	7
+18	True	285	64902779	Warlock	OG_195	7.0	arena	Wisps of the Old Gods	Paladin	me	win	7
+19	True	285	64902779	Warlock	KAR_077	4.0	arena	Silvermoon Portal	Paladin	opponent	win	8
+20	True	285	64902779	Warlock	CS2_101	2.0	arena	Reinforce	Paladin	opponent	win	8
+0	False	421	64902479	Warlock	FP1_003	2.0	arena	Echoing Ooze	Paladin	me	loss	2
+1	False	421	64902479	Warlock	GAME_005		arena	The Coin	Paladin	opponent	loss	2
+2	False	421	64902479	Warlock	EX1_390	3.0	arena	Tauren Warrior	Paladin	opponent	loss	2
+3	False	421	64902479	Warlock	GVG_098	3.0	arena	Gnomeregan Infantry	Paladin	me	loss	3
+4	False	421	64902479	Warlock	EX1_289	3.0	arena	Ice Barrier	Paladin	opponent	loss	3
+5	False	421	64902479	Warlock	EX1_169	0.0	arena	Innervate	Paladin	me	loss	4
+6	False	421	64902479	Warlock	CFM_025	6.0	arena	Wind-up Burglebot	Paladin	me	loss	4
+7	False	421	64902479	Warlock	CS2_024	2.0	arena	Frostbolt	Paladin	opponent	loss	4
+8	False	421	64902479	Warlock	CS2_034	2.0	arena	Fireblast	Paladin	opponent	loss	4
+9	False	421	64902479	Warlock	CFM_715	4.0	arena	Jade Spirit	Paladin	me	loss	5
+10	False	421	64902479	Warlock	EX1_275	4.0	arena	Cone of Cold	Paladin	opponent	loss	5
+11	False	421	64902479	Warlock	CFM_713	3.0	arena	Jade Blossom	Paladin	me	loss	6
+12	False	421	64902479	Warlock	CS2_125	3.0	arena	Ironfur Grizzly	Paladin	me	loss	6
+13	False	421	64902479	Warlock	CS2_028	6.0	arena	Blizzard	Paladin	opponent	loss	6
+14	False	421	64902479	Warlock	FP1_002	2.0	arena	Haunted Creeper	Paladin	me	loss	7
+15	False	421	64902479	Warlock	CS2_017	2.0	arena	Shapeshift	Paladin	me	loss	7
+16	False	421	64902479	Warlock	EX1_277	1.0	arena	Arcane Missiles	Paladin	opponent	loss	7
+17	False	421	64902479	Warlock	FP1_008	5.0	arena	Spectral Knight	Paladin	opponent	loss	7
+18	False	421	64902479	Warlock	OG_195	7.0	arena	Wisps of the Old Gods	Paladin	me	loss	8
+19	False	421	64902479	Warlock	CFM_614	1.0	arena	Mark of the Lotus	Paladin	me	loss	8
+20	False	421	64902479	Warlock	GVG_079	8.0	arena	Force-Tank MAX	Paladin	opponent	loss	8
+21	False	421	64902479	Warlock	CS2_017	2.0	arena	Shapeshift	Paladin	me	loss	9
+22	False	421	64902479	Warlock	EX1_608	2.0	arena	Sorcerer's Apprentice	Paladin	opponent	loss	9
+23	False	421	64902479	Warlock	CS2_026	3.0	arena	Frost Nova	Paladin	opponent	loss	9
+24	False	421	64902479	Warlock	CFM_671	5.0	arena	Cryomancer	Paladin	opponent	loss	9
+0	False	590	64766683	Warlock	CS2_235	1.0	casual	Northshire Cleric	Paladin	me	win	1
+1	False	590	64766683	Warlock	GAME_005		casual	The Coin	Paladin	opponent	win	1
+2	False	590	64766683	Warlock	EX1_082	2.0	casual	Mad Bomber	Paladin	opponent	win	1
+3	False	590	64766683	Warlock	CS1h_001	2.0	casual	Lesser Heal	Paladin	me	win	2
+4	False	590	64766683	Warlock	LOE_046	2.0	casual	Huge Toad	Paladin	opponent	win	2
+5	False	590	64766683	Warlock	CS1_129	1.0	casual	Inner Fire	Paladin	me	win	3
+6	False	590	64766683	Warlock	CFM_603	1.0	casual	Potion of Madness	Paladin	me	win	3
+7	False	590	64766683	Warlock	CS2_003	1.0	casual	Mind Vision	Paladin	me	win	3
+8	False	590	64766683	Warlock	CS2_083b	2.0	casual	Dagger Mastery	Paladin	opponent	win	3
+9	False	590	64766683	Warlock	CS2_074	1.0	casual	Deadly Poison	Paladin	opponent	win	3
+10	False	590	64766683	Warlock	OG_286	3.0	casual	Twilight Elder	Paladin	me	win	4
+11	False	590	64766683	Warlock	LOE_012	4.0	casual	Tomb Pillager	Paladin	opponent	win	4
+12	False	590	64766683	Warlock	OG_234	5.0	casual	Darkshire Alchemist	Paladin	me	win	5
+13	False	590	64766683	Warlock	EX1_096	2.0	casual	Loot Hoarder	Paladin	opponent	win	5
+14	False	590	64766683	Warlock	EX1_134	3.0	casual	SI:7 Agent	Paladin	opponent	win	5
+15	False	590	64766683	Warlock	OG_334	4.0	casual	Hooded Acolyte	Paladin	me	win	6
+16	False	590	64766683	Warlock	CS1h_001	2.0	casual	Lesser Heal	Paladin	me	win	6
+17	False	590	64766683	Warlock	LOE_012	4.0	casual	Tomb Pillager	Paladin	opponent	win	6
+18	False	590	64766683	Warlock	EX1_124	2.0	casual	Eviscerate	Paladin	opponent	win	6
+19	False	590	64766683	Warlock	CS2_004	1.0	casual	Power Word: Shield	Paladin	me	win	7
+20	False	590	64766683	Warlock	EX1_134	3.0	casual	SI:7 Agent	Paladin	me	win	7
+21	False	590	64766683	Warlock	CS1h_001	2.0	casual	Lesser Heal	Paladin	me	win	7
+22	False	590	64766683	Warlock	EX1_284	5.0	casual	Azure Drake	Paladin	opponent	win	7
+23	False	590	64766683	Warlock	GAME_005		casual	The Coin	Paladin	opponent	win	7
+24	False	590	64766683	Warlock	GAME_005		casual	The Coin	Paladin	opponent	win	7
+25	False	590	64766683	Warlock	OG_249	4.0	casual	Infested Tauren	Paladin	opponent	win	7
+26	False	590	64766683	Warlock	OG_255	8.0	casual	Doomcaller	Paladin	me	win	8
+27	False	590	64766683	Warlock	EX1_096	2.0	casual	Loot Hoarder	Paladin	opponent	win	8
+28	False	590	64766683	Warlock	EX1_134	3.0	casual	SI:7 Agent	Paladin	opponent	win	8
+29	False	590	64766683	Warlock	CS2_083b	2.0	casual	Dagger Mastery	Paladin	opponent	win	8
+30	False	590	64766683	Warlock	EX1_339	3.0	casual	Thoughtsteal	Paladin	me	win	9
+31	False	590	64766683	Warlock	OG_162	3.0	casual	Disciple of C'Thun	Paladin	me	win	9
+32	False	590	64766683	Warlock	EX1_124	2.0	casual	Eviscerate	Paladin	me	win	9
+33	False	590	64766683	Warlock	EX1_032	6.0	casual	Sunwalker	Paladin	opponent	win	9
+34	False	590	64766683	Warlock	CS2_117	3.0	casual	Earthen Ring Farseer	Paladin	opponent	win	9
+35	False	590	64766683	Warlock	CS1_113	10.0	casual	Mind Control	Paladin	me	win	10
+36	False	590	64766683	Warlock	EX1_284	5.0	casual	Azure Drake	Paladin	opponent	win	10
+37	False	590	64766683	Warlock	OG_330	2.0	casual	Undercity Huckster	Paladin	opponent	win	10
+38	False	590	64766683	Warlock	EX1_556	3.0	casual	Harvest Golem	Paladin	opponent	win	10
+39	False	590	64766683	Warlock	EX1_339	3.0	casual	Thoughtsteal	Paladin	me	win	11
+40	False	590	64766683	Warlock	CS2_072	0.0	casual	Backstab	Paladin	me	win	11
+41	False	590	64766683	Warlock	OG_291	5.0	casual	Shadowcaster	Paladin	me	win	11
+42	False	590	64766683	Warlock	OG_255	8.0	casual	Doomcaller	Paladin	me	win	11
+43	False	590	64766683	Warlock	BRM_030	9.0	casual	Nefarian	Paladin	opponent	win	11
+44	False	590	64766683	Warlock	CS2_072	0.0	casual	Backstab	Paladin	opponent	win	11
+45	False	590	64766683	Warlock	EX1_622	3.0	casual	Shadow Word: Death	Paladin	me	win	12
+46	False	590	64766683	Warlock	OG_286	3.0	casual	Twilight Elder	Paladin	me	win	12
+0	True	735	64765859	Warlock	EX1_405	1.0	casual	Shieldbearer	Paladin	opponent	win	1
+1	True	735	64765859	Warlock	CS2_235	1.0	casual	Northshire Cleric	Paladin	me	win	1
+2	True	735	64765859	Warlock	CS2_017	2.0	casual	Shapeshift	Paladin	opponent	win	2
+3	True	735	64765859	Warlock	CS2_236	2.0	casual	Divine Spirit	Paladin	me	win	2
+4	True	735	64765859	Warlock	GAME_005		casual	The Coin	Paladin	me	win	2
+5	True	735	64765859	Warlock	CS1_129	1.0	casual	Inner Fire	Paladin	me	win	2
+6	True	735	64765859	Warlock	EX1_169	0.0	casual	Innervate	Paladin	opponent	win	3
+7	True	735	64765859	Warlock	EX1_166	4.0	casual	Keeper of the Grove	Paladin	opponent	win	3
+8	True	735	64765859	Warlock	CFM_602	1.0	casual	Jade Idol	Paladin	opponent	win	3
+9	True	735	64765859	Warlock	OG_162	3.0	casual	Disciple of C'Thun	Paladin	me	win	3
+10	True	735	64765859	Warlock	CFM_713	3.0	casual	Jade Blossom	Paladin	opponent	win	4
+11	True	735	64765859	Warlock	OG_281	2.0	casual	Beckoner of Evil	Paladin	me	win	4
+12	True	735	64765859	Warlock	CS1h_001	2.0	casual	Lesser Heal	Paladin	me	win	4
+13	True	735	64765859	Warlock	CFM_715	4.0	casual	Jade Spirit	Paladin	opponent	win	5
+14	True	735	64765859	Warlock	CS2_017	2.0	casual	Shapeshift	Paladin	opponent	win	5
+15	True	735	64765859	Warlock	CS2_003	1.0	casual	Mind Vision	Paladin	me	win	5
+16	True	735	64765859	Warlock	CFM_603	1.0	casual	Potion of Madness	Paladin	me	win	5
+17	True	735	64765859	Warlock	CS1h_001	2.0	casual	Lesser Heal	Paladin	me	win	5
+18	True	735	64765859	Warlock	OG_313	3.0	casual	Addled Grizzly	Paladin	opponent	win	6
+19	True	735	64765859	Warlock	CFM_715	4.0	casual	Jade Spirit	Paladin	opponent	win	6
+20	True	735	64765859	Warlock	OG_313	3.0	casual	Addled Grizzly	Paladin	me	win	6
+21	True	735	64765859	Warlock	OG_286	3.0	casual	Twilight Elder	Paladin	me	win	6
+22	True	735	64765859	Warlock	CS2_017	2.0	casual	Shapeshift	Paladin	opponent	win	7
+23	True	735	64765859	Warlock	EX1_557	2.0	casual	Nat Pagle	Paladin	opponent	win	7
+24	True	735	64765859	Warlock	CS1_112	5.0	casual	Holy Nova	Paladin	me	win	7
+25	True	735	64765859	Warlock	BRM_030	9.0	casual	Nefarian	Paladin	opponent	win	8
+26	True	735	64765859	Warlock	CS2_004	1.0	casual	Power Word: Shield	Paladin	me	win	8
+27	True	735	64765859	Warlock	EX1_622	3.0	casual	Shadow Word: Death	Paladin	me	win	8
+28	True	735	64765859	Warlock	CS1h_001	2.0	casual	Lesser Heal	Paladin	me	win	8
+29	True	735	64765859	Warlock	OG_281	2.0	casual	Beckoner of Evil	Paladin	me	win	8
+30	True	735	64765859	Warlock	CFM_653	3.0	casual	Hired Gun	Paladin	opponent	win	9
+31	True	735	64765859	Warlock	CFM_602	1.0	casual	Jade Idol	Paladin	opponent	win	9
+32	True	735	64765859	Warlock	CS2_234	2.0	casual	Shadow Word: Pain	Paladin	opponent	win	9
+33	True	735	64765859	Warlock	CS2_017	2.0	casual	Shapeshift	Paladin	opponent	win	9
+34	True	735	64765859	Warlock	OG_255	8.0	casual	Doomcaller	Paladin	me	win	9
+35	True	735	64765859	Warlock	OG_290	6.0	casual	Ancient Harbinger	Paladin	opponent	win	10
+36	True	735	64765859	Warlock	CS2_017	2.0	casual	Shapeshift	Paladin	opponent	win	10
+37	True	735	64765859	Warlock	CS1h_001	2.0	casual	Lesser Heal	Paladin	me	win	10
+38	True	735	64765859	Warlock	BRM_031	8.0	casual	Chromaggus	Paladin	opponent	win	11
+39	True	735	64765859	Warlock	CS2_017	2.0	casual	Shapeshift	Paladin	opponent	win	11
+40	True	735	64765859	Warlock	EX1_622	3.0	casual	Shadow Word: Death	Paladin	me	win	11
+41	True	735	64765859	Warlock	OG_162	3.0	casual	Disciple of C'Thun	Paladin	me	win	11
+42	True	735	64765859	Warlock	CS1h_001	2.0	casual	Lesser Heal	Paladin	me	win	11
+43	True	735	64765859	Warlock	EX1_173	6.0	casual	Starfire	Paladin	opponent	win	12
+44	True	735	64765859	Warlock	CS2_012	4.0	casual	Swipe	Paladin	opponent	win	12
+45	True	735	64765859	Warlock	OG_280	10.0	casual	C'Thun	Paladin	me	win	12
+0	True	446	64764893	Warlock	CFM_602	1.0	casual	Jade Idol	Paladin	opponent	loss	1
+1	True	446	64764893	Warlock	CS2_003	1.0	casual	Mind Vision	Paladin	me	loss	1
+2	True	446	64764893	Warlock	AT_037	1.0	casual	Living Roots	Paladin	opponent	loss	2
+3	True	446	64764893	Warlock	GAME_005		casual	The Coin	Paladin	me	loss	2
+4	True	446	64764893	Warlock	OG_162	3.0	casual	Disciple of C'Thun	Paladin	me	loss	2
+5	True	446	64764893	Warlock	EX1_154	2.0	casual	Wrath	Paladin	opponent	loss	3
+6	True	446	64764893	Warlock	OG_286	3.0	casual	Twilight Elder	Paladin	me	loss	3
+7	True	446	64764893	Warlock	CFM_715	4.0	casual	Jade Spirit	Paladin	opponent	loss	4
+8	True	446	64764893	Warlock	CS2_235	1.0	casual	Northshire Cleric	Paladin	me	loss	4
+9	True	446	64764893	Warlock	CS1h_001	2.0	casual	Lesser Heal	Paladin	me	loss	4
+10	True	446	64764893	Warlock	CFM_715	4.0	casual	Jade Spirit	Paladin	opponent	loss	5
+11	True	446	64764893	Warlock	CS2_236	2.0	casual	Divine Spirit	Paladin	me	loss	5
+12	True	446	64764893	Warlock	OG_281	2.0	casual	Beckoner of Evil	Paladin	me	loss	5
+13	True	446	64764893	Warlock	CFM_343	6.0	casual	Jade Behemoth	Paladin	opponent	loss	6
+14	True	446	64764893	Warlock	CS1h_001	2.0	casual	Lesser Heal	Paladin	me	loss	6
+15	True	446	64764893	Warlock	CS1_129	1.0	casual	Inner Fire	Paladin	me	loss	6
+16	True	446	64764893	Warlock	EX1_339	3.0	casual	Thoughtsteal	Paladin	me	loss	6
+17	True	446	64764893	Warlock	CFM_713	3.0	casual	Jade Blossom	Paladin	opponent	loss	7
+18	True	446	64764893	Warlock	CS2_012	4.0	casual	Swipe	Paladin	opponent	loss	7
+19	True	446	64764893	Warlock	CS2_012	4.0	casual	Swipe	Paladin	me	loss	7
+20	True	446	64764893	Warlock	EX1_622	3.0	casual	Shadow Word: Death	Paladin	me	loss	7
+21	True	446	64764893	Warlock	OG_044	4.0	casual	Fandral Staghelm	Paladin	opponent	loss	8
+22	True	446	64764893	Warlock	EX1_164	5.0	casual	Nourish	Paladin	opponent	loss	8
+23	True	446	64764893	Warlock	CS2_013	2.0	casual	Wild Growth	Paladin	opponent	loss	8
+24	True	446	64764893	Warlock	CS2_013t	0.0	casual	Excess Mana	Paladin	opponent	loss	8
+25	True	446	64764893	Warlock	CFM_603	1.0	casual	Potion of Madness	Paladin	me	loss	8
+26	True	446	64764893	Warlock	OG_334	4.0	casual	Hooded Acolyte	Paladin	me	loss	8
+27	True	446	64764893	Warlock	CS1h_001	2.0	casual	Lesser Heal	Paladin	me	loss	8
+28	True	446	64764893	Warlock	CFM_602	1.0	casual	Jade Idol	Paladin	me	loss	8
+29	True	446	64764893	Warlock	EX1_165	5.0	casual	Druid of the Claw	Paladin	opponent	loss	9
+30	True	446	64764893	Warlock	EX1_165	5.0	casual	Druid of the Claw	Paladin	opponent	loss	9
+31	True	446	64764893	Warlock	OG_234	5.0	casual	Darkshire Alchemist	Paladin	me	loss	9
+32	True	446	64764893	Warlock	CS2_236	2.0	casual	Divine Spirit	Paladin	me	loss	9
+33	True	446	64764893	Warlock	CS1h_001	2.0	casual	Lesser Heal	Paladin	me	loss	9
+34	True	446	64764893	Warlock	CS2_012	4.0	casual	Swipe	Paladin	opponent	loss	10
+35	True	446	64764893	Warlock	OG_047	3.0	casual	Feral Rage	Paladin	opponent	loss	10
+36	True	446	64764893	Warlock	CS2_017	2.0	casual	Shapeshift	Paladin	opponent	loss	10
+0	False	534	64764116	Warlock	CS2_235	1.0	casual	Northshire Cleric	Paladin	me	loss	1
+1	False	534	64764116	Warlock	NEW1_012	1.0	casual	Mana Wyrm	Paladin	opponent	loss	1
+2	False	534	64764116	Warlock	CS1h_001	2.0	casual	Lesser Heal	Paladin	me	loss	2
+3	False	534	64764116	Warlock	GAME_005		casual	The Coin	Paladin	opponent	loss	2
+4	False	534	64764116	Warlock	BRM_002	3.0	casual	Flamewaker	Paladin	opponent	loss	2
+5	False	534	64764116	Warlock	CS1h_001	2.0	casual	Lesser Heal	Paladin	me	loss	3
+6	False	534	64764116	Warlock	CS2_003	1.0	casual	Mind Vision	Paladin	me	loss	3
+7	False	534	64764116	Warlock	CS2_023	3.0	casual	Arcane Intellect	Paladin	opponent	loss	3
+8	False	534	64764116	Warlock	CFM_603	1.0	casual	Potion of Madness	Paladin	me	loss	4
+9	False	534	64764116	Warlock	OG_286	3.0	casual	Twilight Elder	Paladin	me	loss	4
+10	False	534	64764116	Warlock	CS2_029	4.0	casual	Fireball	Paladin	opponent	loss	4
+11	False	534	64764116	Warlock	OG_286	3.0	casual	Twilight Elder	Paladin	me	loss	5
+12	False	534	64764116	Warlock	CS2_235	1.0	casual	Northshire Cleric	Paladin	me	loss	5
+13	False	534	64764116	Warlock	EX1_608	2.0	casual	Sorcerer's Apprentice	Paladin	opponent	loss	5
+14	False	534	64764116	Warlock	CS2_029	4.0	casual	Fireball	Paladin	opponent	loss	5
+15	False	534	64764116	Warlock	EX1_584	4.0	casual	Ancient Mage	Paladin	me	loss	6
+16	False	534	64764116	Warlock	CS2_004	1.0	casual	Power Word: Shield	Paladin	me	loss	6
+17	False	534	64764116	Warlock	CS2_155	6.0	casual	Archmage	Paladin	opponent	loss	6
+18	False	534	64764116	Warlock	EX1_339	3.0	casual	Thoughtsteal	Paladin	me	loss	7
+19	False	534	64764116	Warlock	CS2_033	4.0	casual	Water Elemental	Paladin	me	loss	7
+20	False	534	64764116	Warlock	EX1_284	5.0	casual	Azure Drake	Paladin	opponent	loss	7
+21	False	534	64764116	Warlock	CS2_024	2.0	casual	Frostbolt	Paladin	opponent	loss	7
+22	False	534	64764116	Warlock	KAR_076	7.0	casual	Firelands Portal	Paladin	me	loss	8
+23	False	534	64764116	Warlock	EX1_584	4.0	casual	Ancient Mage	Paladin	opponent	loss	8
+24	False	534	64764116	Warlock	CS2_024	2.0	casual	Frostbolt	Paladin	opponent	loss	8
+25	False	534	64764116	Warlock	CS2_034	2.0	casual	Fireblast	Paladin	opponent	loss	8
+26	False	534	64764116	Warlock	CS2_004	1.0	casual	Power Word: Shield	Paladin	me	loss	9
+27	False	534	64764116	Warlock	CS2_236	2.0	casual	Divine Spirit	Paladin	me	loss	9
+28	False	534	64764116	Warlock	EX1_621	0.0	casual	Circle of Healing	Paladin	me	loss	9
+29	False	534	64764116	Warlock	OG_334	4.0	casual	Hooded Acolyte	Paladin	me	loss	9
+0	False	420	64621539	Warlock	CFM_602	1.0	ranked	Jade Idol	Paladin	me	win	1
+1	False	420	64621539	Warlock	CS2_017	2.0	ranked	Shapeshift	Paladin	me	win	2
+2	False	420	64621539	Warlock	EX1_096	2.0	ranked	Loot Hoarder	Paladin	opponent	win	2
+3	False	420	64621539	Warlock	CS2_017	2.0	ranked	Shapeshift	Paladin	me	win	3
+4	False	420	64621539	Warlock	CFM_602	1.0	ranked	Jade Idol	Paladin	me	win	3
+5	False	420	64621539	Warlock	EX1_294	3.0	ranked	Mirror Entity	Paladin	opponent	win	3
+6	False	420	64621539	Warlock	CS2_017	2.0	ranked	Shapeshift	Paladin	me	win	4
+7	False	420	64621539	Warlock	EX1_160	2.0	ranked	Power of the Wild	Paladin	me	win	4
+8	False	420	64621539	Warlock	LOE_079	4.0	ranked	Elise Starseeker	Paladin	opponent	win	4
+9	False	420	64621539	Warlock	CFM_713	3.0	ranked	Jade Blossom	Paladin	me	win	5
+10	False	420	64621539	Warlock	EX1_154	2.0	ranked	Wrath	Paladin	me	win	5
+11	False	420	64621539	Warlock	OG_090	5.0	ranked	Cabalist's Tome	Paladin	opponent	win	5
+12	False	420	64621539	Warlock	CFM_343	6.0	ranked	Jade Behemoth	Paladin	me	win	6
+13	False	420	64621539	Warlock	BRM_028	6.0	ranked	Emperor Thaurissan	Paladin	opponent	win	6
+14	False	420	64621539	Warlock	EX1_173	6.0	ranked	Starfire	Paladin	me	win	7
+15	False	420	64621539	Warlock	CS2_017	2.0	ranked	Shapeshift	Paladin	me	win	7
+16	False	420	64621539	Warlock	KAR_076	7.0	ranked	Firelands Portal	Paladin	opponent	win	7
+17	False	420	64621539	Warlock	AT_004	1.0	ranked	Arcane Blast	Paladin	opponent	win	7
+18	False	420	64621539	Warlock	CFM_713	3.0	ranked	Jade Blossom	Paladin	me	win	8
+19	False	420	64621539	Warlock	CFM_715	4.0	ranked	Jade Spirit	Paladin	me	win	8
+20	False	420	64621539	Warlock	EX1_160	2.0	ranked	Power of the Wild	Paladin	me	win	8
+21	False	420	64621539	Warlock	EX1_298	8.0	ranked	Ragnaros the Firelord	Paladin	opponent	win	8
+22	False	420	64621539	Warlock	CS2_232	8.0	ranked	Ironbark Protector	Paladin	me	win	9
+23	False	420	64621539	Warlock	CS2_017	2.0	ranked	Shapeshift	Paladin	me	win	9
+24	False	420	64621539	Warlock	CS2_032	7.0	ranked	Flamestrike	Paladin	opponent	win	9
+25	False	420	64621539	Warlock	CS2_034	2.0	ranked	Fireblast	Paladin	opponent	win	9
+26	False	420	64621539	Warlock	EX1_165	5.0	ranked	Druid of the Claw	Paladin	me	win	10
+27	False	420	64621539	Warlock	AT_037	1.0	ranked	Living Roots	Paladin	me	win	10
+28	False	420	64621539	Warlock	CS2_017	2.0	ranked	Shapeshift	Paladin	me	win	10
+0	True	584	64621085	Warlock	NEW1_012	1.0	ranked	Mana Wyrm	Paladin	opponent	loss	1
+1	True	584	64621085	Warlock	EX1_169	0.0	ranked	Innervate	Paladin	me	loss	1
+2	True	584	64621085	Warlock	CFM_713	3.0	ranked	Jade Blossom	Paladin	me	loss	1
+3	True	584	64621085	Warlock	CS2_034	2.0	ranked	Fireblast	Paladin	opponent	loss	2
+4	True	584	64621085	Warlock	EX1_160	2.0	ranked	Power of the Wild	Paladin	me	loss	2
+5	True	584	64621085	Warlock	CFM_602	1.0	ranked	Jade Idol	Paladin	me	loss	2
+6	True	584	64621085	Warlock	CS2_023	3.0	ranked	Arcane Intellect	Paladin	opponent	loss	3
+7	True	584	64621085	Warlock	GAME_005		ranked	The Coin	Paladin	me	loss	3
+8	True	584	64621085	Warlock	CFM_852	5.0	ranked	Lotus Agents	Paladin	me	loss	3
+9	True	584	64621085	Warlock	CS2_033	4.0	ranked	Water Elemental	Paladin	opponent	loss	4
+10	True	584	64621085	Warlock	AT_037	1.0	ranked	Living Roots	Paladin	me	loss	4
+11	True	584	64621085	Warlock	CFM_061	4.0	ranked	Jinyu Waterspeaker	Paladin	me	loss	4
+12	True	584	64621085	Warlock	EX1_608	2.0	ranked	Sorcerer's Apprentice	Paladin	opponent	loss	5
+13	True	584	64621085	Warlock	CS2_029	4.0	ranked	Fireball	Paladin	opponent	loss	5
+14	True	584	64621085	Warlock	EX1_164	5.0	ranked	Nourish	Paladin	me	loss	5
+15	True	584	64621085	Warlock	OG_090	5.0	ranked	Cabalist's Tome	Paladin	opponent	loss	6
+16	True	584	64621085	Warlock	EX1_289	3.0	ranked	Ice Barrier	Paladin	opponent	loss	6
+17	True	584	64621085	Warlock	CFM_852	5.0	ranked	Lotus Agents	Paladin	me	loss	6
+18	True	584	64621085	Warlock	AT_037	1.0	ranked	Living Roots	Paladin	me	loss	6
+19	True	584	64621085	Warlock	EX1_012	2.0	ranked	Bloodmage Thalnos	Paladin	opponent	loss	7
+20	True	584	64621085	Warlock	EX1_277	1.0	ranked	Arcane Missiles	Paladin	opponent	loss	7
+21	True	584	64621085	Warlock	CS2_034	2.0	ranked	Fireblast	Paladin	opponent	loss	7
+22	True	584	64621085	Warlock	CFM_713	3.0	ranked	Jade Blossom	Paladin	me	loss	7
+23	True	584	64621085	Warlock	CS2_017	2.0	ranked	Shapeshift	Paladin	me	loss	7
+24	True	584	64621085	Warlock	EX1_258	3.0	ranked	Unbound Elemental	Paladin	me	loss	7
+25	True	584	64621085	Warlock	KAR_076	7.0	ranked	Firelands Portal	Paladin	opponent	loss	8
+26	True	584	64621085	Warlock	EX1_277	1.0	ranked	Arcane Missiles	Paladin	opponent	loss	8
+27	True	584	64621085	Warlock	CFM_602	1.0	ranked	Jade Idol	Paladin	me	loss	8
+28	True	584	64621085	Warlock	CFM_811	5.0	ranked	Lunar Visions	Paladin	me	loss	8
+29	True	584	64621085	Warlock	CFM_343	6.0	ranked	Jade Behemoth	Paladin	me	loss	8
+30	True	584	64621085	Warlock	CS2_032	7.0	ranked	Flamestrike	Paladin	opponent	loss	9
+31	True	584	64621085	Warlock	CS2_024	2.0	ranked	Frostbolt	Paladin	opponent	loss	9
+32	True	584	64621085	Warlock	CS2_232	8.0	ranked	Ironbark Protector	Paladin	me	loss	9
+33	True	584	64621085	Warlock	CS2_017	2.0	ranked	Shapeshift	Paladin	me	loss	9
+34	True	584	64621085	Warlock	LOE_003	5.0	ranked	Ethereal Conjurer	Paladin	opponent	loss	10
+35	True	584	64621085	Warlock	CS2_022	4.0	ranked	Polymorph	Paladin	opponent	loss	10
+36	True	584	64621085	Warlock	EX1_165	5.0	ranked	Druid of the Claw	Paladin	me	loss	10
+37	True	584	64621085	Warlock	CS2_012	4.0	ranked	Swipe	Paladin	me	loss	10
+38	True	584	64621085	Warlock	CS2_023	3.0	ranked	Arcane Intellect	Paladin	opponent	loss	11
+39	True	584	64621085	Warlock	NEW1_012	1.0	ranked	Mana Wyrm	Paladin	opponent	loss	11
+40	True	584	64621085	Warlock	CS2_029	4.0	ranked	Fireball	Paladin	opponent	loss	11
+41	True	584	64621085	Warlock	CS2_034	2.0	ranked	Fireblast	Paladin	opponent	loss	11
+0	False	502	64564323	Warlock	CS2_056	2.0	ranked	Life Tap	Paladin	me	win	2
+1	False	502	64564323	Warlock	GAME_005		ranked	The Coin	Paladin	opponent	win	2
+2	False	502	64564323	Warlock	CFM_755	3.0	ranked	Grimestreet Pawnbroker	Paladin	opponent	win	2
+3	False	502	64564323	Warlock	EX1_596	2.0	ranked	Demonfire	Paladin	me	win	3
+4	False	502	64564323	Warlock	EX1_302	1.0	ranked	Mortal Coil	Paladin	me	win	3
+5	False	502	64564323	Warlock	CFM_755	3.0	ranked	Grimestreet Pawnbroker	Paladin	opponent	win	3
+6	False	502	64564323	Warlock	CS2_057	3.0	ranked	Shadow Bolt	Paladin	me	win	4
+7	False	502	64564323	Warlock	NEW1_011	4.0	ranked	Kor'kron Elite	Paladin	opponent	win	4
+8	False	502	64564323	Warlock	CFM_668	5.0	ranked	Doppelgangster	Paladin	me	win	5
+9	False	502	64564323	Warlock	CS2_106	2.0	ranked	Fiery War Axe	Paladin	opponent	win	5
+10	False	502	64564323	Warlock	CS2_102	2.0	ranked	Armor Up!	Paladin	opponent	win	5
+11	False	502	64564323	Warlock	NEW1_025	1.0	ranked	Bloodsail Corsair	Paladin	me	win	6
+12	False	502	64564323	Warlock	EX1_284	5.0	ranked	Azure Drake	Paladin	me	win	6
+13	False	502	64564323	Warlock	AT_065	3.0	ranked	King's Defender	Paladin	opponent	win	6
+14	False	502	64564323	Warlock	NEW1_018	2.0	ranked	Bloodsail Raider	Paladin	opponent	win	6
+15	False	502	64564323	Warlock	EX1_066	2.0	ranked	Acidic Swamp Ooze	Paladin	me	win	7
+16	False	502	64564323	Warlock	CS2_056	2.0	ranked	Life Tap	Paladin	me	win	7
+17	False	502	64564323	Warlock	CFM_654	2.0	ranked	Friendly Bartender	Paladin	me	win	7
+18	False	502	64564323	Warlock	EX1_603	2.0	ranked	Cruel Taskmaster	Paladin	opponent	win	7
+19	False	502	64564323	Warlock	CS2_104	2.0	ranked	Rampage	Paladin	opponent	win	7
+20	False	502	64564323	Warlock	OG_315	3.0	ranked	Bloodsail Cultist	Paladin	opponent	win	7
+21	False	502	64564323	Warlock	CS2_056	2.0	ranked	Life Tap	Paladin	me	win	8
+22	False	502	64564323	Warlock	LOE_011	6.0	ranked	Reno Jackson	Paladin	me	win	8
+23	False	502	64564323	Warlock	EX1_411	7.0	ranked	Gorehowl	Paladin	opponent	win	8
+24	False	502	64564323	Warlock	NEW1_022	4.0	ranked	Dread Corsair	Paladin	opponent	win	8
+25	False	502	64564323	Warlock	CFM_094	6.0	ranked	Felfire Potion	Paladin	me	win	9
+26	False	502	64564323	Warlock	CS2_102	2.0	ranked	Armor Up!	Paladin	opponent	win	9
+27	False	502	64564323	Warlock	OG_315	3.0	ranked	Bloodsail Cultist	Paladin	opponent	win	9
+28	False	502	64564323	Warlock	EX1_309	6.0	ranked	Siphon Soul	Paladin	me	win	10
+29	False	502	64564323	Warlock	CFM_851	4.0	ranked	Daring Reporter	Paladin	me	win	10
+30	False	502	64564323	Warlock	EX1_392	2.0	ranked	Battle Rage	Paladin	opponent	win	10
+31	False	502	64564323	Warlock	CS2_102	2.0	ranked	Armor Up!	Paladin	opponent	win	10
+32	False	502	64564323	Warlock	NEW1_025	1.0	ranked	Bloodsail Corsair	Paladin	opponent	win	10
+33	False	502	64564323	Warlock	LOE_077	3.0	ranked	Brann Bronzebeard	Paladin	me	win	11
+34	False	502	64564323	Warlock	KAR_114	4.0	ranked	Barnes	Paladin	me	win	11
+35	False	502	64564323	Warlock	CS2_102	2.0	ranked	Armor Up!	Paladin	opponent	win	11
+36	False	502	64564323	Warlock	EX1_298	8.0	ranked	Ragnaros the Firelord	Paladin	me	win	12
+37	False	502	64564323	Warlock	NEW1_023	2.0	ranked	Faerie Dragon	Paladin	me	win	12
+38	False	502	64564323	Warlock	EX1_603	2.0	ranked	Cruel Taskmaster	Paladin	opponent	win	12
+39	False	502	64564323	Warlock	CS2_105	2.0	ranked	Heroic Strike	Paladin	opponent	win	12
+0	True	328	64563280	Warlock	GAME_005		ranked	The Coin	Paladin	me	loss	1
+1	True	328	64563280	Warlock	NEW1_023	2.0	ranked	Faerie Dragon	Paladin	me	loss	1
+2	True	328	64563280	Warlock	DS1h_292	2.0	ranked	Steady Shot	Paladin	opponent	loss	2
+3	True	328	64563280	Warlock	LOE_023	2.0	ranked	Dark Peddler	Paladin	me	loss	2
+4	True	328	64563280	Warlock	OG_325	3.0	ranked	Carrion Grub	Paladin	opponent	loss	3
+5	True	328	64563280	Warlock	KAR_011	2.0	ranked	Pompous Thespian	Paladin	me	loss	3
+6	True	328	64563280	Warlock	CFM_335	4.0	ranked	Dispatch Kodo	Paladin	opponent	loss	4
+7	True	328	64563280	Warlock	CS2_057	3.0	ranked	Shadow Bolt	Paladin	me	loss	4
+8	True	328	64563280	Warlock	NEW1_019	2.0	ranked	Knife Juggler	Paladin	opponent	loss	5
+9	True	328	64563280	Warlock	CS2_172	2.0	ranked	Bloodfen Raptor	Paladin	opponent	loss	5
+10	True	328	64563280	Warlock	CFM_649	3.0	ranked	Kabal Courier	Paladin	me	loss	5
+11	True	328	64563280	Warlock	CS2_056	2.0	ranked	Life Tap	Paladin	me	loss	5
+12	True	328	64563280	Warlock	EX1_534	6.0	ranked	Savannah Highmane	Paladin	opponent	loss	6
+13	True	328	64563280	Warlock	CFM_094	6.0	ranked	Felfire Potion	Paladin	me	loss	6
+14	True	328	64563280	Warlock	NEW1_031	3.0	ranked	Animal Companion	Paladin	opponent	loss	7
+15	True	328	64563280	Warlock	EX1_046	4.0	ranked	Dark Iron Dwarf	Paladin	opponent	loss	7
+16	True	328	64563280	Warlock	EX1_596	2.0	ranked	Demonfire	Paladin	me	loss	7
+17	True	328	64563280	Warlock	EX1_284	5.0	ranked	Azure Drake	Paladin	me	loss	7
+18	True	328	64563280	Warlock	EX1_539	3.0	ranked	Kill Command	Paladin	opponent	loss	8
+0	False	919	64562538		NEW1_023	2.0	ranked	Faerie Dragon		me	win	2
+1	False	919	64562538		CFM_753	2.0	ranked	Grimestreet Outfitter		opponent	win	2
+2	False	919	64562538		KAR_712	3.0	ranked	Violet Illusionist		me	win	3
+3	False	919	64562538		OG_006	1.0	ranked	Vilefin Inquisitor		opponent	win	3
+4	False	919	64562538		KAR_114	4.0	ranked	Barnes		me	win	4
+5	False	919	64562538		GAME_005		ranked	The Coin		opponent	win	4
+6	False	919	64562538		OG_156	2.0	ranked	Bilefin Tidehunter		opponent	win	4
+7	False	919	64562538		CS2_122	3.0	ranked	Raid Leader		opponent	win	4
+8	False	919	64562538		CS2_056	2.0	ranked	Life Tap		me	win	5
+9	False	919	64562538		EX1_302	1.0	ranked	Mortal Coil		me	win	5
+10	False	919	64562538		NEW1_025	1.0	ranked	Bloodsail Corsair		me	win	5
+11	False	919	64562538		CS2_093	4.0	ranked	Consecration		opponent	win	5
+12	False	919	64562538		CS2_056	2.0	ranked	Life Tap		me	win	6
+13	False	919	64562538		CFM_621	4.0	ranked	Kazakus		me	win	6
+14	False	919	64562538		CFM_905	3.0	ranked	Small-Time Recruits		opponent	win	6
+15	False	919	64562538		EX1_509	1.0	ranked	Murloc Tidecaller		opponent	win	6
+16	False	919	64562538		EX1_509	1.0	ranked	Murloc Tidecaller		opponent	win	6
+17	False	919	64562538		EX1_508	1.0	ranked	Grimscale Oracle		opponent	win	6
+18	False	919	64562538		CS2_062	4.0	ranked	Hellfire		me	win	7
+19	False	919	64562538		CS2_056	2.0	ranked	Life Tap		me	win	7
+20	False	919	64562538		CS2_065	1.0	ranked	Voidwalker		me	win	7
+21	False	919	64562538		EX1_249	7.0	ranked	Baron Geddon		opponent	win	7
+22	False	919	64562538		CFM_608	4.0	ranked	Blastcrystal Potion		me	win	8
+23	False	919	64562538		EX1_596	2.0	ranked	Demonfire		me	win	8
+24	False	919	64562538		CS2_056	2.0	ranked	Life Tap		me	win	8
+25	False	919	64562538		CFM_851	4.0	ranked	Daring Reporter		opponent	win	8
+26	False	919	64562538		EX1_382	3.0	ranked	Aldor Peacekeeper		opponent	win	8
+27	False	919	64562538		CS2_057	3.0	ranked	Shadow Bolt		me	win	9
+28	False	919	64562538		CFM_654	2.0	ranked	Friendly Bartender		me	win	9
+29	False	919	64562538		CS2_056	2.0	ranked	Life Tap		me	win	9
+30	False	919	64562538		AT_076	4.0	ranked	Murloc Knight		opponent	win	9
+31	False	919	64562538		EX1_103	3.0	ranked	Coldlight Seer		opponent	win	9
+32	False	919	64562538		EX1_312	8.0	ranked	Twisting Nether		me	win	10
+33	False	919	64562538		LOE_026	10.0	ranked	Anyfin Can Happen		opponent	win	10
+34	False	919	64562538		CFM_751	7.0	ranked	Abyssal Enforcer		me	win	11
+35	False	919	64562538		LOE_023	2.0	ranked	Dark Peddler		me	win	11
+36	False	919	64562538		EX1_319	1.0	ranked	Flame Imp		me	win	11
+37	False	919	64562538		CS2_093	4.0	ranked	Consecration		opponent	win	11
+38	False	919	64562538		CS2_173	2.0	ranked	Bluegill Warrior		opponent	win	11
+39	False	919	64562538		EX1_309	6.0	ranked	Siphon Soul		me	win	12
+40	False	919	64562538		CFM_649	3.0	ranked	Kabal Courier		me	win	12
+41	False	919	64562538		EX1_354	8.0	ranked	Lay on Hands		opponent	win	12
+42	False	919	64562538		EX1_619	2.0	ranked	Equality		opponent	win	12
+43	False	919	64562538		EX1_298	8.0	ranked	Ragnaros the Firelord		me	win	13
+44	False	919	64562538		CS2_097	4.0	ranked	Truesilver Champion		opponent	win	13
+45	False	919	64562538		CFM_647	2.0	ranked	Blowgill Sniper		opponent	win	13
+46	False	919	64562538		CS2_173	2.0	ranked	Bluegill Warrior		opponent	win	13
+47	False	919	64562538		EX1_506	2.0	ranked	Murloc Tidehunter		opponent	win	13
+48	False	919	64562538		CS2_056	2.0	ranked	Life Tap		me	win	14
+49	False	919	64562538		LOE_011	6.0	ranked	Reno Jackson		me	win	14
+50	False	919	64562538		EX1_066	2.0	ranked	Acidic Swamp Ooze		me	win	14
+51	False	919	64562538		OG_223	1.0	ranked	Divine Strength		opponent	win	14
+52	False	919	64562538		EX1_046	4.0	ranked	Dark Iron Dwarf		me	win	15
+53	False	919	64562538		CFM_851	4.0	ranked	Daring Reporter		me	win	15
+54	False	919	64562538		KAR_011	2.0	ranked	Pompous Thespian		me	win	15
