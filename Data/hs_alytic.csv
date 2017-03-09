@@ -1,0 +1,309 @@
+	player	turn	id	mana	name	duration	coin	gameid	mode	result	rank
+0	me	2	CS2_056	2.0	Life Tap	502	False	64564323	ranked	win	18
+1	opponent	2	GAME_005		The Coin	502	False	64564323	ranked	win	18
+2	opponent	2	CFM_755	3.0	Grimestreet Pawnbroker	502	False	64564323	ranked	win	18
+3	me	3	EX1_596	2.0	Demonfire	502	False	64564323	ranked	win	18
+4	me	3	EX1_302	1.0	Mortal Coil	502	False	64564323	ranked	win	18
+5	opponent	3	CFM_755	3.0	Grimestreet Pawnbroker	502	False	64564323	ranked	win	18
+6	me	4	CS2_057	3.0	Shadow Bolt	502	False	64564323	ranked	win	18
+7	opponent	4	NEW1_011	4.0	Kor'kron Elite	502	False	64564323	ranked	win	18
+8	me	5	CFM_668	5.0	Doppelgangster	502	False	64564323	ranked	win	18
+9	opponent	5	CS2_106	2.0	Fiery War Axe	502	False	64564323	ranked	win	18
+10	opponent	5	CS2_102	2.0	Armor Up!	502	False	64564323	ranked	win	18
+11	me	6	NEW1_025	1.0	Bloodsail Corsair	502	False	64564323	ranked	win	18
+12	me	6	EX1_284	5.0	Azure Drake	502	False	64564323	ranked	win	18
+13	opponent	6	AT_065	3.0	King's Defender	502	False	64564323	ranked	win	18
+14	opponent	6	NEW1_018	2.0	Bloodsail Raider	502	False	64564323	ranked	win	18
+15	me	7	EX1_066	2.0	Acidic Swamp Ooze	502	False	64564323	ranked	win	18
+16	me	7	CS2_056	2.0	Life Tap	502	False	64564323	ranked	win	18
+17	me	7	CFM_654	2.0	Friendly Bartender	502	False	64564323	ranked	win	18
+18	opponent	7	EX1_603	2.0	Cruel Taskmaster	502	False	64564323	ranked	win	18
+19	opponent	7	CS2_104	2.0	Rampage	502	False	64564323	ranked	win	18
+20	opponent	7	OG_315	3.0	Bloodsail Cultist	502	False	64564323	ranked	win	18
+21	me	8	CS2_056	2.0	Life Tap	502	False	64564323	ranked	win	18
+22	me	8	LOE_011	6.0	Reno Jackson	502	False	64564323	ranked	win	18
+23	opponent	8	EX1_411	7.0	Gorehowl	502	False	64564323	ranked	win	18
+24	opponent	8	NEW1_022	4.0	Dread Corsair	502	False	64564323	ranked	win	18
+25	me	9	CFM_094	6.0	Felfire Potion	502	False	64564323	ranked	win	18
+26	opponent	9	CS2_102	2.0	Armor Up!	502	False	64564323	ranked	win	18
+27	opponent	9	OG_315	3.0	Bloodsail Cultist	502	False	64564323	ranked	win	18
+28	me	10	EX1_309	6.0	Siphon Soul	502	False	64564323	ranked	win	18
+29	me	10	CFM_851	4.0	Daring Reporter	502	False	64564323	ranked	win	18
+30	opponent	10	EX1_392	2.0	Battle Rage	502	False	64564323	ranked	win	18
+31	opponent	10	CS2_102	2.0	Armor Up!	502	False	64564323	ranked	win	18
+32	opponent	10	NEW1_025	1.0	Bloodsail Corsair	502	False	64564323	ranked	win	18
+33	me	11	LOE_077	3.0	Brann Bronzebeard	502	False	64564323	ranked	win	18
+34	me	11	KAR_114	4.0	Barnes	502	False	64564323	ranked	win	18
+35	opponent	11	CS2_102	2.0	Armor Up!	502	False	64564323	ranked	win	18
+36	me	12	EX1_298	8.0	Ragnaros the Firelord	502	False	64564323	ranked	win	18
+37	me	12	NEW1_023	2.0	Faerie Dragon	502	False	64564323	ranked	win	18
+38	opponent	12	EX1_603	2.0	Cruel Taskmaster	502	False	64564323	ranked	win	18
+39	opponent	12	CS2_105	2.0	Heroic Strike	502	False	64564323	ranked	win	18
+0	me	1	GAME_005		The Coin	328	True	64563280	ranked	loss	18
+1	me	1	NEW1_023	2.0	Faerie Dragon	328	True	64563280	ranked	loss	18
+2	opponent	2	DS1h_292	2.0	Steady Shot	328	True	64563280	ranked	loss	18
+3	me	2	LOE_023	2.0	Dark Peddler	328	True	64563280	ranked	loss	18
+4	opponent	3	OG_325	3.0	Carrion Grub	328	True	64563280	ranked	loss	18
+5	me	3	KAR_011	2.0	Pompous Thespian	328	True	64563280	ranked	loss	18
+6	opponent	4	CFM_335	4.0	Dispatch Kodo	328	True	64563280	ranked	loss	18
+7	me	4	CS2_057	3.0	Shadow Bolt	328	True	64563280	ranked	loss	18
+8	opponent	5	NEW1_019	2.0	Knife Juggler	328	True	64563280	ranked	loss	18
+9	opponent	5	CS2_172	2.0	Bloodfen Raptor	328	True	64563280	ranked	loss	18
+10	me	5	CFM_649	3.0	Kabal Courier	328	True	64563280	ranked	loss	18
+11	me	5	CS2_056	2.0	Life Tap	328	True	64563280	ranked	loss	18
+12	opponent	6	EX1_534	6.0	Savannah Highmane	328	True	64563280	ranked	loss	18
+13	me	6	CFM_094	6.0	Felfire Potion	328	True	64563280	ranked	loss	18
+14	opponent	7	NEW1_031	3.0	Animal Companion	328	True	64563280	ranked	loss	18
+15	opponent	7	EX1_046	4.0	Dark Iron Dwarf	328	True	64563280	ranked	loss	18
+16	me	7	EX1_596	2.0	Demonfire	328	True	64563280	ranked	loss	18
+17	me	7	EX1_284	5.0	Azure Drake	328	True	64563280	ranked	loss	18
+18	opponent	8	EX1_539	3.0	Kill Command	328	True	64563280	ranked	loss	18
+0	me	2	NEW1_023	2.0	Faerie Dragon	919	False	64562538	ranked	win	
+1	opponent	2	CFM_753	2.0	Grimestreet Outfitter	919	False	64562538	ranked	win	
+2	me	3	KAR_712	3.0	Violet Illusionist	919	False	64562538	ranked	win	
+3	opponent	3	OG_006	1.0	Vilefin Inquisitor	919	False	64562538	ranked	win	
+4	me	4	KAR_114	4.0	Barnes	919	False	64562538	ranked	win	
+5	opponent	4	GAME_005		The Coin	919	False	64562538	ranked	win	
+6	opponent	4	OG_156	2.0	Bilefin Tidehunter	919	False	64562538	ranked	win	
+7	opponent	4	CS2_122	3.0	Raid Leader	919	False	64562538	ranked	win	
+8	me	5	CS2_056	2.0	Life Tap	919	False	64562538	ranked	win	
+9	me	5	EX1_302	1.0	Mortal Coil	919	False	64562538	ranked	win	
+10	me	5	NEW1_025	1.0	Bloodsail Corsair	919	False	64562538	ranked	win	
+11	opponent	5	CS2_093	4.0	Consecration	919	False	64562538	ranked	win	
+12	me	6	CS2_056	2.0	Life Tap	919	False	64562538	ranked	win	
+13	me	6	CFM_621	4.0	Kazakus	919	False	64562538	ranked	win	
+14	opponent	6	CFM_905	3.0	Small-Time Recruits	919	False	64562538	ranked	win	
+15	opponent	6	EX1_509	1.0	Murloc Tidecaller	919	False	64562538	ranked	win	
+16	opponent	6	EX1_509	1.0	Murloc Tidecaller	919	False	64562538	ranked	win	
+17	opponent	6	EX1_508	1.0	Grimscale Oracle	919	False	64562538	ranked	win	
+18	me	7	CS2_062	4.0	Hellfire	919	False	64562538	ranked	win	
+19	me	7	CS2_056	2.0	Life Tap	919	False	64562538	ranked	win	
+20	me	7	CS2_065	1.0	Voidwalker	919	False	64562538	ranked	win	
+21	opponent	7	EX1_249	7.0	Baron Geddon	919	False	64562538	ranked	win	
+22	me	8	CFM_608	4.0	Blastcrystal Potion	919	False	64562538	ranked	win	
+23	me	8	EX1_596	2.0	Demonfire	919	False	64562538	ranked	win	
+24	me	8	CS2_056	2.0	Life Tap	919	False	64562538	ranked	win	
+25	opponent	8	CFM_851	4.0	Daring Reporter	919	False	64562538	ranked	win	
+26	opponent	8	EX1_382	3.0	Aldor Peacekeeper	919	False	64562538	ranked	win	
+27	me	9	CS2_057	3.0	Shadow Bolt	919	False	64562538	ranked	win	
+28	me	9	CFM_654	2.0	Friendly Bartender	919	False	64562538	ranked	win	
+29	me	9	CS2_056	2.0	Life Tap	919	False	64562538	ranked	win	
+30	opponent	9	AT_076	4.0	Murloc Knight	919	False	64562538	ranked	win	
+31	opponent	9	EX1_103	3.0	Coldlight Seer	919	False	64562538	ranked	win	
+32	me	10	EX1_312	8.0	Twisting Nether	919	False	64562538	ranked	win	
+33	opponent	10	LOE_026	10.0	Anyfin Can Happen	919	False	64562538	ranked	win	
+34	me	11	CFM_751	7.0	Abyssal Enforcer	919	False	64562538	ranked	win	
+35	me	11	LOE_023	2.0	Dark Peddler	919	False	64562538	ranked	win	
+36	me	11	EX1_319	1.0	Flame Imp	919	False	64562538	ranked	win	
+37	opponent	11	CS2_093	4.0	Consecration	919	False	64562538	ranked	win	
+38	opponent	11	CS2_173	2.0	Bluegill Warrior	919	False	64562538	ranked	win	
+39	me	12	EX1_309	6.0	Siphon Soul	919	False	64562538	ranked	win	
+40	me	12	CFM_649	3.0	Kabal Courier	919	False	64562538	ranked	win	
+41	opponent	12	EX1_354	8.0	Lay on Hands	919	False	64562538	ranked	win	
+42	opponent	12	EX1_619	2.0	Equality	919	False	64562538	ranked	win	
+43	me	13	EX1_298	8.0	Ragnaros the Firelord	919	False	64562538	ranked	win	
+44	opponent	13	CS2_097	4.0	Truesilver Champion	919	False	64562538	ranked	win	
+45	opponent	13	CFM_647	2.0	Blowgill Sniper	919	False	64562538	ranked	win	
+46	opponent	13	CS2_173	2.0	Bluegill Warrior	919	False	64562538	ranked	win	
+47	opponent	13	EX1_506	2.0	Murloc Tidehunter	919	False	64562538	ranked	win	
+48	me	14	CS2_056	2.0	Life Tap	919	False	64562538	ranked	win	
+49	me	14	LOE_011	6.0	Reno Jackson	919	False	64562538	ranked	win	
+50	me	14	EX1_066	2.0	Acidic Swamp Ooze	919	False	64562538	ranked	win	
+51	opponent	14	OG_223	1.0	Divine Strength	919	False	64562538	ranked	win	
+52	me	15	EX1_046	4.0	Dark Iron Dwarf	919	False	64562538	ranked	win	
+53	me	15	CFM_851	4.0	Daring Reporter	919	False	64562538	ranked	win	
+54	me	15	KAR_011	2.0	Pompous Thespian	919	False	64562538	ranked	win	
+0	me	1	EX1_319	1.0	Flame Imp	841	False	64487048	ranked	win	
+1	me	2	KAR_011	2.0	Pompous Thespian	841	False	64487048	ranked	win	
+2	opponent	2	EX1_058	2.0	Sunfury Protector	841	False	64487048	ranked	win	
+3	me	3	CFM_654	2.0	Friendly Bartender	841	False	64487048	ranked	win	
+4	opponent	3	CFM_649	3.0	Kabal Courier	841	False	64487048	ranked	win	
+5	me	4	EX1_046	4.0	Dark Iron Dwarf	841	False	64487048	ranked	win	
+6	opponent	4	CFM_790	2.0	Dirty Rat	841	False	64487048	ranked	win	
+7	me	4	EX1_323	9.0	Lord Jaraxxus	841	False	64487048	ranked	win	
+8	opponent	4	GAME_005		The Coin	841	False	64487048	ranked	win	
+9	opponent	4	CFM_652	5.0	Second-Rate Bruiser	841	False	64487048	ranked	win	
+10	me	5	EX1_302	1.0	Mortal Coil	841	False	64487048	ranked	win	
+11	me	5	CS2_056	2.0	Life Tap	841	False	64487048	ranked	win	
+12	me	5	LOE_023	2.0	Dark Peddler	841	False	64487048	ranked	win	
+13	opponent	5	EX1_043	4.0	Twilight Drake	841	False	64487048	ranked	win	
+14	me	6	EX1_319	1.0	Flame Imp	841	False	64487048	ranked	win	
+15	me	6	EX1_284	5.0	Azure Drake	841	False	64487048	ranked	win	
+16	opponent	6	NEW1_021	2.0	Doomsayer	841	False	64487048	ranked	win	
+17	opponent	6	tt_010	3.0	Spellbender	841	False	64487048	ranked	win	
+18	me	7	EX1_309	6.0	Siphon Soul	841	False	64487048	ranked	win	
+19	opponent	7	LOE_011	6.0	Reno Jackson	841	False	64487048	ranked	win	
+20	me	8	EX1_298	8.0	Ragnaros the Firelord	841	False	64487048	ranked	win	
+21	opponent	8	CS2_056	2.0	Life Tap	841	False	64487048	ranked	win	
+22	opponent	8	EX1_309	6.0	Siphon Soul	841	False	64487048	ranked	win	
+23	me	9	CFM_851	4.0	Daring Reporter	841	False	64487048	ranked	win	
+24	me	9	KAR_712	3.0	Violet Illusionist	841	False	64487048	ranked	win	
+25	me	9	CS2_056	2.0	Life Tap	841	False	64487048	ranked	win	
+26	opponent	9	CS2_057	3.0	Shadow Bolt	841	False	64487048	ranked	win	
+27	opponent	9	CS2_056	2.0	Life Tap	841	False	64487048	ranked	win	
+28	opponent	9	BRM_006	3.0	Imp Gang Boss	841	False	64487048	ranked	win	
+29	me	10	CFM_621	4.0	Kazakus	841	False	64487048	ranked	win	
+30	me	10	KAR_114	4.0	Barnes	841	False	64487048	ranked	win	
+31	opponent	10	CFM_751	7.0	Abyssal Enforcer	841	False	64487048	ranked	win	
+32	opponent	10	CS2_056	2.0	Life Tap	841	False	64487048	ranked	win	
+33	me	11	CFM_621t15	10.0	Kazakus Potion	841	False	64487048	ranked	win	
+34	opponent	11	EX1_085	3.0	Mind Control Tech	841	False	64487048	ranked	win	
+35	opponent	11	EX1_283	6.0	Frost Elemental	841	False	64487048	ranked	win	
+36	opponent	11	CS2_063	1.0	Corruption	841	False	64487048	ranked	win	
+37	me	12	CFM_751	7.0	Abyssal Enforcer	841	False	64487048	ranked	win	
+38	me	12	CS2_065	1.0	Voidwalker	841	False	64487048	ranked	win	
+39	opponent	12	CFM_621	4.0	Kazakus	841	False	64487048	ranked	win	
+40	opponent	12	CFM_621t14	5.0	Kazakus Potion	841	False	64487048	ranked	win	
+41	opponent	12	EX1_302	1.0	Mortal Coil	841	False	64487048	ranked	win	
+42	me	13	CFM_649	3.0	Kabal Courier	841	False	64487048	ranked	win	
+43	me	13	CS2_056	2.0	Life Tap	841	False	64487048	ranked	win	
+44	me	13	EX1_066	2.0	Acidic Swamp Ooze	841	False	64487048	ranked	win	
+45	me	13	CFM_606	2.0	Mana Geode	841	False	64487048	ranked	win	
+46	opponent	13	AT_111	4.0	Refreshment Vendor	841	False	64487048	ranked	win	
+47	opponent	13	CFM_120	1.0	Mistress of Mixtures	841	False	64487048	ranked	win	
+48	opponent	13	EX1_093	4.0	Defender of Argus	841	False	64487048	ranked	win	
+49	me	14	CS2_056	2.0	Life Tap	841	False	64487048	ranked	win	
+50	me	14	CFM_608	4.0	Blastcrystal Potion	841	False	64487048	ranked	win	
+51	me	14	EX1_596	2.0	Demonfire	841	False	64487048	ranked	win	
+52	opponent	14	CS2_056	2.0	Life Tap	841	False	64487048	ranked	win	
+53	opponent	14	EX1_312	8.0	Twisting Nether	841	False	64487048	ranked	win	
+54	me	15	LOE_077	3.0	Brann Bronzebeard	841	False	64487048	ranked	win	
+55	me	15	CFM_668	5.0	Doppelgangster	841	False	64487048	ranked	win	
+56	me	15	CS2_056	2.0	Life Tap	841	False	64487048	ranked	win	
+57	opponent	15	CS2_062	4.0	Hellfire	841	False	64487048	ranked	win	
+58	opponent	15	EX1_048	4.0	Spellbreaker	841	False	64487048	ranked	win	
+59	opponent	15	CS2_065	1.0	Voidwalker	841	False	64487048	ranked	win	
+60	me	16	CFM_094	6.0	Felfire Potion	841	False	64487048	ranked	win	
+0	opponent	1	CFM_315	1.0	Alleycat	437	True	64486213	ranked	win	
+1	me	1	GAME_005		The Coin	437	True	64486213	ranked	win	
+2	me	1	NEW1_023	2.0	Faerie Dragon	437	True	64486213	ranked	win	
+3	opponent	2	CS2_172	2.0	Bloodfen Raptor	437	True	64486213	ranked	win	
+4	me	2	EX1_066	2.0	Acidic Swamp Ooze	437	True	64486213	ranked	win	
+5	opponent	3	CS2_125	3.0	Ironfur Grizzly	437	True	64486213	ranked	win	
+6	me	3	CFM_649	3.0	Kabal Courier	437	True	64486213	ranked	win	
+7	opponent	4	CS2_120	2.0	River Crocolisk	437	True	64486213	ranked	win	
+8	opponent	4	CS2_120	2.0	River Crocolisk	437	True	64486213	ranked	win	
+9	me	4	CFM_603	1.0	Potion of Madness	437	True	64486213	ranked	win	
+10	me	4	KAR_712	3.0	Violet Illusionist	437	True	64486213	ranked	win	
+11	opponent	5	CS2_237	5.0	Starving Buzzard	437	True	64486213	ranked	win	
+12	me	5	LOE_023	2.0	Dark Peddler	437	True	64486213	ranked	win	
+13	me	5	EX1_302	1.0	Mortal Coil	437	True	64486213	ranked	win	
+14	me	5	CS2_056	2.0	Life Tap	437	True	64486213	ranked	win	
+15	opponent	6	DS1h_292	2.0	Steady Shot	437	True	64486213	ranked	win	
+16	opponent	6	CS2_125	3.0	Ironfur Grizzly	437	True	64486213	ranked	win	
+17	opponent	6	CS2_171	1.0	Stonetusk Boar	437	True	64486213	ranked	win	
+18	me	6	EX1_046	4.0	Dark Iron Dwarf	437	True	64486213	ranked	win	
+19	me	6	CFM_654	2.0	Friendly Bartender	437	True	64486213	ranked	win	
+20	opponent	7	DS1_070	4.0	Houndmaster	437	True	64486213	ranked	win	
+21	opponent	7	DS1h_292	2.0	Steady Shot	437	True	64486213	ranked	win	
+22	me	7	LOE_077	3.0	Brann Bronzebeard	437	True	64486213	ranked	win	
+23	me	7	KAR_114	4.0	Barnes	437	True	64486213	ranked	win	
+24	opponent	8	AT_102	7.0	Captured Jormungar	437	True	64486213	ranked	win	
+25	me	8	CFM_608	4.0	Blastcrystal Potion	437	True	64486213	ranked	win	
+26	me	8	CFM_851	4.0	Daring Reporter	437	True	64486213	ranked	win	
+27	opponent	9	CS2_169	1.0	Young Dragonhawk	437	True	64486213	ranked	win	
+28	opponent	9	DS1_070	4.0	Houndmaster	437	True	64486213	ranked	win	
+29	opponent	9	DS1h_292	2.0	Steady Shot	437	True	64486213	ranked	win	
+30	me	9	EX1_298	8.0	Ragnaros the Firelord	437	True	64486213	ranked	win	
+0	me	2	NEW1_023	2.0	Faerie Dragon	1215	False	64485761	ranked	loss	
+1	opponent	2	AT_052	2.0	Totem Golem	1215	False	64485761	ranked	loss	
+2	me	3	KAR_011	2.0	Pompous Thespian	1215	False	64485761	ranked	loss	
+3	opponent	3	GAME_005		The Coin	1215	False	64485761	ranked	loss	
+4	opponent	3	EX1_259	3.0	Lightning Storm	1215	False	64485761	ranked	loss	
+5	me	4	CS2_065	1.0	Voidwalker	1215	False	64485761	ranked	loss	
+6	me	4	EX1_596	2.0	Demonfire	1215	False	64485761	ranked	loss	
+7	opponent	4	CS2_049	2.0	Totemic Call	1215	False	64485761	ranked	loss	
+8	me	5	CFM_668	5.0	Doppelgangster	1215	False	64485761	ranked	loss	
+9	opponent	5	CS2_049	2.0	Totemic Call	1215	False	64485761	ranked	loss	
+10	opponent	5	EX1_575	3.0	Mana Tide Totem	1215	False	64485761	ranked	loss	
+11	me	6	EX1_284	5.0	Azure Drake	1215	False	64485761	ranked	loss	
+12	opponent	6	CFM_707	4.0	Jade Lightning	1215	False	64485761	ranked	loss	
+13	opponent	6	OG_028	6.0	Thing from Below	1215	False	64485761	ranked	loss	
+14	me	7	CFM_751	7.0	Abyssal Enforcer	1215	False	64485761	ranked	loss	
+15	opponent	7	CS2_049	2.0	Totemic Call	1215	False	64485761	ranked	loss	
+16	me	8	EX1_298	8.0	Ragnaros the Firelord	1215	False	64485761	ranked	loss	
+17	opponent	8	CFM_696	2.0	Devolve	1215	False	64485761	ranked	loss	
+18	opponent	8	CS2_049	2.0	Totemic Call	1215	False	64485761	ranked	loss	
+19	opponent	8	CFM_707	4.0	Jade Lightning	1215	False	64485761	ranked	loss	
+20	me	9	KAR_712	3.0	Violet Illusionist	1215	False	64485761	ranked	loss	
+21	me	9	CS2_056	2.0	Life Tap	1215	False	64485761	ranked	loss	
+22	me	9	CFM_654	2.0	Friendly Bartender	1215	False	64485761	ranked	loss	
+23	me	9	EX1_319	1.0	Flame Imp	1215	False	64485761	ranked	loss	
+24	opponent	9	EX1_259	3.0	Lightning Storm	1215	False	64485761	ranked	loss	
+25	opponent	9	CFM_061	4.0	Jinyu Waterspeaker	1215	False	64485761	ranked	loss	
+26	opponent	9	OG_028	6.0	Thing from Below	1215	False	64485761	ranked	loss	
+27	opponent	9	CS2_049	2.0	Totemic Call	1215	False	64485761	ranked	loss	
+28	me	10	EX1_312	8.0	Twisting Nether	1215	False	64485761	ranked	loss	
+29	me	10	CS2_056	2.0	Life Tap	1215	False	64485761	ranked	loss	
+30	opponent	10	CFM_061	4.0	Jinyu Waterspeaker	1215	False	64485761	ranked	loss	
+31	opponent	10	CS2_049	2.0	Totemic Call	1215	False	64485761	ranked	loss	
+32	me	11	CFM_621	4.0	Kazakus	1215	False	64485761	ranked	loss	
+33	me	11	EX1_016	6.0	Sylvanas Windrunner	1215	False	64485761	ranked	loss	
+34	opponent	11	EX1_246	3.0	Hex	1215	False	64485761	ranked	loss	
+35	opponent	11	CS2_049	2.0	Totemic Call	1215	False	64485761	ranked	loss	
+36	me	12	CFM_621t15	10.0	Kazakus Potion	1215	False	64485761	ranked	loss	
+37	opponent	12	CS2_049	2.0	Totemic Call	1215	False	64485761	ranked	loss	
+38	opponent	12	KAR_073	2.0	Maelstrom Portal	1215	False	64485761	ranked	loss	
+39	opponent	12	EX1_238	1.0	Lightning Bolt	1215	False	64485761	ranked	loss	
+40	me	13	CS2_056	2.0	Life Tap	1215	False	64485761	ranked	loss	
+41	me	13	KAR_114	4.0	Barnes	1215	False	64485761	ranked	loss	
+42	me	13	CFM_608	4.0	Blastcrystal Potion	1215	False	64485761	ranked	loss	
+43	opponent	13	CFM_902	6.0	Aya Blackpaw	1215	False	64485761	ranked	loss	
+44	opponent	13	CS2_049	2.0	Totemic Call	1215	False	64485761	ranked	loss	
+45	me	14	CS2_057	3.0	Shadow Bolt	1215	False	64485761	ranked	loss	
+46	me	14	CS2_056	2.0	Life Tap	1215	False	64485761	ranked	loss	
+47	me	14	EX1_302	1.0	Mortal Coil	1215	False	64485761	ranked	loss	
+48	me	14	NEW1_025	1.0	Bloodsail Corsair	1215	False	64485761	ranked	loss	
+49	opponent	14	AT_052	2.0	Totem Golem	1215	False	64485761	ranked	loss	
+50	opponent	14	CFM_717	2.0	Jade Claws	1215	False	64485761	ranked	loss	
+51	opponent	14	CS2_049	2.0	Totemic Call	1215	False	64485761	ranked	loss	
+52	me	15	LOE_077	3.0	Brann Bronzebeard	1215	False	64485761	ranked	loss	
+53	me	15	LOE_023	2.0	Dark Peddler	1215	False	64485761	ranked	loss	
+54	me	15	AT_105	1.0	Injured Kvaldir	1215	False	64485761	ranked	loss	
+55	me	15	KAR_036	1.0	Arcane Anomaly	1215	False	64485761	ranked	loss	
+56	opponent	15	CS2_049	2.0	Totemic Call	1215	False	64485761	ranked	loss	
+57	me	16	CFM_094	6.0	Felfire Potion	1215	False	64485761	ranked	loss	
+58	me	16	CS2_056	2.0	Life Tap	1215	False	64485761	ranked	loss	
+59	opponent	16	OG_133	10.0	N'Zoth the Corruptor	1215	False	64485761	ranked	loss	
+60	me	17	LOE_011	6.0	Reno Jackson	1215	False	64485761	ranked	loss	
+61	me	17	CFM_851	4.0	Daring Reporter	1215	False	64485761	ranked	loss	
+62	opponent	17	CS2_049	2.0	Totemic Call	1215	False	64485761	ranked	loss	
+63	opponent	17	CFM_715	4.0	Jade Spirit	1215	False	64485761	ranked	loss	
+64	opponent	17	AT_048	3.0	Healing Wave	1215	False	64485761	ranked	loss	
+65	me	18	CS2_062	4.0	Hellfire	1215	False	64485761	ranked	loss	
+66	me	18	CFM_649	3.0	Kabal Courier	1215	False	64485761	ranked	loss	
+67	opponent	18	CFM_715	4.0	Jade Spirit	1215	False	64485761	ranked	loss	
+68	opponent	18	CS2_049	2.0	Totemic Call	1215	False	64485761	ranked	loss	
+69	opponent	18	CFM_717	2.0	Jade Claws	1215	False	64485761	ranked	loss	
+0	me	1	EX1_319	1.0	Flame Imp	630	True	64416190	ranked	loss	
+1	opponent	2	EX1_596	2.0	Demonfire	630	True	64416190	ranked	loss	
+2	me	2	NEW1_023	2.0	Faerie Dragon	630	True	64416190	ranked	loss	
+3	opponent	3	CS2_056	2.0	Life Tap	630	True	64416190	ranked	loss	
+4	me	3	LOE_077	3.0	Brann Bronzebeard	630	True	64416190	ranked	loss	
+5	opponent	4	EX1_007	3.0	Acolyte of Pain	630	True	64416190	ranked	loss	
+6	me	4	CFM_649	3.0	Kabal Courier	630	True	64416190	ranked	loss	
+7	me	4	GAME_005		The Coin	630	True	64416190	ranked	loss	
+8	me	4	LOE_023	2.0	Dark Peddler	630	True	64416190	ranked	loss	
+9	opponent	5	EX1_043	4.0	Twilight Drake	630	True	64416190	ranked	loss	
+10	me	5	OG_083	3.0	Twilight Flamecaller	630	True	64416190	ranked	loss	
+11	me	5	CS2_056	2.0	Life Tap	630	True	64416190	ranked	loss	
+12	opponent	6	EX1_011	1.0	Voodoo Doctor	630	True	64416190	ranked	loss	
+13	opponent	6	EX1_085	3.0	Mind Control Tech	630	True	64416190	ranked	loss	
+14	opponent	6	EX1_096	2.0	Loot Hoarder	630	True	64416190	ranked	loss	
+15	me	6	CS2_028	6.0	Blizzard	630	True	64416190	ranked	loss	
+16	opponent	7	LOE_011	6.0	Reno Jackson	630	True	64416190	ranked	loss	
+17	me	7	CFM_094	6.0	Felfire Potion	630	True	64416190	ranked	loss	
+18	me	7	EX1_302	1.0	Mortal Coil	630	True	64416190	ranked	loss	
+19	opponent	8	BRM_028	6.0	Emperor Thaurissan	630	True	64416190	ranked	loss	
+20	opponent	8	EX1_012	2.0	Bloodmage Thalnos	630	True	64416190	ranked	loss	
+21	me	8	CFM_608	4.0	Blastcrystal Potion	630	True	64416190	ranked	loss	
+22	me	8	CS2_065	1.0	Voidwalker	630	True	64416190	ranked	loss	
+23	me	8	EX1_319	1.0	Flame Imp	630	True	64416190	ranked	loss	
+24	me	8	CS2_056	2.0	Life Tap	630	True	64416190	ranked	loss	
+25	opponent	9	NEW1_041	5.0	Stampeding Kodo	630	True	64416190	ranked	loss	
+26	opponent	9	CFM_621	4.0	Kazakus	630	True	64416190	ranked	loss	
+27	opponent	9	CS2_117	3.0	Earthen Ring Farseer	630	True	64416190	ranked	loss	
+28	me	9	EX1_596	2.0	Demonfire	630	True	64416190	ranked	loss	
+29	me	9	CFM_668	5.0	Doppelgangster	630	True	64416190	ranked	loss	
+30	me	9	NEW1_025	1.0	Bloodsail Corsair	630	True	64416190	ranked	loss	
+31	opponent	10	CFM_621t15	10.0	Kazakus Potion	630	True	64416190	ranked	loss	

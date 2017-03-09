@@ -1,11 +1,21 @@
 import json
 import pandas as pd
+import urllib.request
+
+fp = urllib.request.urlopen("https://trackobot.com/profile/history.json?username=still-gnoll-6604&token=ekojyJx_c68FJpkVfavn")
+mybytes = fp.read()
+
+mystr = mybytes.decode("utf8")
+fp.close()
+
+
+#print(config)
 
 #Read in file
-data = open('Data/pg4.json').read()
+#data = open('Data/pg4.json').read()
 
 #Decode json
-config = json.loads(data)
+config = json.loads(mystr)
 
 #game = config['history'][0]['card_history']
 #game = pd.DataFrame(game)
