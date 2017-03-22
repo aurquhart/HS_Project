@@ -1,513 +1,627 @@
 	coin	duration	gameid	hero	id	mana	mode	name	opponent	player	result	turn
-0	False	644	66521406	Rogue	LOEA10_3	0.0	ranked	Murloc Tinyfin	Rogue	opponent	loss	1
-1	False	644	66521406	Rogue	KAR_011	2.0	ranked	Pompous Thespian	Rogue	me	loss	2
-2	False	644	66521406	Rogue	CS2_173	2.0	ranked	Bluegill Warrior	Rogue	opponent	loss	2
-3	False	644	66521406	Rogue	KAR_712	3.0	ranked	Violet Illusionist	Rogue	me	loss	3
-4	False	644	66521406	Rogue	EX1_507	3.0	ranked	Murloc Warleader	Rogue	opponent	loss	3
-5	False	644	66521406	Rogue	CFM_621	4.0	ranked	Kazakus	Rogue	me	loss	4
-6	False	644	66521406	Rogue	CS2_097	4.0	ranked	Truesilver Champion	Rogue	opponent	loss	4
-7	False	644	66521406	Rogue	CS2_057	3.0	ranked	Shadow Bolt	Rogue	me	loss	5
-8	False	644	66521406	Rogue	CS2_056	2.0	ranked	Life Tap	Rogue	me	loss	5
-9	False	644	66521406	Rogue	EX1_284	5.0	ranked	Azure Drake	Rogue	opponent	loss	5
-10	False	644	66521406	Rogue	CFM_668	5.0	ranked	Doppelgangster	Rogue	me	loss	6
-11	False	644	66521406	Rogue	CS2_093	4.0	ranked	Consecration	Rogue	opponent	loss	6
-12	False	644	66521406	Rogue	CS2_101	2.0	ranked	Reinforce	Rogue	opponent	loss	6
-13	False	644	66521406	Rogue	CFM_751	7.0	ranked	Abyssal Enforcer	Rogue	me	loss	7
-14	False	644	66521406	Rogue	LOE_017	4.0	ranked	Keeper of Uldaman	Rogue	opponent	loss	7
-15	False	644	66521406	Rogue	EX1_507	3.0	ranked	Murloc Warleader	Rogue	opponent	loss	7
-16	False	644	66521406	Rogue	CS2_062	4.0	ranked	Hellfire	Rogue	me	loss	8
-17	False	644	66521406	Rogue	KAR_114	4.0	ranked	Barnes	Rogue	me	loss	8
-18	False	644	66521406	Rogue	KAR_057	6.0	ranked	Ivory Knight	Rogue	opponent	loss	8
-19	False	644	66521406	Rogue	GAME_005		ranked	The Coin	Rogue	opponent	loss	8
-20	False	644	66521406	Rogue	EX1_007	3.0	ranked	Acolyte of Pain	Rogue	opponent	loss	8
-21	False	644	66521406	Rogue	CS2_056	2.0	ranked	Life Tap	Rogue	me	loss	9
-22	False	644	66521406	Rogue	LOE_011	6.0	ranked	Reno Jackson	Rogue	me	loss	9
-23	False	644	66521406	Rogue	CS2_173	2.0	ranked	Bluegill Warrior	Rogue	opponent	loss	9
-24	False	644	66521406	Rogue	CS2_097	4.0	ranked	Truesilver Champion	Rogue	opponent	loss	9
-25	False	644	66521406	Rogue	CS2_101	2.0	ranked	Reinforce	Rogue	opponent	loss	9
-26	False	644	66521406	Rogue	EX1_284	5.0	ranked	Azure Drake	Rogue	me	loss	10
-27	False	644	66521406	Rogue	EX1_302	1.0	ranked	Mortal Coil	Rogue	me	loss	10
-28	False	644	66521406	Rogue	CFM_654	2.0	ranked	Friendly Bartender	Rogue	me	loss	10
-29	False	644	66521406	Rogue	CS2_056	2.0	ranked	Life Tap	Rogue	me	loss	10
-30	False	644	66521406	Rogue	EX1_284	5.0	ranked	Azure Drake	Rogue	opponent	loss	10
-31	False	644	66521406	Rogue	NEW1_020	2.0	ranked	Wild Pyromancer	Rogue	opponent	loss	10
-32	False	644	66521406	Rogue	CS2_101	2.0	ranked	Reinforce	Rogue	opponent	loss	10
-33	False	644	66521406	Rogue	CFM_621t15	10.0	ranked	Kazakus Potion	Rogue	me	loss	11
-34	False	644	66521406	Rogue	NEW1_020	2.0	ranked	Wild Pyromancer	Rogue	opponent	loss	11
-35	False	644	66521406	Rogue	EX1_619	2.0	ranked	Equality	Rogue	opponent	loss	11
-36	False	644	66521406	Rogue	EX1_384	6.0	ranked	Avenging Wrath	Rogue	opponent	loss	11
-37	False	644	66521406	Rogue	EX1_323	9.0	ranked	Lord Jaraxxus	Rogue	me	loss	12
-38	False	644	66521406	Rogue	CS2_065	1.0	ranked	Voidwalker	Rogue	me	loss	12
-39	False	644	66521406	Rogue	LOE_026	10.0	ranked	Anyfin Can Happen	Rogue	opponent	loss	12
-40	False	644	66521406	Rogue	CFM_094	6.0	ranked	Felfire Potion	Rogue	me	loss	13
-41	False	644	66521406	Rogue	EX1_tk33	2.0	ranked	INFERNO!	Rogue	me	loss	13
-42	False	644	66521406	Rogue	CS2_094	4.0	ranked	Hammer of Wrath	Rogue	opponent	loss	13
-43	False	644	66521406	Rogue	CS2_093	4.0	ranked	Consecration	Rogue	opponent	loss	13
-0	False	719	66518317	Rogue	NEW1_025	1.0	ranked	Bloodsail Corsair	Rogue	me	win	1
-1	False	719	66518317	Rogue	CS1_042	1.0	ranked	Goldshire Footman	Rogue	opponent	win	1
-2	False	719	66518317	Rogue	NEW1_023	2.0	ranked	Faerie Dragon	Rogue	me	win	2
-3	False	719	66518317	Rogue	EX1_162	2.0	ranked	Dire Wolf Alpha	Rogue	opponent	win	2
-4	False	719	66518317	Rogue	LOE_077	3.0	ranked	Brann Bronzebeard	Rogue	me	win	3
-5	False	719	66518317	Rogue	OG_281	2.0	ranked	Beckoner of Evil	Rogue	opponent	win	3
-6	False	719	66518317	Rogue	GAME_005		ranked	The Coin	Rogue	opponent	win	3
-7	False	719	66518317	Rogue	CS2_009	2.0	ranked	Mark of the Wild	Rogue	opponent	win	3
-8	False	719	66518317	Rogue	CS2_062	4.0	ranked	Hellfire	Rogue	me	win	4
-9	False	719	66518317	Rogue	CFM_654	2.0	ranked	Friendly Bartender	Rogue	opponent	win	4
-10	False	719	66518317	Rogue	OG_138	6.0	ranked	Nerubian Prophet	Rogue	opponent	win	4
-11	False	719	66518317	Rogue	CFM_851	4.0	ranked	Daring Reporter	Rogue	me	win	5
-12	False	719	66518317	Rogue	NEW1_007	5.0	ranked	Starfall	Rogue	opponent	win	5
-13	False	719	66518317	Rogue	EX1_016	6.0	ranked	Sylvanas Windrunner	Rogue	me	win	6
-14	False	719	66518317	Rogue	OG_321	5.0	ranked	Crazed Worshipper	Rogue	opponent	win	6
-15	False	719	66518317	Rogue	LOE_023	2.0	ranked	Dark Peddler	Rogue	me	win	7
-16	False	719	66518317	Rogue	EX1_596	2.0	ranked	Demonfire	Rogue	me	win	7
-17	False	719	66518317	Rogue	EX1_010	1.0	ranked	Worgen Infiltrator	Rogue	me	win	7
-18	False	719	66518317	Rogue	OG_153	7.0	ranked	Bog Creeper	Rogue	opponent	win	7
-19	False	719	66518317	Rogue	KAR_114	4.0	ranked	Barnes	Rogue	me	win	8
-20	False	719	66518317	Rogue	CFM_608	4.0	ranked	Blastcrystal Potion	Rogue	me	win	8
-21	False	719	66518317	Rogue	CS2_232	8.0	ranked	Ironbark Protector	Rogue	opponent	win	8
-22	False	719	66518317	Rogue	CFM_668	5.0	ranked	Doppelgangster	Rogue	me	win	9
-23	False	719	66518317	Rogue	CS2_012	4.0	ranked	Swipe	Rogue	opponent	win	9
-24	False	719	66518317	Rogue	OG_281	2.0	ranked	Beckoner of Evil	Rogue	opponent	win	9
-25	False	719	66518317	Rogue	CS2_017	2.0	ranked	Shapeshift	Rogue	opponent	win	9
-26	False	719	66518317	Rogue	EX1_323	9.0	ranked	Lord Jaraxxus	Rogue	me	win	10
-27	False	719	66518317	Rogue	CS2_124	3.0	ranked	Wolfrider	Rogue	opponent	win	10
-28	False	719	66518317	Rogue	CS2_017	2.0	ranked	Shapeshift	Rogue	opponent	win	10
-29	False	719	66518317	Rogue	EX1_058	2.0	ranked	Sunfury Protector	Rogue	opponent	win	10
-30	False	719	66518317	Rogue	KAR_011	2.0	ranked	Pompous Thespian	Rogue	me	win	11
-31	False	719	66518317	Rogue	EX1_tk33	2.0	ranked	INFERNO!	Rogue	me	win	11
-32	False	719	66518317	Rogue	EX1_178	7.0	ranked	Ancient of War	Rogue	opponent	win	11
-33	False	719	66518317	Rogue	CS2_017	2.0	ranked	Shapeshift	Rogue	opponent	win	11
-34	False	719	66518317	Rogue	CFM_094	6.0	ranked	Felfire Potion	Rogue	me	win	12
-35	False	719	66518317	Rogue	EX1_tk33	2.0	ranked	INFERNO!	Rogue	me	win	12
-36	False	719	66518317	Rogue	CS2_065	1.0	ranked	Voidwalker	Rogue	me	win	12
-37	False	719	66518317	Rogue	CS2_232	8.0	ranked	Ironbark Protector	Rogue	opponent	win	12
-38	False	719	66518317	Rogue	CS2_017	2.0	ranked	Shapeshift	Rogue	opponent	win	12
-39	False	719	66518317	Rogue	CFM_649	3.0	ranked	Kabal Courier	Rogue	me	win	13
-40	False	719	66518317	Rogue	KAR_076	7.0	ranked	Firelands Portal	Rogue	me	win	13
-41	False	719	66518317	Rogue	EX1_161	1.0	ranked	Naturalize	Rogue	opponent	win	13
-42	False	719	66518317	Rogue	CS2_017	2.0	ranked	Shapeshift	Rogue	opponent	win	13
-43	False	719	66518317	Rogue	LOE_011	6.0	ranked	Reno Jackson	Rogue	me	win	14
-44	False	719	66518317	Rogue	EX1_tk33	2.0	ranked	INFERNO!	Rogue	me	win	14
-0	False	403	66517502	Rogue	EX1_319	1.0	ranked	Flame Imp	Rogue	me	win	1
-1	False	403	66517502	Rogue	CFM_654	2.0	ranked	Friendly Bartender	Rogue	me	win	2
-2	False	403	66517502	Rogue	GAME_005		ranked	The Coin	Rogue	opponent	win	2
-3	False	403	66517502	Rogue	AT_087	3.0	ranked	Argent Horserider	Rogue	opponent	win	2
-4	False	403	66517502	Rogue	CFM_649	3.0	ranked	Kabal Courier	Rogue	me	win	3
-5	False	403	66517502	Rogue	EX1_393	2.0	ranked	Amani Berserker	Rogue	opponent	win	3
-6	False	403	66517502	Rogue	CS2_057	3.0	ranked	Shadow Bolt	Rogue	me	win	4
-7	False	403	66517502	Rogue	CS2_024	2.0	ranked	Frostbolt	Rogue	opponent	win	4
-8	False	403	66517502	Rogue	CS2_034	2.0	ranked	Fireblast	Rogue	opponent	win	4
-9	False	403	66517502	Rogue	KAR_114	4.0	ranked	Barnes	Rogue	me	win	5
-10	False	403	66517502	Rogue	OG_083	3.0	ranked	Twilight Flamecaller	Rogue	opponent	win	5
-11	False	403	66517502	Rogue	CS2_034	2.0	ranked	Fireblast	Rogue	opponent	win	5
-12	False	403	66517502	Rogue	EX1_016	6.0	ranked	Sylvanas Windrunner	Rogue	me	win	6
-13	False	403	66517502	Rogue	BRM_028	6.0	ranked	Emperor Thaurissan	Rogue	opponent	win	6
-14	False	403	66517502	Rogue	CFM_751	7.0	ranked	Abyssal Enforcer	Rogue	me	win	7
-15	False	403	66517502	Rogue	CS2_029	4.0	ranked	Fireball	Rogue	opponent	win	7
-16	False	403	66517502	Rogue	AT_003	2.0	ranked	Fallen Hero	Rogue	opponent	win	7
-17	False	403	66517502	Rogue	CS2_034	2.0	ranked	Fireblast	Rogue	opponent	win	7
-18	False	403	66517502	Rogue	EX1_298	8.0	ranked	Ragnaros the Firelord	Rogue	me	win	8
-19	False	403	66517502	Rogue	CS2_032	7.0	ranked	Flamestrike	Rogue	opponent	win	8
-20	False	403	66517502	Rogue	CS2_034	2.0	ranked	Fireblast	Rogue	opponent	win	8
-21	False	403	66517502	Rogue	CS2_056	2.0	ranked	Life Tap	Rogue	me	win	9
-22	False	403	66517502	Rogue	CFM_621	4.0	ranked	Kazakus	Rogue	me	win	9
-23	False	403	66517502	Rogue	EX1_066	2.0	ranked	Acidic Swamp Ooze	Rogue	me	win	9
-24	False	403	66517502	Rogue	CS2_032	7.0	ranked	Flamestrike	Rogue	opponent	win	9
-25	False	403	66517502	Rogue	AT_087	3.0	ranked	Argent Horserider	Rogue	opponent	win	9
-26	False	403	66517502	Rogue	CFM_094	6.0	ranked	Felfire Potion	Rogue	me	win	10
-27	False	403	66517502	Rogue	CS2_062	4.0	ranked	Hellfire	Rogue	me	win	10
-28	False	403	66517502	Rogue	EX1_032	6.0	ranked	Sunwalker	Rogue	opponent	win	10
-29	False	403	66517502	Rogue	AT_094	2.0	ranked	Flame Juggler	Rogue	opponent	win	10
-30	False	403	66517502	Rogue	CS2_034	2.0	ranked	Fireblast	Rogue	opponent	win	10
-31	False	403	66517502	Rogue	CFM_621t15	10.0	ranked	Kazakus Potion	Rogue	me	win	11
-0	False	337	66387191	Rogue	EX1_008	1.0	ranked	Argent Squire	Rogue	me	win	1
-1	False	337	66387191	Rogue	GAME_005		ranked	The Coin	Rogue	opponent	win	1
-2	False	337	66387191	Rogue	AT_052	2.0	ranked	Totem Golem	Rogue	opponent	win	1
-3	False	337	66387191	Rogue	OG_221	1.0	ranked	Selfless Hero	Rogue	me	win	2
-4	False	337	66387191	Rogue	EX1_008	1.0	ranked	Argent Squire	Rogue	me	win	2
-5	False	337	66387191	Rogue	LOE_076	1.0	ranked	Sir Finley Mrrgglton	Rogue	opponent	win	2
-6	False	337	66387191	Rogue	CFM_305	1.0	ranked	Smuggler's Run	Rogue	me	win	3
-7	False	337	66387191	Rogue	CS2_101	2.0	ranked	Reinforce	Rogue	me	win	3
-8	False	337	66387191	Rogue	EX1_248	3.0	ranked	Feral Spirit	Rogue	opponent	win	3
-9	False	337	66387191	Rogue	LOE_017	4.0	ranked	Keeper of Uldaman	Rogue	me	win	4
-10	False	337	66387191	Rogue	EX1_565	2.0	ranked	Flametongue Totem	Rogue	opponent	win	4
-11	False	337	66387191	Rogue	CS2_094	4.0	ranked	Hammer of Wrath	Rogue	me	win	5
-12	False	337	66387191	Rogue	OG_024	4.0	ranked	Flamewreathed Faceless	Rogue	opponent	win	5
-13	False	337	66387191	Rogue	CFM_753	2.0	ranked	Grimestreet Outfitter	Rogue	me	win	6
-14	False	337	66387191	Rogue	EX1_382	3.0	ranked	Aldor Peacekeeper	Rogue	me	win	6
-15	False	337	66387191	Rogue	OG_024	4.0	ranked	Flamewreathed Faceless	Rogue	opponent	win	6
-16	False	337	66387191	Rogue	EX1_360	1.0	ranked	Humility	Rogue	me	win	7
-17	False	337	66387191	Rogue	CS2_101	2.0	ranked	Reinforce	Rogue	me	win	7
-18	False	337	66387191	Rogue	CFM_707	4.0	ranked	Jade Lightning	Rogue	opponent	win	7
-19	False	337	66387191	Rogue	EX1_008	1.0	ranked	Argent Squire	Rogue	opponent	win	7
-20	False	337	66387191	Rogue	CFM_853	3.0	ranked	Grimestreet Smuggler	Rogue	me	win	8
-21	False	337	66387191	Rogue	CS2_101	2.0	ranked	Reinforce	Rogue	me	win	8
-22	False	337	66387191	Rogue	EX1_567	5.0	ranked	Doomhammer	Rogue	opponent	win	8
-23	False	337	66387191	Rogue	CS2_045	2.0	ranked	Rockbiter Weapon	Rogue	opponent	win	8
-24	False	337	66387191	Rogue	CS2_088	7.0	ranked	Guardian of Kings	Rogue	me	win	9
-25	False	337	66387191	Rogue	CS2_101	2.0	ranked	Reinforce	Rogue	me	win	9
-0	True	579	66386843	Rogue	OG_221	1.0	ranked	Selfless Hero	Rogue	me	loss	1
-1	True	579	66386843	Rogue	CS2_034	2.0	ranked	Fireblast	Rogue	opponent	loss	2
-2	True	579	66386843	Rogue	GAME_005		ranked	The Coin	Rogue	me	loss	2
-3	True	579	66386843	Rogue	CFM_853	3.0	ranked	Grimestreet Smuggler	Rogue	me	loss	2
-4	True	579	66386843	Rogue	CFM_649	3.0	ranked	Kabal Courier	Rogue	opponent	loss	3
-5	True	579	66386843	Rogue	CS2_101	2.0	ranked	Reinforce	Rogue	me	loss	3
-6	True	579	66386843	Rogue	EX1_371	1.0	ranked	Hand of Protection	Rogue	me	loss	3
-7	True	579	66386843	Rogue	CFM_790	2.0	ranked	Dirty Rat	Rogue	opponent	loss	4
-8	True	579	66386843	Rogue	CFM_062	7.0	ranked	Grimestreet Protector	Rogue	me	loss	4
-9	True	579	66386843	Rogue	CFM_120	1.0	ranked	Mistress of Mixtures	Rogue	opponent	loss	4
-10	True	579	66386843	Rogue	CS2_097	4.0	ranked	Truesilver Champion	Rogue	me	loss	4
-11	True	579	66386843	Rogue	CFM_652	5.0	ranked	Second-Rate Bruiser	Rogue	opponent	loss	5
-12	True	579	66386843	Rogue	EX1_066	2.0	ranked	Acidic Swamp Ooze	Rogue	opponent	loss	5
-13	True	579	66386843	Rogue	CS2_093	4.0	ranked	Consecration	Rogue	me	loss	5
-14	True	579	66386843	Rogue	LOE_003	5.0	ranked	Ethereal Conjurer	Rogue	opponent	loss	6
-15	True	579	66386843	Rogue	CFM_753	2.0	ranked	Grimestreet Outfitter	Rogue	me	loss	6
-16	True	579	66386843	Rogue	EX1_382	3.0	ranked	Aldor Peacekeeper	Rogue	me	loss	6
-17	True	579	66386843	Rogue	LOE_011	6.0	ranked	Reno Jackson	Rogue	opponent	loss	7
-18	True	579	66386843	Rogue	CS2_101	2.0	ranked	Reinforce	Rogue	me	loss	7
-19	True	579	66386843	Rogue	AT_001	5.0	ranked	Flame Lance	Rogue	opponent	loss	8
-20	True	579	66386843	Rogue	CS2_034	2.0	ranked	Fireblast	Rogue	opponent	loss	8
-21	True	579	66386843	Rogue	CFM_305	1.0	ranked	Smuggler's Run	Rogue	me	loss	8
-22	True	579	66386843	Rogue	CS2_088	7.0	ranked	Guardian of Kings	Rogue	me	loss	8
-23	True	579	66386843	Rogue	CS2_024	2.0	ranked	Frostbolt	Rogue	opponent	loss	9
-24	True	579	66386843	Rogue	CFM_620	3.0	ranked	Potion of Polymorph	Rogue	opponent	loss	9
-25	True	579	66386843	Rogue	EX1_008	1.0	ranked	Argent Squire	Rogue	me	loss	9
-26	True	579	66386843	Rogue	CFM_853	3.0	ranked	Grimestreet Smuggler	Rogue	me	loss	9
-27	True	579	66386843	Rogue	CS2_101	2.0	ranked	Reinforce	Rogue	me	loss	9
-28	True	579	66386843	Rogue	EX1_085	3.0	ranked	Mind Control Tech	Rogue	opponent	loss	10
-29	True	579	66386843	Rogue	OG_090	5.0	ranked	Cabalist's Tome	Rogue	opponent	loss	10
-30	True	579	66386843	Rogue	EX1_316	1.0	ranked	Power Overwhelming	Rogue	opponent	loss	10
-31	True	579	66386843	Rogue	CS2_088	7.0	ranked	Guardian of Kings	Rogue	me	loss	10
-32	True	579	66386843	Rogue	EX1_008	1.0	ranked	Argent Squire	Rogue	me	loss	10
-33	True	579	66386843	Rogue	CS2_101	2.0	ranked	Reinforce	Rogue	me	loss	10
-34	True	579	66386843	Rogue	CS2_034	2.0	ranked	Fireblast	Rogue	opponent	loss	11
-35	True	579	66386843	Rogue	CS2_028	6.0	ranked	Blizzard	Rogue	opponent	loss	11
-36	True	579	66386843	Rogue	LOE_076	1.0	ranked	Sir Finley Mrrgglton	Rogue	me	loss	11
-37	True	579	66386843	Rogue	CS2_049	2.0	ranked	Totemic Call	Rogue	me	loss	11
-38	True	579	66386843	Rogue	CS2_029	4.0	ranked	Fireball	Rogue	opponent	loss	12
-39	True	579	66386843	Rogue	CS2_034	2.0	ranked	Fireblast	Rogue	opponent	loss	12
-40	True	579	66386843	Rogue	LOE_002	3.0	ranked	Forgotten Torch	Rogue	opponent	loss	12
-41	True	579	66386843	Rogue	EX1_360	1.0	ranked	Humility	Rogue	me	loss	12
-42	True	579	66386843	Rogue	CS2_049	2.0	ranked	Totemic Call	Rogue	me	loss	12
-43	True	579	66386843	Rogue	CFM_621	4.0	ranked	Kazakus	Rogue	opponent	loss	13
-0	False	862	66248274	Rogue	AT_037	1.0	ranked	Living Roots	Rogue	opponent	loss	1
-1	False	862	66248274	Rogue	CS2_034	2.0	ranked	Fireblast	Rogue	me	loss	2
-2	False	862	66248274	Rogue	EX1_169	0.0	ranked	Innervate	Rogue	opponent	loss	2
-3	False	862	66248274	Rogue	OG_044	4.0	ranked	Fandral Staghelm	Rogue	opponent	loss	2
-4	False	862	66248274	Rogue	CS2_024	2.0	ranked	Frostbolt	Rogue	me	loss	3
-5	False	862	66248274	Rogue	EX1_277	1.0	ranked	Arcane Missiles	Rogue	me	loss	3
-6	False	862	66248274	Rogue	OG_048	2.0	ranked	Mark of Y'Shaarj	Rogue	opponent	loss	3
-7	False	862	66248274	Rogue	LOE_002	3.0	ranked	Forgotten Torch	Rogue	me	loss	4
-8	False	862	66248274	Rogue	CS2_027	1.0	ranked	Mirror Image	Rogue	me	loss	4
-9	False	862	66248274	Rogue	EX1_154	2.0	ranked	Wrath	Rogue	opponent	loss	4
-10	False	862	66248274	Rogue	EX1_154	2.0	ranked	Wrath	Rogue	opponent	loss	4
-11	False	862	66248274	Rogue	CS2_034	2.0	ranked	Fireblast	Rogue	me	loss	5
-12	False	862	66248274	Rogue	EX1_608	2.0	ranked	Sorcerer's Apprentice	Rogue	me	loss	5
-13	False	862	66248274	Rogue	NEW1_012	1.0	ranked	Mana Wyrm	Rogue	me	loss	5
-14	False	862	66248274	Rogue	AT_039	4.0	ranked	Savage Combatant	Rogue	opponent	loss	5
-15	False	862	66248274	Rogue	GAME_005		ranked	The Coin	Rogue	opponent	loss	5
-16	False	862	66248274	Rogue	CS2_017	2.0	ranked	Shapeshift	Rogue	opponent	loss	5
-17	False	862	66248274	Rogue	EX1_295	3.0	ranked	Ice Block	Rogue	me	loss	6
-18	False	862	66248274	Rogue	EX1_289	3.0	ranked	Ice Barrier	Rogue	me	loss	6
-19	False	862	66248274	Rogue	EX1_164	5.0	ranked	Nourish	Rogue	opponent	loss	6
-20	False	862	66248274	Rogue	CS2_034	2.0	ranked	Fireblast	Rogue	me	loss	7
-21	False	862	66248274	Rogue	EX1_284	5.0	ranked	Azure Drake	Rogue	opponent	loss	7
-22	False	862	66248274	Rogue	EX1_160	2.0	ranked	Power of the Wild	Rogue	opponent	loss	7
-23	False	862	66248274	Rogue	KAR_097	8.0	ranked	Medivh the Guardian	Rogue	me	loss	8
-24	False	862	66248274	Rogue	EX1_165	5.0	ranked	Druid of the Claw	Rogue	opponent	loss	8
-25	False	862	66248274	Rogue	OG_048	2.0	ranked	Mark of Y'Shaarj	Rogue	opponent	loss	8
-26	False	862	66248274	Rogue	EX1_284	5.0	ranked	Azure Drake	Rogue	me	loss	9
-27	False	862	66248274	Rogue	LOE_002t	3.0	ranked	Roaring Torch	Rogue	me	loss	9
-28	False	862	66248274	Rogue	EX1_284	5.0	ranked	Azure Drake	Rogue	opponent	loss	9
-29	False	862	66248274	Rogue	AT_039	4.0	ranked	Savage Combatant	Rogue	opponent	loss	9
-30	False	862	66248274	Rogue	EX1_169	0.0	ranked	Innervate	Rogue	opponent	loss	9
-31	False	862	66248274	Rogue	CS2_017	2.0	ranked	Shapeshift	Rogue	opponent	loss	9
-32	False	862	66248274	Rogue	CS2_022	4.0	ranked	Polymorph	Rogue	me	loss	10
-33	False	862	66248274	Rogue	CS2_034	2.0	ranked	Fireblast	Rogue	me	loss	10
-34	False	862	66248274	Rogue	EX1_612	3.0	ranked	Kirin Tor Mage	Rogue	me	loss	10
-35	False	862	66248274	Rogue	NEW1_026	4.0	ranked	Violet Teacher	Rogue	opponent	loss	10
-36	False	862	66248274	Rogue	CS2_012	4.0	ranked	Swipe	Rogue	opponent	loss	10
-37	False	862	66248274	Rogue	CS2_017	2.0	ranked	Shapeshift	Rogue	opponent	loss	10
-38	False	862	66248274	Rogue	OG_207	6.0	ranked	Faceless Summoner	Rogue	me	loss	11
-39	False	862	66248274	Rogue	KAR_092	2.0	ranked	Medivh's Valet	Rogue	me	loss	11
-40	False	862	66248274	Rogue	CS2_034	2.0	ranked	Fireblast	Rogue	me	loss	11
-41	False	862	66248274	Rogue	OG_047	3.0	ranked	Feral Rage	Rogue	opponent	loss	11
-42	False	862	66248274	Rogue	EX1_164	5.0	ranked	Nourish	Rogue	opponent	loss	11
-43	False	862	66248274	Rogue	EX1_160	2.0	ranked	Power of the Wild	Rogue	opponent	loss	11
-44	False	862	66248274	Rogue	CS2_034	2.0	ranked	Fireblast	Rogue	me	loss	12
-45	False	862	66248274	Rogue	EX1_274	4.0	ranked	Ethereal Arcanist	Rogue	me	loss	12
-46	False	862	66248274	Rogue	NEW1_026	4.0	ranked	Violet Teacher	Rogue	opponent	loss	12
-47	False	862	66248274	Rogue	CS2_012	4.0	ranked	Swipe	Rogue	opponent	loss	12
-48	False	862	66248274	Rogue	CS2_017	2.0	ranked	Shapeshift	Rogue	opponent	loss	12
-49	False	862	66248274	Rogue	CS2_023	3.0	ranked	Arcane Intellect	Rogue	me	loss	13
-50	False	862	66248274	Rogue	CFM_851	4.0	ranked	Daring Reporter	Rogue	me	loss	13
-51	False	862	66248274	Rogue	CFM_760	6.0	ranked	Kabal Crystal Runner	Rogue	me	loss	13
-52	False	862	66248274	Rogue	CS2_011	3.0	ranked	Savage Roar	Rogue	opponent	loss	13
-53	False	862	66248274	Rogue	OG_047	3.0	ranked	Feral Rage	Rogue	opponent	loss	13
-54	False	862	66248274	Rogue	CS2_017	2.0	ranked	Shapeshift	Rogue	opponent	loss	13
-55	False	862	66248274	Rogue	CS2_013	2.0	ranked	Wild Growth	Rogue	opponent	loss	13
-56	False	862	66248274	Rogue	CS2_013t	0.0	ranked	Excess Mana	Rogue	opponent	loss	13
-57	False	862	66248274	Rogue	CFM_621	4.0	ranked	Kazakus	Rogue	me	loss	14
-58	False	862	66248274	Rogue	CFM_621t14	5.0	ranked	Kazakus Potion	Rogue	me	loss	14
-59	False	862	66248274	Rogue	AT_042	2.0	ranked	Druid of the Saber	Rogue	opponent	loss	14
-60	False	862	66248274	Rogue	CS2_011	3.0	ranked	Savage Roar	Rogue	opponent	loss	14
-61	False	862	66248274	Rogue	AT_037	1.0	ranked	Living Roots	Rogue	opponent	loss	14
-0	True	709	66247437	Rogue	KAR_069	1.0	ranked	Swashburglar	Rogue	opponent	win	1
-1	True	709	66247437	Rogue	NEW1_012	1.0	ranked	Mana Wyrm	Rogue	me	win	1
-2	True	709	66247437	Rogue	OG_072	1.0	ranked	Journey Below	Rogue	opponent	win	2
-3	True	709	66247437	Rogue	CS2_073	1.0	ranked	Cold Blood	Rogue	opponent	win	2
-4	True	709	66247437	Rogue	GAME_005		ranked	The Coin	Rogue	me	win	2
-5	True	709	66247437	Rogue	EX1_294	3.0	ranked	Mirror Entity	Rogue	me	win	2
-6	True	709	66247437	Rogue	AT_007	3.0	ranked	Spellslinger	Rogue	opponent	win	3
-7	True	709	66247437	Rogue	KAR_009	1.0	ranked	Babbling Book	Rogue	me	win	3
-8	True	709	66247437	Rogue	EX1_608	2.0	ranked	Sorcerer's Apprentice	Rogue	me	win	3
-9	True	709	66247437	Rogue	CFM_021	0.0	ranked	Freezing Potion	Rogue	me	win	3
-10	True	709	66247437	Rogue	OG_330	2.0	ranked	Undercity Huckster	Rogue	opponent	win	4
-11	True	709	66247437	Rogue	OG_072	1.0	ranked	Journey Below	Rogue	opponent	win	4
-12	True	709	66247437	Rogue	CS2_024	2.0	ranked	Frostbolt	Rogue	me	win	4
-13	True	709	66247437	Rogue	KAR_092	2.0	ranked	Medivh's Valet	Rogue	me	win	4
-14	True	709	66247437	Rogue	CS2_024	2.0	ranked	Frostbolt	Rogue	opponent	win	5
-15	True	709	66247437	Rogue	CS2_083b	2.0	ranked	Dagger Mastery	Rogue	opponent	win	5
-16	True	709	66247437	Rogue	EX1_274	4.0	ranked	Ethereal Arcanist	Rogue	me	win	5
-17	True	709	66247437	Rogue	OG_267	4.0	ranked	Southsea Squidface	Rogue	opponent	win	6
-18	True	709	66247437	Rogue	EX1_124	2.0	ranked	Eviscerate	Rogue	opponent	win	6
-19	True	709	66247437	Rogue	EX1_612	3.0	ranked	Kirin Tor Mage	Rogue	me	win	6
-20	True	709	66247437	Rogue	CS2_026	3.0	ranked	Frost Nova	Rogue	me	win	6
-21	True	709	66247437	Rogue	OG_295	5.0	ranked	Cult Apothecary	Rogue	opponent	win	7
-22	True	709	66247437	Rogue	BRM_007	2.0	ranked	Gang Up	Rogue	opponent	win	7
-23	True	709	66247437	Rogue	EX1_277	1.0	ranked	Arcane Missiles	Rogue	me	win	7
-24	True	709	66247437	Rogue	CS2_034	2.0	ranked	Fireblast	Rogue	me	win	7
-25	True	709	66247437	Rogue	EX1_144	0.0	ranked	Shadowstep	Rogue	opponent	win	8
-26	True	709	66247437	Rogue	OG_295	5.0	ranked	Cult Apothecary	Rogue	opponent	win	8
-27	True	709	66247437	Rogue	EX1_028	5.0	ranked	Stranglethorn Tiger	Rogue	opponent	win	8
-28	True	709	66247437	Rogue	KAR_097	8.0	ranked	Medivh the Guardian	Rogue	me	win	8
-29	True	709	66247437	Rogue	KAR_702	5.0	ranked	Menagerie Magician	Rogue	opponent	win	9
-30	True	709	66247437	Rogue	LOE_029	2.0	ranked	Jeweled Scarab	Rogue	opponent	win	9
-31	True	709	66247437	Rogue	CS2_083b	2.0	ranked	Dagger Mastery	Rogue	opponent	win	9
-32	True	709	66247437	Rogue	CFM_649	3.0	ranked	Kabal Courier	Rogue	me	win	9
-33	True	709	66247437	Rogue	CS2_022	4.0	ranked	Polymorph	Rogue	me	win	9
-34	True	709	66247437	Rogue	CS2_034	2.0	ranked	Fireblast	Rogue	me	win	9
-35	True	709	66247437	Rogue	KAR_095	3.0	ranked	Zoobot	Rogue	opponent	win	10
-36	True	709	66247437	Rogue	BRM_028	6.0	ranked	Emperor Thaurissan	Rogue	opponent	win	10
-37	True	709	66247437	Rogue	OG_207	6.0	ranked	Faceless Summoner	Rogue	me	win	10
-38	True	709	66247437	Rogue	CS2_034	2.0	ranked	Fireblast	Rogue	me	win	10
-0	True	742	66195760	Rogue	NEW1_025	1.0	ranked	Bloodsail Corsair	Rogue	me	loss	1
-1	True	742	66195760	Rogue	GAME_005		ranked	The Coin	Rogue	me	loss	2
-2	True	742	66195760	Rogue	KAR_712	3.0	ranked	Violet Illusionist	Rogue	me	loss	2
-3	True	742	66195760	Rogue	CFM_338	2.0	ranked	Trogg Beastrager	Rogue	opponent	loss	3
-4	True	742	66195760	Rogue	EX1_596	2.0	ranked	Demonfire	Rogue	me	loss	3
-5	True	742	66195760	Rogue	CFM_335	4.0	ranked	Dispatch Kodo	Rogue	opponent	loss	4
-6	True	742	66195760	Rogue	EX1_046	4.0	ranked	Dark Iron Dwarf	Rogue	me	loss	4
-7	True	742	66195760	Rogue	CFM_336	3.0	ranked	Shaky Zipgunner	Rogue	opponent	loss	5
-8	True	742	66195760	Rogue	LOE_105	2.0	ranked	Explorer's Hat	Rogue	opponent	loss	5
-9	True	742	66195760	Rogue	CS2_062	4.0	ranked	Hellfire	Rogue	me	loss	5
-10	True	742	66195760	Rogue	EX1_534	6.0	ranked	Savannah Highmane	Rogue	opponent	loss	6
-11	True	742	66195760	Rogue	CFM_851	4.0	ranked	Daring Reporter	Rogue	me	loss	6
-12	True	742	66195760	Rogue	CS2_065	1.0	ranked	Voidwalker	Rogue	me	loss	6
-13	True	742	66195760	Rogue	DS1_188	7.0	ranked	Gladiator's Longbow	Rogue	opponent	loss	7
-14	True	742	66195760	Rogue	CFM_649	3.0	ranked	Kabal Courier	Rogue	me	loss	7
-15	True	742	66195760	Rogue	KAR_011	2.0	ranked	Pompous Thespian	Rogue	me	loss	7
-16	True	742	66195760	Rogue	CS2_056	2.0	ranked	Life Tap	Rogue	me	loss	7
-17	True	742	66195760	Rogue	EX1_609	2.0	ranked	Snipe	Rogue	opponent	loss	8
-18	True	742	66195760	Rogue	EX1_536	3.0	ranked	Eaglehorn Bow	Rogue	opponent	loss	8
-19	True	742	66195760	Rogue	NEW1_031	3.0	ranked	Animal Companion	Rogue	opponent	loss	8
-20	True	742	66195760	Rogue	CFM_751	7.0	ranked	Abyssal Enforcer	Rogue	me	loss	8
-21	True	742	66195760	Rogue	LOE_105	2.0	ranked	Explorer's Hat	Rogue	opponent	loss	9
-22	True	742	66195760	Rogue	DS1h_292	2.0	ranked	Steady Shot	Rogue	opponent	loss	9
-0	True	511	66193962	Rogue	GAME_005		ranked	The Coin	Rogue	me	win	1
-1	True	511	66193962	Rogue	EX1_066	2.0	ranked	Acidic Swamp Ooze	Rogue	me	win	1
-2	True	511	66193962	Rogue	CS2_234	2.0	ranked	Shadow Word: Pain	Rogue	opponent	win	2
-3	True	511	66193962	Rogue	KAR_011	2.0	ranked	Pompous Thespian	Rogue	me	win	2
-4	True	511	66193962	Rogue	EX1_335	4.0	ranked	Lightspawn	Rogue	opponent	win	4
-5	True	511	66193962	Rogue	KAR_114	4.0	ranked	Barnes	Rogue	me	win	4
-6	True	511	66193962	Rogue	CS1h_001	2.0	ranked	Lesser Heal	Rogue	opponent	win	5
-7	True	511	66193962	Rogue	CFM_626	3.0	ranked	Kabal Talonpriest	Rogue	opponent	win	5
-8	True	511	66193962	Rogue	CFM_668	5.0	ranked	Doppelgangster	Rogue	me	win	5
-9	True	511	66193962	Rogue	LOE_104	6.0	ranked	Entomb	Rogue	opponent	win	6
-10	True	511	66193962	Rogue	EX1_284	5.0	ranked	Azure Drake	Rogue	me	win	6
-11	True	511	66193962	Rogue	CS2_065	1.0	ranked	Voidwalker	Rogue	me	win	6
-12	True	511	66193962	Rogue	EX1_091	6.0	ranked	Cabal Shadow Priest	Rogue	opponent	win	7
-13	True	511	66193962	Rogue	LOE_023	2.0	ranked	Dark Peddler	Rogue	me	win	7
-14	True	511	66193962	Rogue	EX1_308	1.0	ranked	Soulfire	Rogue	me	win	7
-15	True	511	66193962	Rogue	CS2_056	2.0	ranked	Life Tap	Rogue	me	win	7
-16	True	511	66193962	Rogue	NEW1_025	1.0	ranked	Bloodsail Corsair	Rogue	me	win	7
-17	True	511	66193962	Rogue	KAR_035	4.0	ranked	Priest of the Feast	Rogue	opponent	win	8
-18	True	511	66193962	Rogue	BRM_017	2.0	ranked	Resurrect	Rogue	opponent	win	8
-19	True	511	66193962	Rogue	CS1h_001	2.0	ranked	Lesser Heal	Rogue	opponent	win	8
-20	True	511	66193962	Rogue	EX1_332	0.0	ranked	Silence	Rogue	opponent	win	8
-21	True	511	66193962	Rogue	EX1_298	8.0	ranked	Ragnaros the Firelord	Rogue	me	win	8
-22	True	511	66193962	Rogue	BRM_017	2.0	ranked	Resurrect	Rogue	opponent	win	9
-23	True	511	66193962	Rogue	EX1_341	2.0	ranked	Lightwell	Rogue	opponent	win	9
-24	True	511	66193962	Rogue	CS1h_001	2.0	ranked	Lesser Heal	Rogue	opponent	win	9
-25	True	511	66193962	Rogue	CFM_094	6.0	ranked	Felfire Potion	Rogue	me	win	9
-26	True	511	66193962	Rogue	EX1_319	1.0	ranked	Flame Imp	Rogue	me	win	9
-27	True	511	66193962	Rogue	CS2_056	2.0	ranked	Life Tap	Rogue	me	win	9
-28	True	511	66193962	Rogue	CS1_113	10.0	ranked	Mind Control	Rogue	opponent	win	10
-0	True	374	66105194	Rogue	GAME_005		ranked	The Coin	Rogue	me	win	1
-1	True	374	66105194	Rogue	LOE_023	2.0	ranked	Dark Peddler	Rogue	me	win	1
-2	True	374	66105194	Rogue	CS2_083b	2.0	ranked	Dagger Mastery	Rogue	opponent	win	2
-3	True	374	66105194	Rogue	EX1_066	2.0	ranked	Acidic Swamp Ooze	Rogue	me	win	2
-4	True	374	66105194	Rogue	CS2_083b	2.0	ranked	Dagger Mastery	Rogue	opponent	win	3
-5	True	374	66105194	Rogue	CS2_074	1.0	ranked	Deadly Poison	Rogue	opponent	win	3
-6	True	374	66105194	Rogue	CFM_649	3.0	ranked	Kabal Courier	Rogue	me	win	3
-7	True	374	66105194	Rogue	LOE_012	4.0	ranked	Tomb Pillager	Rogue	opponent	win	4
-8	True	374	66105194	Rogue	KAR_712	3.0	ranked	Violet Illusionist	Rogue	me	win	4
-9	True	374	66105194	Rogue	EX1_012	2.0	ranked	Bloodmage Thalnos	Rogue	opponent	win	5
-10	True	374	66105194	Rogue	EX1_129	3.0	ranked	Fan of Knives	Rogue	opponent	win	5
-11	True	374	66105194	Rogue	CFM_668	5.0	ranked	Doppelgangster	Rogue	me	win	5
-12	True	374	66105194	Rogue	EX1_278	2.0	ranked	Shiv	Rogue	opponent	win	6
-13	True	374	66105194	Rogue	LOE_012	4.0	ranked	Tomb Pillager	Rogue	opponent	win	6
-14	True	374	66105194	Rogue	EX1_016	6.0	ranked	Sylvanas Windrunner	Rogue	me	win	6
-15	True	374	66105194	Rogue	GAME_005		ranked	The Coin	Rogue	opponent	win	7
-16	True	374	66105194	Rogue	GAME_005		ranked	The Coin	Rogue	opponent	win	7
-17	True	374	66105194	Rogue	EX1_563	9.0	ranked	Malygos	Rogue	opponent	win	7
-18	True	374	66105194	Rogue	CFM_608	4.0	ranked	Blastcrystal Potion	Rogue	me	win	7
-19	True	374	66105194	Rogue	LOE_077	3.0	ranked	Brann Bronzebeard	Rogue	me	win	8
-0	False	493	65966109	Rogue	OG_179	1.0	casual	Fiery Bat	Rogue	opponent	win	1
-1	False	493	65966109	Rogue	CS2_083b	2.0	casual	Dagger Mastery	Rogue	me	win	2
-2	False	493	65966109	Rogue	KAR_005	2.0	casual	Kindly Grandmother	Rogue	opponent	win	2
-3	False	493	65966109	Rogue	OG_330	2.0	casual	Undercity Huckster	Rogue	me	win	3
-4	False	493	65966109	Rogue	EX1_536	3.0	casual	Eaglehorn Bow	Rogue	opponent	win	3
-5	False	493	65966109	Rogue	LOE_046	2.0	casual	Huge Toad	Rogue	me	win	4
-6	False	493	65966109	Rogue	EX1_554	2.0	casual	Snake Trap	Rogue	me	win	4
-7	False	493	65966109	Rogue	OG_216	4.0	casual	Infested Wolf	Rogue	opponent	win	4
-8	False	493	65966109	Rogue	EX1_284	5.0	casual	Azure Drake	Rogue	me	win	5
-9	False	493	65966109	Rogue	NEW1_031	3.0	casual	Animal Companion	Rogue	opponent	win	5
-10	False	493	65966109	Rogue	GAME_005		casual	The Coin	Rogue	opponent	win	5
-11	False	493	65966109	Rogue	NEW1_031	3.0	casual	Animal Companion	Rogue	opponent	win	5
-12	False	493	65966109	Rogue	OG_176	3.0	casual	Shadow Strike	Rogue	me	win	6
-13	False	493	65966109	Rogue	EX1_134	3.0	casual	SI:7 Agent	Rogue	me	win	6
-14	False	493	65966109	Rogue	EX1_534	6.0	casual	Savannah Highmane	Rogue	opponent	win	6
-15	False	493	65966109	Rogue	EX1_096	2.0	casual	Loot Hoarder	Rogue	me	win	7
-16	False	493	65966109	Rogue	CS2_117	3.0	casual	Earthen Ring Farseer	Rogue	me	win	7
-17	False	493	65966109	Rogue	CS2_072	0.0	casual	Backstab	Rogue	me	win	7
-18	False	493	65966109	Rogue	CS2_083b	2.0	casual	Dagger Mastery	Rogue	me	win	7
-19	False	493	65966109	Rogue	EX1_531	2.0	casual	Scavenging Hyena	Rogue	opponent	win	7
-20	False	493	65966109	Rogue	KAR_004	2.0	casual	Cat Trick	Rogue	opponent	win	7
-21	False	493	65966109	Rogue	DS1h_292	2.0	casual	Steady Shot	Rogue	opponent	win	7
-22	False	493	65966109	Rogue	EX1_032	6.0	casual	Sunwalker	Rogue	me	win	8
-23	False	493	65966109	Rogue	EX1_096	2.0	casual	Loot Hoarder	Rogue	me	win	8
-24	False	493	65966109	Rogue	EX1_610	2.0	casual	Explosive Trap	Rogue	opponent	win	8
-25	False	493	65966109	Rogue	EX1_539	3.0	casual	Kill Command	Rogue	opponent	win	8
-26	False	493	65966109	Rogue	BRM_013	2.0	casual	Quick Shot	Rogue	opponent	win	8
-27	False	493	65966109	Rogue	EX1_298	8.0	casual	Ragnaros the Firelord	Rogue	me	win	9
-28	False	493	65966109	Rogue	CS2_074	1.0	casual	Deadly Poison	Rogue	me	win	9
-0	True	344	65965230	Rogue	CFM_315	1.0	casual	Alleycat	Rogue	opponent	win	1
-1	True	344	65965230	Rogue	GAME_005		casual	The Coin	Rogue	me	win	1
-2	True	344	65965230	Rogue	LOE_046	2.0	casual	Huge Toad	Rogue	me	win	1
-3	True	344	65965230	Rogue	EX1_609	2.0	casual	Snipe	Rogue	opponent	win	2
-4	True	344	65965230	Rogue	EX1_096	2.0	casual	Loot Hoarder	Rogue	me	win	2
-5	True	344	65965230	Rogue	DS1h_292	2.0	casual	Steady Shot	Rogue	opponent	win	3
-6	True	344	65965230	Rogue	CS2_117	3.0	casual	Earthen Ring Farseer	Rogue	me	win	3
-7	True	344	65965230	Rogue	KAR_006	3.0	casual	Cloaked Huntress	Rogue	opponent	win	4
-8	True	344	65965230	Rogue	CS2_072	0.0	casual	Backstab	Rogue	me	win	4
-9	True	344	65965230	Rogue	EX1_134	3.0	casual	SI:7 Agent	Rogue	me	win	4
-10	True	344	65965230	Rogue	DS1_183	4.0	casual	Multi-Shot	Rogue	opponent	win	5
-11	True	344	65965230	Rogue	OG_179	1.0	casual	Fiery Bat	Rogue	opponent	win	5
-12	True	344	65965230	Rogue	EX1_096	2.0	casual	Loot Hoarder	Rogue	me	win	5
-13	True	344	65965230	Rogue	LOE_046	2.0	casual	Huge Toad	Rogue	me	win	5
-14	True	344	65965230	Rogue	OG_216	4.0	casual	Infested Wolf	Rogue	opponent	win	6
-15	True	344	65965230	Rogue	DS1h_292	2.0	casual	Steady Shot	Rogue	opponent	win	6
-16	True	344	65965230	Rogue	EX1_016	6.0	casual	Sylvanas Windrunner	Rogue	me	win	6
-17	True	344	65965230	Rogue	DS1_183	4.0	casual	Multi-Shot	Rogue	opponent	win	7
-18	True	344	65965230	Rogue	CFM_336	3.0	casual	Shaky Zipgunner	Rogue	opponent	win	7
-19	True	344	65965230	Rogue	LOE_012	4.0	casual	Tomb Pillager	Rogue	me	win	7
-20	True	344	65965230	Rogue	LOE_019	3.0	casual	Unearthed Raptor	Rogue	me	win	7
-21	True	344	65965230	Rogue	NEW1_031	3.0	casual	Animal Companion	Rogue	opponent	win	8
-22	True	344	65965230	Rogue	DS1_070	4.0	casual	Houndmaster	Rogue	opponent	win	8
-23	True	344	65965230	Rogue	EX1_126	2.0	casual	Betrayal	Rogue	me	win	8
-24	True	344	65965230	Rogue	CS2_083b	2.0	casual	Dagger Mastery	Rogue	me	win	8
-25	True	344	65965230	Rogue	LOE_012	4.0	casual	Tomb Pillager	Rogue	me	win	8
-26	True	344	65965230	Rogue	DS1h_292	2.0	casual	Steady Shot	Rogue	opponent	win	9
-27	True	344	65965230	Rogue	CS2_083b	2.0	casual	Dagger Mastery	Rogue	me	win	9
-0	False	626	65964608	Rogue	AT_073	1.0	casual	Competitive Spirit	Rogue	opponent	loss	1
-1	False	626	65964608	Rogue	CS2_083b	2.0	casual	Dagger Mastery	Rogue	me	loss	2
-2	False	626	65964608	Rogue	GAME_005		casual	The Coin	Rogue	opponent	loss	2
-3	False	626	65964608	Rogue	OG_310	3.0	casual	Steward of Darkshire	Rogue	opponent	loss	2
-4	False	626	65964608	Rogue	EX1_134	3.0	casual	SI:7 Agent	Rogue	me	loss	3
-5	False	626	65964608	Rogue	EX1_136	1.0	casual	Redemption	Rogue	opponent	loss	3
-6	False	626	65964608	Rogue	CS2_101	2.0	casual	Reinforce	Rogue	opponent	loss	3
-7	False	626	65964608	Rogue	LOE_012	4.0	casual	Tomb Pillager	Rogue	me	loss	4
-8	False	626	65964608	Rogue	EX1_008	1.0	casual	Argent Squire	Rogue	opponent	loss	4
-9	False	626	65964608	Rogue	CS2_101	2.0	casual	Reinforce	Rogue	opponent	loss	4
-10	False	626	65964608	Rogue	AT_073	1.0	casual	Competitive Spirit	Rogue	opponent	loss	4
-11	False	626	65964608	Rogue	EX1_126	2.0	casual	Betrayal	Rogue	me	loss	5
-12	False	626	65964608	Rogue	CS2_083b	2.0	casual	Dagger Mastery	Rogue	me	loss	5
-13	False	626	65964608	Rogue	EX1_590	3.0	casual	Blood Knight	Rogue	opponent	loss	5
-14	False	626	65964608	Rogue	CS2_101	2.0	casual	Reinforce	Rogue	opponent	loss	5
-15	False	626	65964608	Rogue	CS2_076	5.0	casual	Assassinate	Rogue	me	loss	6
-16	False	626	65964608	Rogue	EX1_023	4.0	casual	Silvermoon Guardian	Rogue	opponent	loss	6
-17	False	626	65964608	Rogue	CS2_101	2.0	casual	Reinforce	Rogue	opponent	loss	6
-18	False	626	65964608	Rogue	EX1_284	5.0	casual	Azure Drake	Rogue	me	loss	7
-19	False	626	65964608	Rogue	LOE_046	2.0	casual	Huge Toad	Rogue	me	loss	7
-20	False	626	65964608	Rogue	CS2_097	4.0	casual	Truesilver Champion	Rogue	opponent	loss	7
-21	False	626	65964608	Rogue	AT_087	3.0	casual	Argent Horserider	Rogue	opponent	loss	7
-22	False	626	65964608	Rogue	CS2_117	3.0	casual	Earthen Ring Farseer	Rogue	me	loss	8
-23	False	626	65964608	Rogue	CS2_083b	2.0	casual	Dagger Mastery	Rogue	me	loss	8
-24	False	626	65964608	Rogue	GAME_005		casual	The Coin	Rogue	me	loss	8
-25	False	626	65964608	Rogue	KAR_114	4.0	casual	Barnes	Rogue	me	loss	8
-26	False	626	65964608	Rogue	EX1_032	6.0	casual	Sunwalker	Rogue	opponent	loss	8
-27	False	626	65964608	Rogue	EX1_362	2.0	casual	Argent Protector	Rogue	opponent	loss	8
-28	False	626	65964608	Rogue	CS2_076	5.0	casual	Assassinate	Rogue	me	loss	9
-29	False	626	65964608	Rogue	NEW1_014	4.0	casual	Master of Disguise	Rogue	me	loss	9
-30	False	626	65964608	Rogue	OG_145	5.0	casual	Psych-o-Tron	Rogue	opponent	loss	9
-31	False	626	65964608	Rogue	OG_221	1.0	casual	Selfless Hero	Rogue	opponent	loss	9
-32	False	626	65964608	Rogue	CS2_101	2.0	casual	Reinforce	Rogue	opponent	loss	9
-33	False	626	65964608	Rogue	EX1_298	8.0	casual	Ragnaros the Firelord	Rogue	me	loss	10
-34	False	626	65964608	Rogue	LOE_046	2.0	casual	Huge Toad	Rogue	me	loss	10
-35	False	626	65964608	Rogue	EX1_023	4.0	casual	Silvermoon Guardian	Rogue	opponent	loss	10
-36	False	626	65964608	Rogue	CS2_101	2.0	casual	Reinforce	Rogue	opponent	loss	10
-37	False	626	65964608	Rogue	NEW1_024	5.0	casual	Captain Greenskin	Rogue	me	loss	11
-38	False	626	65964608	Rogue	KAR_096	5.0	casual	Prince Malchezaar	Rogue	me	loss	11
-39	False	626	65964608	Rogue	EX1_020	3.0	casual	Scarlet Crusader	Rogue	opponent	loss	11
-0	True	293	65963525	Rogue	GAME_005		casual	The Coin	Rogue	me	win	1
-1	True	293	65963525	Rogue	LOE_046	2.0	casual	Huge Toad	Rogue	me	win	1
-2	True	293	65963525	Rogue	DS1_233	2.0	casual	Mind Blast	Rogue	opponent	win	2
-3	True	293	65963525	Rogue	CS2_083b	2.0	casual	Dagger Mastery	Rogue	me	win	2
-4	True	293	65963525	Rogue	CS1h_001	2.0	casual	Lesser Heal	Rogue	opponent	win	3
-5	True	293	65963525	Rogue	LOE_019	3.0	casual	Unearthed Raptor	Rogue	me	win	3
-6	True	293	65963525	Rogue	AT_055	1.0	casual	Flash Heal	Rogue	opponent	win	4
-7	True	293	65963525	Rogue	LOE_012	4.0	casual	Tomb Pillager	Rogue	me	win	4
-8	True	293	65963525	Rogue	DS1_233	2.0	casual	Mind Blast	Rogue	opponent	win	5
-9	True	293	65963525	Rogue	CS1h_001	2.0	casual	Lesser Heal	Rogue	opponent	win	5
-10	True	293	65963525	Rogue	LOE_019	3.0	casual	Unearthed Raptor	Rogue	me	win	5
-11	True	293	65963525	Rogue	CS2_083b	2.0	casual	Dagger Mastery	Rogue	me	win	5
-12	True	293	65963525	Rogue	EX1_591	4.0	casual	Auchenai Soulpriest	Rogue	opponent	win	6
-13	True	293	65963525	Rogue	EX1_621	0.0	casual	Circle of Healing	Rogue	opponent	win	6
-14	True	293	65963525	Rogue	CS1h_001	2.0	casual	Lesser Heal	Rogue	opponent	win	6
-15	True	293	65963525	Rogue	GAME_005		casual	The Coin	Rogue	me	win	6
-16	True	293	65963525	Rogue	GAME_005		casual	The Coin	Rogue	me	win	6
-17	True	293	65963525	Rogue	EX1_298	8.0	casual	Ragnaros the Firelord	Rogue	me	win	6
-18	True	293	65963525	Rogue	LOE_104	6.0	casual	Entomb	Rogue	opponent	win	7
-19	True	293	65963525	Rogue	EX1_284	5.0	casual	Azure Drake	Rogue	me	win	7
-20	True	293	65963525	Rogue	EX1_124	2.0	casual	Eviscerate	Rogue	me	win	7
-0	False	415	65963017		KAR_069	1.0	casual	Swashburglar		opponent	loss	1
-1	False	415	65963017		EX1_096	2.0	casual	Loot Hoarder		me	loss	2
-2	False	415	65963017		EX1_096	2.0	casual	Loot Hoarder		opponent	loss	2
-3	False	415	65963017		CS2_083b	2.0	casual	Dagger Mastery		me	loss	3
-4	False	415	65963017		GAME_005		casual	The Coin		opponent	loss	3
-5	False	415	65963017		NEW1_026	4.0	casual	Violet Teacher		opponent	loss	3
-6	False	415	65963017		LOE_012	4.0	casual	Tomb Pillager		me	loss	4
-7	False	415	65963017		OG_176	3.0	casual	Shadow Strike		opponent	loss	4
-8	False	415	65963017		GAME_005		casual	The Coin		me	loss	5
-9	False	415	65963017		EX1_016	6.0	casual	Sylvanas Windrunner		me	loss	5
-10	False	415	65963017		EX1_581	2.0	casual	Sap		opponent	loss	5
-11	False	415	65963017		CS2_083b	2.0	casual	Dagger Mastery		opponent	loss	5
-12	False	415	65963017		EX1_016	6.0	casual	Sylvanas Windrunner		me	loss	6
-13	False	415	65963017		KAR_069	1.0	casual	Swashburglar		opponent	loss	6
-14	False	415	65963017		EX1_581	2.0	casual	Sap		opponent	loss	6
-15	False	415	65963017		CS2_083b	2.0	casual	Dagger Mastery		opponent	loss	6
-16	False	415	65963017		EX1_129	3.0	casual	Fan of Knives		me	loss	7
-17	False	415	65963017		NEW1_014	4.0	casual	Master of Disguise		me	loss	7
-18	False	415	65963017		OG_176	3.0	casual	Shadow Strike		opponent	loss	7
-19	False	415	65963017		CS2_083b	2.0	casual	Dagger Mastery		opponent	loss	7
-20	False	415	65963017		AT_123	7.0	casual	Chillmaw		me	loss	8
-21	False	415	65963017		EX1_145	0.0	casual	Preparation		opponent	loss	8
-22	False	415	65963017		EX1_581	2.0	casual	Sap		opponent	loss	8
-23	False	415	65963017		KAR_070	5.0	casual	Ethereal Peddler		opponent	loss	8
-24	False	415	65963017		EX1_134	3.0	casual	SI:7 Agent		opponent	loss	8
-25	False	415	65963017		AT_123	7.0	casual	Chillmaw		me	loss	9
-26	False	415	65963017		LOE_046	2.0	casual	Huge Toad		me	loss	9
-27	False	415	65963017		EX1_284	5.0	casual	Azure Drake		opponent	loss	9
-28	False	415	65963017		EX1_581	2.0	casual	Sap		opponent	loss	9
-29	False	415	65963017		EX1_124	2.0	casual	Eviscerate		opponent	loss	9
+0	False	498	67018867	Warlock	CS2_189	1.0	ranked	Elven Archer	Shaman	opponent	loss	1
+1	False	498	67018867	Warlock	CS2_034	2.0	ranked	Fireblast	Shaman	me	loss	2
+2	False	498	67018867	Warlock	GAME_005		ranked	The Coin	Shaman	opponent	loss	2
+3	False	498	67018867	Warlock	CS2_124	3.0	ranked	Wolfrider	Shaman	opponent	loss	2
+4	False	498	67018867	Warlock	EX1_277	1.0	ranked	Arcane Missiles	Shaman	me	loss	3
+5	False	498	67018867	Warlock	CS2_034	2.0	ranked	Fireblast	Shaman	me	loss	3
+6	False	498	67018867	Warlock	CS2_083b	2.0	ranked	Dagger Mastery	Shaman	opponent	loss	3
+7	False	498	67018867	Warlock	CS2_074	1.0	ranked	Deadly Poison	Shaman	opponent	loss	3
+8	False	498	67018867	Warlock	CS2_027	1.0	ranked	Mirror Image	Shaman	me	loss	4
+9	False	498	67018867	Warlock	CS2_034	2.0	ranked	Fireblast	Shaman	me	loss	4
+10	False	498	67018867	Warlock	CS2_072	0.0	ranked	Backstab	Shaman	opponent	loss	4
+11	False	498	67018867	Warlock	NEW1_022	4.0	ranked	Dread Corsair	Shaman	opponent	loss	4
+12	False	498	67018867	Warlock	CS2_124	3.0	ranked	Wolfrider	Shaman	opponent	loss	4
+13	False	498	67018867	Warlock	tt_010	3.0	ranked	Spellbender	Shaman	me	loss	5
+14	False	498	67018867	Warlock	KAR_092	2.0	ranked	Medivh's Valet	Shaman	me	loss	5
+15	False	498	67018867	Warlock	CS2_083b	2.0	ranked	Dagger Mastery	Shaman	opponent	loss	5
+16	False	498	67018867	Warlock	EX1_522	2.0	ranked	Patient Assassin	Shaman	opponent	loss	5
+17	False	498	67018867	Warlock	EX1_095	6.0	ranked	Gadgetzan Auctioneer	Shaman	me	loss	6
+18	False	498	67018867	Warlock	CS2_147	4.0	ranked	Gnomish Inventor	Shaman	opponent	loss	6
+19	False	498	67018867	Warlock	CS2_083b	2.0	ranked	Dagger Mastery	Shaman	opponent	loss	6
+20	False	498	67018867	Warlock	CFM_851	4.0	ranked	Daring Reporter	Shaman	me	loss	7
+21	False	498	67018867	Warlock	CS2_034	2.0	ranked	Fireblast	Shaman	me	loss	7
+22	False	498	67018867	Warlock	EX1_593	5.0	ranked	Nightblade	Shaman	opponent	loss	7
+23	False	498	67018867	Warlock	CS2_083b	2.0	ranked	Dagger Mastery	Shaman	opponent	loss	7
+24	False	498	67018867	Warlock	CS2_032	7.0	ranked	Flamestrike	Shaman	me	loss	8
+25	False	498	67018867	Warlock	CS2_074	1.0	ranked	Deadly Poison	Shaman	opponent	loss	8
+26	False	498	67018867	Warlock	NEW1_004	6.0	ranked	Vanish	Shaman	opponent	loss	8
+27	False	498	67018867	Warlock	KAR_097	8.0	ranked	Medivh the Guardian	Shaman	me	loss	9
+28	False	498	67018867	Warlock	CS2_141	3.0	ranked	Ironforge Rifleman	Shaman	opponent	loss	9
+29	False	498	67018867	Warlock	CFM_690	2.0	ranked	Jade Shuriken	Shaman	opponent	loss	9
+30	False	498	67018867	Warlock	CS2_147	4.0	ranked	Gnomish Inventor	Shaman	opponent	loss	9
+31	False	498	67018867	Warlock	CS2_029	4.0	ranked	Fireball	Shaman	me	loss	10
+32	False	498	67018867	Warlock	CS2_034	2.0	ranked	Fireblast	Shaman	me	loss	10
+33	False	498	67018867	Warlock	LOE_002	3.0	ranked	Forgotten Torch	Shaman	me	loss	10
+34	False	498	67018867	Warlock	CS2_076	5.0	ranked	Assassinate	Shaman	opponent	loss	10
+35	False	498	67018867	Warlock	KAR_094	3.0	ranked	Deadly Fork	Shaman	opponent	loss	10
+36	False	498	67018867	Warlock	CS2_083b	2.0	ranked	Dagger Mastery	Shaman	opponent	loss	10
+37	False	498	67018867	Warlock	CFM_851	4.0	ranked	Daring Reporter	Shaman	me	loss	11
+38	False	498	67018867	Warlock	OG_207	6.0	ranked	Faceless Summoner	Shaman	me	loss	11
+39	False	498	67018867	Warlock	KAR_094a	3.0	ranked	Sharp Fork	Shaman	opponent	loss	11
+0	True	1290	67017678	Warlock	AT_037	1.0	ranked	Living Roots	Shaman	opponent	win	1
+1	True	1290	67017678	Warlock	NEW1_012	1.0	ranked	Mana Wyrm	Shaman	me	win	1
+2	True	1290	67017678	Warlock	CS2_017	2.0	ranked	Shapeshift	Shaman	opponent	win	2
+3	True	1290	67017678	Warlock	CS2_034	2.0	ranked	Fireblast	Shaman	me	win	2
+4	True	1290	67017678	Warlock	CFM_602	1.0	ranked	Jade Idol	Shaman	opponent	win	3
+5	True	1290	67017678	Warlock	CS2_017	2.0	ranked	Shapeshift	Shaman	opponent	win	3
+6	True	1290	67017678	Warlock	CFM_649	3.0	ranked	Kabal Courier	Shaman	me	win	3
+7	True	1290	67017678	Warlock	CS2_017	2.0	ranked	Shapeshift	Shaman	opponent	win	4
+8	True	1290	67017678	Warlock	tt_010	3.0	ranked	Spellbender	Shaman	me	win	4
+9	True	1290	67017678	Warlock	EX1_165	5.0	ranked	Druid of the Claw	Shaman	opponent	win	5
+10	True	1290	67017678	Warlock	KAR_037	5.0	ranked	Avian Watcher	Shaman	me	win	5
+11	True	1290	67017678	Warlock	CFM_343	6.0	ranked	Jade Behemoth	Shaman	opponent	win	6
+12	True	1290	67017678	Warlock	CS2_028	6.0	ranked	Blizzard	Shaman	me	win	6
+13	True	1290	67017678	Warlock	CFM_852	5.0	ranked	Lotus Agents	Shaman	opponent	win	7
+14	True	1290	67017678	Warlock	CS2_017	2.0	ranked	Shapeshift	Shaman	opponent	win	7
+15	True	1290	67017678	Warlock	KAR_009	1.0	ranked	Babbling Book	Shaman	me	win	7
+16	True	1290	67017678	Warlock	CFM_621	4.0	ranked	Kazakus	Shaman	me	win	7
+17	True	1290	67017678	Warlock	CS2_034	2.0	ranked	Fireblast	Shaman	me	win	7
+18	True	1290	67017678	Warlock	CS2_012	4.0	ranked	Swipe	Shaman	opponent	win	8
+19	True	1290	67017678	Warlock	CFM_713	3.0	ranked	Jade Blossom	Shaman	opponent	win	8
+20	True	1290	67017678	Warlock	KAR_097	8.0	ranked	Medivh the Guardian	Shaman	me	win	8
+21	True	1290	67017678	Warlock	LOE_092	9.0	ranked	Arch-Thief Rafaam	Shaman	opponent	win	9
+22	True	1290	67017678	Warlock	CS2_032	7.0	ranked	Flamestrike	Shaman	me	win	9
+23	True	1290	67017678	Warlock	CS2_034	2.0	ranked	Fireblast	Shaman	me	win	9
+24	True	1290	67017678	Warlock	LOEA16_4	10.0	ranked	Timepiece of Horror	Shaman	opponent	win	10
+25	True	1290	67017678	Warlock	EX1_169	0.0	ranked	Innervate	Shaman	opponent	win	10
+26	True	1290	67017678	Warlock	EX1_154	2.0	ranked	Wrath	Shaman	opponent	win	10
+27	True	1290	67017678	Warlock	KAR_076	7.0	ranked	Firelands Portal	Shaman	me	win	10
+28	True	1290	67017678	Warlock	CS2_034	2.0	ranked	Fireblast	Shaman	me	win	10
+29	True	1290	67017678	Warlock	CS2_013	2.0	ranked	Wild Growth	Shaman	opponent	win	11
+30	True	1290	67017678	Warlock	CS2_013t	0.0	ranked	Excess Mana	Shaman	opponent	win	11
+31	True	1290	67017678	Warlock	CFM_715	4.0	ranked	Jade Spirit	Shaman	opponent	win	11
+32	True	1290	67017678	Warlock	LOE_050	3.0	ranked	Mounted Raptor	Shaman	opponent	win	11
+33	True	1290	67017678	Warlock	CFM_614	1.0	ranked	Mark of the Lotus	Shaman	opponent	win	11
+34	True	1290	67017678	Warlock	LOE_011	6.0	ranked	Reno Jackson	Shaman	me	win	11
+35	True	1290	67017678	Warlock	CS2_034	2.0	ranked	Fireblast	Shaman	me	win	11
+36	True	1290	67017678	Warlock	EX1_567	5.0	ranked	Doomhammer	Shaman	opponent	win	12
+37	True	1290	67017678	Warlock	EX1_399	5.0	ranked	Gurubashi Berserker	Shaman	opponent	win	12
+38	True	1290	67017678	Warlock	CFM_621t15	10.0	ranked	Kazakus Potion	Shaman	me	win	12
+39	True	1290	67017678	Warlock	LOE_086	5.0	ranked	Summoning Stone	Shaman	opponent	win	13
+40	True	1290	67017678	Warlock	CFM_713	3.0	ranked	Jade Blossom	Shaman	opponent	win	13
+0	False	1459	67014545	Warlock	CS2_027	1.0	ranked	Mirror Image	Shaman	me	loss	2
+1	False	1459	67014545	Warlock	EX1_066	2.0	ranked	Acidic Swamp Ooze	Shaman	opponent	loss	2
+2	False	1459	67014545	Warlock	CS2_034	2.0	ranked	Fireblast	Shaman	me	loss	3
+3	False	1459	67014545	Warlock	CS2_056	2.0	ranked	Life Tap	Shaman	opponent	loss	3
+4	False	1459	67014545	Warlock	CS2_034	2.0	ranked	Fireblast	Shaman	me	loss	4
+5	False	1459	67014545	Warlock	GAME_005		ranked	The Coin	Shaman	opponent	loss	4
+6	False	1459	67014545	Warlock	OG_321	5.0	ranked	Crazed Worshipper	Shaman	opponent	loss	4
+7	False	1459	67014545	Warlock	CFM_621	4.0	ranked	Kazakus	Shaman	me	loss	5
+8	False	1459	67014545	Warlock	CS2_056	2.0	ranked	Life Tap	Shaman	opponent	loss	5
+9	False	1459	67014545	Warlock	CFM_066	1.0	ranked	Kabal Lackey	Shaman	me	loss	6
+10	False	1459	67014545	Warlock	EX1_289	3.0	ranked	Ice Barrier	Shaman	me	loss	6
+11	False	1459	67014545	Warlock	KAR_037	5.0	ranked	Avian Watcher	Shaman	me	loss	6
+12	False	1459	67014545	Warlock	OG_283	4.0	ranked	C'Thun's Chosen	Shaman	opponent	loss	6
+13	False	1459	67014545	Warlock	EX1_316	1.0	ranked	Power Overwhelming	Shaman	opponent	loss	6
+14	False	1459	67014545	Warlock	CS2_034	2.0	ranked	Fireblast	Shaman	me	loss	7
+15	False	1459	67014545	Warlock	EX1_277	1.0	ranked	Arcane Missiles	Shaman	me	loss	7
+16	False	1459	67014545	Warlock	BRM_028	6.0	ranked	Emperor Thaurissan	Shaman	opponent	loss	7
+17	False	1459	67014545	Warlock	NEW1_012	1.0	ranked	Mana Wyrm	Shaman	me	loss	8
+18	False	1459	67014545	Warlock	OG_207	6.0	ranked	Faceless Summoner	Shaman	me	loss	8
+19	False	1459	67014545	Warlock	CS2_062	4.0	ranked	Hellfire	Shaman	opponent	loss	8
+20	False	1459	67014545	Warlock	EX1_093	4.0	ranked	Defender of Argus	Shaman	opponent	loss	8
+21	False	1459	67014545	Warlock	EX1_559	7.0	ranked	Archmage Antonidas	Shaman	me	loss	9
+22	False	1459	67014545	Warlock	CS2_024	2.0	ranked	Frostbolt	Shaman	me	loss	9
+23	False	1459	67014545	Warlock	EX1_309	6.0	ranked	Siphon Soul	Shaman	opponent	loss	9
+24	False	1459	67014545	Warlock	CS2_056	2.0	ranked	Life Tap	Shaman	opponent	loss	9
+25	False	1459	67014545	Warlock	KAR_009	1.0	ranked	Babbling Book	Shaman	me	loss	10
+26	False	1459	67014545	Warlock	CFM_649	3.0	ranked	Kabal Courier	Shaman	me	loss	10
+27	False	1459	67014545	Warlock	CFM_663	6.0	ranked	Kabal Trafficker	Shaman	me	loss	10
+28	False	1459	67014545	Warlock	OG_286	3.0	ranked	Twilight Elder	Shaman	opponent	loss	10
+29	False	1459	67014545	Warlock	CS2_056	2.0	ranked	Life Tap	Shaman	opponent	loss	10
+30	False	1459	67014545	Warlock	LOE_002	3.0	ranked	Forgotten Torch	Shaman	me	loss	11
+31	False	1459	67014545	Warlock	CS2_034	2.0	ranked	Fireblast	Shaman	me	loss	11
+32	False	1459	67014545	Warlock	AT_026	2.0	ranked	Wrathguard	Shaman	me	loss	11
+33	False	1459	67014545	Warlock	EX1_312	8.0	ranked	Twisting Nether	Shaman	opponent	loss	11
+34	False	1459	67014545	Warlock	CS2_034	2.0	ranked	Fireblast	Shaman	me	loss	12
+35	False	1459	67014545	Warlock	CS2_029	4.0	ranked	Fireball	Shaman	me	loss	12
+36	False	1459	67014545	Warlock	CS2_023	3.0	ranked	Arcane Intellect	Shaman	me	loss	12
+37	False	1459	67014545	Warlock	CS2_056	2.0	ranked	Life Tap	Shaman	opponent	loss	12
+38	False	1459	67014545	Warlock	OG_281	2.0	ranked	Beckoner of Evil	Shaman	opponent	loss	12
+39	False	1459	67014545	Warlock	LOE_011	6.0	ranked	Reno Jackson	Shaman	opponent	loss	12
+40	False	1459	67014545	Warlock	LOE_002t	3.0	ranked	Roaring Torch	Shaman	me	loss	13
+41	False	1459	67014545	Warlock	AT_026	2.0	ranked	Wrathguard	Shaman	me	loss	13
+42	False	1459	67014545	Warlock	CS2_034	2.0	ranked	Fireblast	Shaman	me	loss	13
+43	False	1459	67014545	Warlock	EX1_043	4.0	ranked	Twilight Drake	Shaman	opponent	loss	13
+44	False	1459	67014545	Warlock	EX1_016	6.0	ranked	Sylvanas Windrunner	Shaman	opponent	loss	13
+45	False	1459	67014545	Warlock	tt_010	3.0	ranked	Spellbender	Shaman	me	loss	14
+46	False	1459	67014545	Warlock	KAR_092	2.0	ranked	Medivh's Valet	Shaman	me	loss	14
+47	False	1459	67014545	Warlock	CS2_034	2.0	ranked	Fireblast	Shaman	me	loss	14
+48	False	1459	67014545	Warlock	OG_302	5.0	ranked	Usher of Souls	Shaman	opponent	loss	14
+49	False	1459	67014545	Warlock	LOE_023	2.0	ranked	Dark Peddler	Shaman	opponent	loss	14
+50	False	1459	67014545	Warlock	CS2_059	1.0	ranked	Blood Imp	Shaman	opponent	loss	14
+51	False	1459	67014545	Warlock	CS2_056	2.0	ranked	Life Tap	Shaman	opponent	loss	14
+52	False	1459	67014545	Warlock	CS2_028	6.0	ranked	Blizzard	Shaman	me	loss	15
+53	False	1459	67014545	Warlock	CS2_034	2.0	ranked	Fireblast	Shaman	me	loss	15
+54	False	1459	67014545	Warlock	OG_280	10.0	ranked	C'Thun	Shaman	opponent	loss	15
+55	False	1459	67014545	Warlock	CS2_022	4.0	ranked	Polymorph	Shaman	me	loss	16
+56	False	1459	67014545	Warlock	LOE_011	6.0	ranked	Reno Jackson	Shaman	me	loss	16
+57	False	1459	67014545	Warlock	OG_255	8.0	ranked	Doomcaller	Shaman	opponent	loss	16
+58	False	1459	67014545	Warlock	CS2_056	2.0	ranked	Life Tap	Shaman	opponent	loss	16
+59	False	1459	67014545	Warlock	EX1_095	6.0	ranked	Gadgetzan Auctioneer	Shaman	me	loss	17
+60	False	1459	67014545	Warlock	CS2_029	4.0	ranked	Fireball	Shaman	me	loss	17
+61	False	1459	67014545	Warlock	EX1_302	1.0	ranked	Mortal Coil	Shaman	opponent	loss	17
+62	False	1459	67014545	Warlock	EX1_303	4.0	ranked	Shadowflame	Shaman	opponent	loss	17
+63	False	1459	67014545	Warlock	OG_162	3.0	ranked	Disciple of C'Thun	Shaman	opponent	loss	17
+64	False	1459	67014545	Warlock	EX1_608	2.0	ranked	Sorcerer's Apprentice	Shaman	me	loss	18
+65	False	1459	67014545	Warlock	EX1_298	8.0	ranked	Ragnaros the Firelord	Shaman	me	loss	18
+66	False	1459	67014545	Warlock	EX1_058	2.0	ranked	Sunfury Protector	Shaman	opponent	loss	18
+67	False	1459	67014545	Warlock	OG_131	7.0	ranked	Twin Emperor Vek'lor	Shaman	opponent	loss	18
+0	True	980	67010265	Warlock	KAR_009	1.0	ranked	Babbling Book	Shaman	me	loss	1
+1	True	980	67010265	Warlock	CS2_034	2.0	ranked	Fireblast	Shaman	opponent	loss	2
+2	True	980	67010265	Warlock	CS2_034	2.0	ranked	Fireblast	Shaman	me	loss	2
+3	True	980	67010265	Warlock	EX1_015	2.0	ranked	Novice Engineer	Shaman	opponent	loss	3
+4	True	980	67010265	Warlock	CS2_034	2.0	ranked	Fireblast	Shaman	me	loss	3
+5	True	980	67010265	Warlock	GAME_005		ranked	The Coin	Shaman	me	loss	3
+6	True	980	67010265	Warlock	EX1_608	2.0	ranked	Sorcerer's Apprentice	Shaman	me	loss	3
+7	True	980	67010265	Warlock	OG_323	4.0	ranked	Polluted Hoarder	Shaman	opponent	loss	4
+8	True	980	67010265	Warlock	LOE_002	3.0	ranked	Forgotten Torch	Shaman	me	loss	4
+9	True	980	67010265	Warlock	CS2_034	2.0	ranked	Fireblast	Shaman	me	loss	4
+10	True	980	67010265	Warlock	EX1_096	2.0	ranked	Loot Hoarder	Shaman	opponent	loss	5
+11	True	980	67010265	Warlock	KAR_009	1.0	ranked	Babbling Book	Shaman	opponent	loss	5
+12	True	980	67010265	Warlock	CS2_034	2.0	ranked	Fireblast	Shaman	opponent	loss	5
+13	True	980	67010265	Warlock	CS2_027	1.0	ranked	Mirror Image	Shaman	me	loss	5
+14	True	980	67010265	Warlock	CS2_034	2.0	ranked	Fireblast	Shaman	me	loss	5
+15	True	980	67010265	Warlock	CS2_034	2.0	ranked	Fireblast	Shaman	opponent	loss	6
+16	True	980	67010265	Warlock	EX1_006	3.0	ranked	Alarm-o-Bot	Shaman	opponent	loss	6
+17	True	980	67010265	Warlock	CS2_024	2.0	ranked	Frostbolt	Shaman	me	loss	6
+18	True	980	67010265	Warlock	CS2_034	2.0	ranked	Fireblast	Shaman	me	loss	6
+19	True	980	67010265	Warlock	EX1_595	4.0	ranked	Cult Master	Shaman	opponent	loss	7
+20	True	980	67010265	Warlock	EX1_007	3.0	ranked	Acolyte of Pain	Shaman	opponent	loss	7
+21	True	980	67010265	Warlock	OG_207	6.0	ranked	Faceless Summoner	Shaman	me	loss	7
+22	True	980	67010265	Warlock	KAR_097	8.0	ranked	Medivh the Guardian	Shaman	opponent	loss	8
+23	True	980	67010265	Warlock	CFM_021	0.0	ranked	Freezing Potion	Shaman	opponent	loss	8
+24	True	980	67010265	Warlock	CS2_029	4.0	ranked	Fireball	Shaman	me	loss	8
+25	True	980	67010265	Warlock	CS2_034	2.0	ranked	Fireblast	Shaman	me	loss	8
+26	True	980	67010265	Warlock	LOE_092	9.0	ranked	Arch-Thief Rafaam	Shaman	opponent	loss	9
+27	True	980	67010265	Warlock	LOE_002t	3.0	ranked	Roaring Torch	Shaman	me	loss	9
+28	True	980	67010265	Warlock	CFM_649	3.0	ranked	Kabal Courier	Shaman	me	loss	9
+29	True	980	67010265	Warlock	CS2_034	2.0	ranked	Fireblast	Shaman	me	loss	9
+30	True	980	67010265	Warlock	LOEA16_3	10.0	ranked	Lantern of Power	Shaman	opponent	loss	10
+31	True	980	67010265	Warlock	EX1_279	10.0	ranked	Pyroblast	Shaman	me	loss	10
+32	True	980	67010265	Warlock	CFM_623	7.0	ranked	Greater Arcane Missiles	Shaman	opponent	loss	11
+33	True	980	67010265	Warlock	EX1_557	2.0	ranked	Nat Pagle	Shaman	opponent	loss	11
+34	True	980	67010265	Warlock	CS2_022	4.0	ranked	Polymorph	Shaman	me	loss	11
+35	True	980	67010265	Warlock	LOE_011	6.0	ranked	Reno Jackson	Shaman	me	loss	11
+36	True	980	67010265	Warlock	LOE_038	5.0	ranked	Naga Sea Witch	Shaman	opponent	loss	12
+37	True	980	67010265	Warlock	BRM_031	8.0	ranked	Chromaggus	Shaman	opponent	loss	12
+38	True	980	67010265	Warlock	CFM_066	1.0	ranked	Kabal Lackey	Shaman	me	loss	12
+39	True	980	67010265	Warlock	KAR_097	8.0	ranked	Medivh the Guardian	Shaman	me	loss	12
+40	True	980	67010265	Warlock	EX1_287	3.0	ranked	Counterspell	Shaman	me	loss	12
+41	True	980	67010265	Warlock	EX1_559	7.0	ranked	Archmage Antonidas	Shaman	opponent	loss	13
+42	True	980	67010265	Warlock	LOE_079	4.0	ranked	Elise Starseeker	Shaman	opponent	loss	13
+43	True	980	67010265	Warlock	KAR_076	7.0	ranked	Firelands Portal	Shaman	me	loss	13
+44	True	980	67010265	Warlock	CS2_034	2.0	ranked	Fireblast	Shaman	me	loss	13
+45	True	980	67010265	Warlock	BRM_030	9.0	ranked	Nefarian	Shaman	opponent	loss	14
+46	True	980	67010265	Warlock	LOE_003	5.0	ranked	Ethereal Conjurer	Shaman	opponent	loss	14
+47	True	980	67010265	Warlock	KAR_037	5.0	ranked	Avian Watcher	Shaman	me	loss	14
+48	True	980	67010265	Warlock	CFM_760	6.0	ranked	Kabal Crystal Runner	Shaman	me	loss	14
+49	True	980	67010265	Warlock	EX1_043	4.0	ranked	Twilight Drake	Shaman	opponent	loss	15
+50	True	980	67010265	Warlock	EX1_043	4.0	ranked	Twilight Drake	Shaman	opponent	loss	15
+51	True	980	67010265	Warlock	LOE_029	2.0	ranked	Jeweled Scarab	Shaman	opponent	loss	15
+52	True	980	67010265	Warlock	CS2_032	7.0	ranked	Flamestrike	Shaman	me	loss	15
+53	True	980	67010265	Warlock	CS2_057	3.0	ranked	Shadow Bolt	Shaman	me	loss	15
+54	True	980	67010265	Warlock	CS2_034	2.0	ranked	Fireblast	Shaman	opponent	loss	16
+55	True	980	67010265	Warlock	CS2_147	4.0	ranked	Gnomish Inventor	Shaman	opponent	loss	16
+56	True	980	67010265	Warlock	CFM_621	4.0	ranked	Kazakus	Shaman	opponent	loss	16
+57	True	980	67010265	Warlock	CS2_026	3.0	ranked	Frost Nova	Shaman	me	loss	16
+58	True	980	67010265	Warlock	EX1_289	3.0	ranked	Ice Barrier	Shaman	me	loss	16
+59	True	980	67010265	Warlock	CS2_034	2.0	ranked	Fireblast	Shaman	me	loss	16
+60	True	980	67010265	Warlock	CFM_621t15	10.0	ranked	Kazakus Potion	Shaman	opponent	loss	17
+61	True	980	67010265	Warlock	CS2_034	2.0	ranked	Fireblast	Shaman	me	loss	17
+62	True	980	67010265	Warlock	EX1_110	6.0	ranked	Cairne Bloodhoof	Shaman	opponent	loss	18
+63	True	980	67010265	Warlock	LOE_079	4.0	ranked	Elise Starseeker	Shaman	opponent	loss	18
+64	True	980	67010265	Warlock	NEW1_012	1.0	ranked	Mana Wyrm	Shaman	me	loss	18
+65	True	980	67010265	Warlock	CS2_034	2.0	ranked	Fireblast	Shaman	me	loss	18
+66	True	980	67010265	Warlock	EX1_275	4.0	ranked	Cone of Cold	Shaman	me	loss	18
+67	True	980	67010265	Warlock	OG_317	10.0	ranked	Deathwing Dragonlord	Shaman	opponent	loss	19
+68	True	980	67010265	Warlock	CFM_621	4.0	ranked	Kazakus	Shaman	me	loss	19
+69	True	980	67010265	Warlock	CS2_034	2.0	ranked	Fireblast	Shaman	me	loss	19
+0	False	280	67007751	Warlock	CS2_146	1.0	ranked	Southsea Deckhand	Shaman	opponent	loss	1
+1	False	280	67007751	Warlock	CFM_637	1.0	ranked	Patches the Pirate	Shaman	opponent	loss	1
+2	False	280	67007751	Warlock	GAME_005		ranked	The Coin	Shaman	opponent	loss	1
+3	False	280	67007751	Warlock	EX1_409	1.0	ranked	Upgrade!	Shaman	opponent	loss	1
+4	False	280	67007751	Warlock	EX1_302	1.0	ranked	Mortal Coil	Shaman	me	loss	2
+5	False	280	67007751	Warlock	CS2_065	1.0	ranked	Voidwalker	Shaman	me	loss	2
+6	False	280	67007751	Warlock	EX1_409	1.0	ranked	Upgrade!	Shaman	opponent	loss	2
+7	False	280	67007751	Warlock	KAR_011	2.0	ranked	Pompous Thespian	Shaman	me	loss	3
+8	False	280	67007751	Warlock	CS2_102	2.0	ranked	Armor Up!	Shaman	opponent	loss	3
+9	False	280	67007751	Warlock	CS2_056	2.0	ranked	Life Tap	Shaman	me	loss	4
+10	False	280	67007751	Warlock	NEW1_023	2.0	ranked	Faerie Dragon	Shaman	me	loss	4
+11	False	280	67007751	Warlock	EX1_604	3.0	ranked	Frothing Berserker	Shaman	opponent	loss	4
+12	False	280	67007751	Warlock	CS2_057	3.0	ranked	Shadow Bolt	Shaman	me	loss	5
+13	False	280	67007751	Warlock	LOE_023	2.0	ranked	Dark Peddler	Shaman	me	loss	5
+14	False	280	67007751	Warlock	CS2_112	5.0	ranked	Arcanite Reaper	Shaman	opponent	loss	5
+15	False	280	67007751	Warlock	AT_097	1.0	ranked	Tournament Attendee	Shaman	me	loss	6
+16	False	280	67007751	Warlock	CS2_056	2.0	ranked	Life Tap	Shaman	me	loss	6
+17	False	280	67007751	Warlock	OG_315	3.0	ranked	Bloodsail Cultist	Shaman	opponent	loss	6
+18	False	280	67007751	Warlock	OG_315	3.0	ranked	Bloodsail Cultist	Shaman	opponent	loss	6
+19	False	280	67007751	Warlock	CFM_094	6.0	ranked	Felfire Potion	Shaman	me	loss	7
+20	False	280	67007751	Warlock	CS2_105	2.0	ranked	Heroic Strike	Shaman	opponent	loss	7
+21	False	280	67007751	Warlock	EX1_116	5.0	ranked	Leeroy Jenkins	Shaman	opponent	loss	7
+0	True	1952	67007086	Warlock	CS2_146	1.0	ranked	Southsea Deckhand	Shaman	opponent	win	1
+1	True	1952	67007086	Warlock	CFM_637	1.0	ranked	Patches the Pirate	Shaman	opponent	win	1
+2	True	1952	67007086	Warlock	GAME_005		ranked	The Coin	Shaman	me	win	1
+3	True	1952	67007086	Warlock	EX1_596	2.0	ranked	Demonfire	Shaman	me	win	1
+4	True	1952	67007086	Warlock	NEW1_018	2.0	ranked	Bloodsail Raider	Shaman	opponent	win	2
+5	True	1952	67007086	Warlock	KAR_011	2.0	ranked	Pompous Thespian	Shaman	me	win	2
+6	True	1952	67007086	Warlock	CS2_105	2.0	ranked	Heroic Strike	Shaman	opponent	win	3
+7	True	1952	67007086	Warlock	LOE_023	2.0	ranked	Dark Peddler	Shaman	me	win	3
+8	True	1952	67007086	Warlock	EX1_302	1.0	ranked	Mortal Coil	Shaman	me	win	3
+9	True	1952	67007086	Warlock	EX1_409	1.0	ranked	Upgrade!	Shaman	opponent	win	4
+10	True	1952	67007086	Warlock	OG_315	3.0	ranked	Bloodsail Cultist	Shaman	opponent	win	4
+11	True	1952	67007086	Warlock	EX1_066	2.0	ranked	Acidic Swamp Ooze	Shaman	me	win	4
+12	True	1952	67007086	Warlock	OG_151	1.0	ranked	Tentacle of N'Zoth	Shaman	me	win	4
+13	True	1952	67007086	Warlock	CFM_651	4.0	ranked	Naga Corsair	Shaman	opponent	win	5
+14	True	1952	67007086	Warlock	CS2_057	3.0	ranked	Shadow Bolt	Shaman	me	win	5
+15	True	1952	67007086	Warlock	CS2_056	2.0	ranked	Life Tap	Shaman	me	win	5
+16	True	1952	67007086	Warlock	NEW1_018	2.0	ranked	Bloodsail Raider	Shaman	opponent	win	6
+17	True	1952	67007086	Warlock	CFM_851	4.0	ranked	Daring Reporter	Shaman	me	win	6
+18	True	1952	67007086	Warlock	CS2_056	2.0	ranked	Life Tap	Shaman	me	win	6
+19	True	1952	67007086	Warlock	CS2_105	2.0	ranked	Heroic Strike	Shaman	opponent	win	7
+20	True	1952	67007086	Warlock	NEW1_022	4.0	ranked	Dread Corsair	Shaman	opponent	win	7
+21	True	1952	67007086	Warlock	CS2_062	4.0	ranked	Hellfire	Shaman	me	win	7
+22	True	1952	67007086	Warlock	CS2_065	1.0	ranked	Voidwalker	Shaman	me	win	7
+23	True	1952	67007086	Warlock	CS2_112	5.0	ranked	Arcanite Reaper	Shaman	opponent	win	8
+24	True	1952	67007086	Warlock	CS2_056	2.0	ranked	Life Tap	Shaman	me	win	8
+25	True	1952	67007086	Warlock	LOE_011	6.0	ranked	Reno Jackson	Shaman	me	win	8
+26	True	1952	67007086	Warlock	CFM_651	4.0	ranked	Naga Corsair	Shaman	opponent	win	9
+27	True	1952	67007086	Warlock	EX1_298	8.0	ranked	Ragnaros the Firelord	Shaman	me	win	9
+28	True	1952	67007086	Warlock	CS2_112	5.0	ranked	Arcanite Reaper	Shaman	opponent	win	10
+29	True	1952	67007086	Warlock	LOE_077	3.0	ranked	Brann Bronzebeard	Shaman	me	win	10
+30	True	1952	67007086	Warlock	KAR_114	4.0	ranked	Barnes	Shaman	me	win	10
+31	True	1952	67007086	Warlock	CS2_056	2.0	ranked	Life Tap	Shaman	me	win	10
+0	True	568	67002288	Warlock	LOE_115	1.0	ranked	Raven Idol	Shaman	opponent	loss	1
+1	True	568	67002288	Warlock	CFM_120	1.0	ranked	Mistress of Mixtures	Shaman	me	loss	1
+2	True	568	67002288	Warlock	CS2_017	2.0	ranked	Shapeshift	Shaman	opponent	loss	2
+3	True	568	67002288	Warlock	CS2_056	2.0	ranked	Life Tap	Shaman	me	loss	2
+4	True	568	67002288	Warlock	CS2_017	2.0	ranked	Shapeshift	Shaman	opponent	loss	3
+5	True	568	67002288	Warlock	KAR_712	3.0	ranked	Violet Illusionist	Shaman	me	loss	3
+6	True	568	67002288	Warlock	CS2_013	2.0	ranked	Wild Growth	Shaman	opponent	loss	4
+7	True	568	67002288	Warlock	CS2_017	2.0	ranked	Shapeshift	Shaman	opponent	loss	4
+8	True	568	67002288	Warlock	GAME_005		ranked	The Coin	Shaman	me	loss	4
+9	True	568	67002288	Warlock	EX1_284	5.0	ranked	Azure Drake	Shaman	me	loss	4
+10	True	568	67002288	Warlock	EX1_161	1.0	ranked	Naturalize	Shaman	opponent	loss	5
+11	True	568	67002288	Warlock	EX1_161	1.0	ranked	Naturalize	Shaman	opponent	loss	5
+12	True	568	67002288	Warlock	EX1_012	2.0	ranked	Bloodmage Thalnos	Shaman	opponent	loss	5
+13	True	568	67002288	Warlock	CS2_017	2.0	ranked	Shapeshift	Shaman	opponent	loss	5
+14	True	568	67002288	Warlock	EX1_066	2.0	ranked	Acidic Swamp Ooze	Shaman	me	loss	5
+15	True	568	67002288	Warlock	NEW1_023	2.0	ranked	Faerie Dragon	Shaman	me	loss	5
+16	True	568	67002288	Warlock	CS2_012	4.0	ranked	Swipe	Shaman	opponent	loss	6
+17	True	568	67002288	Warlock	CS2_017	2.0	ranked	Shapeshift	Shaman	opponent	loss	6
+18	True	568	67002288	Warlock	CFM_851	4.0	ranked	Daring Reporter	Shaman	me	loss	6
+19	True	568	67002288	Warlock	AT_037	1.0	ranked	Living Roots	Shaman	opponent	loss	7
+20	True	568	67002288	Warlock	EX1_284	5.0	ranked	Azure Drake	Shaman	opponent	loss	7
+21	True	568	67002288	Warlock	CS2_017	2.0	ranked	Shapeshift	Shaman	opponent	loss	7
+22	True	568	67002288	Warlock	EX1_309	6.0	ranked	Siphon Soul	Shaman	me	loss	7
+23	True	568	67002288	Warlock	EX1_284	5.0	ranked	Azure Drake	Shaman	opponent	loss	8
+24	True	568	67002288	Warlock	CS2_017	2.0	ranked	Shapeshift	Shaman	opponent	loss	8
+25	True	568	67002288	Warlock	CS2_057	3.0	ranked	Shadow Bolt	Shaman	me	loss	8
+26	True	568	67002288	Warlock	KAR_011	2.0	ranked	Pompous Thespian	Shaman	me	loss	8
+27	True	568	67002288	Warlock	OG_044	4.0	ranked	Fandral Staghelm	Shaman	opponent	loss	9
+28	True	568	67002288	Warlock	EX1_154	2.0	ranked	Wrath	Shaman	opponent	loss	9
+29	True	568	67002288	Warlock	OG_047	3.0	ranked	Feral Rage	Shaman	opponent	loss	9
+30	True	568	67002288	Warlock	CFM_608	4.0	ranked	Blastcrystal Potion	Shaman	me	loss	9
+31	True	568	67002288	Warlock	CFM_649	3.0	ranked	Kabal Courier	Shaman	me	loss	9
+32	True	568	67002288	Warlock	CS2_017	2.0	ranked	Shapeshift	Shaman	opponent	loss	10
+33	True	568	67002288	Warlock	EX1_298	8.0	ranked	Ragnaros the Firelord	Shaman	me	loss	10
+34	True	568	67002288	Warlock	EX1_164	5.0	ranked	Nourish	Shaman	opponent	loss	11
+35	True	568	67002288	Warlock	OG_047	3.0	ranked	Feral Rage	Shaman	opponent	loss	11
+36	True	568	67002288	Warlock	CS2_017	2.0	ranked	Shapeshift	Shaman	opponent	loss	11
+37	True	568	67002288	Warlock	CFM_751	7.0	ranked	Abyssal Enforcer	Shaman	me	loss	11
+38	True	568	67002288	Warlock	AT_045	9.0	ranked	Aviana	Shaman	opponent	loss	12
+39	True	568	67002288	Warlock	EX1_169	0.0	ranked	Innervate	Shaman	opponent	loss	12
+40	True	568	67002288	Warlock	EX1_564	5.0	ranked	Faceless Manipulator	Shaman	opponent	loss	12
+41	True	568	67002288	Warlock	EX1_298	8.0	ranked	Ragnaros the Firelord	Shaman	opponent	loss	12
+42	True	568	67002288	Warlock	KAR_041	6.0	ranked	Moat Lurker	Shaman	opponent	loss	12
+43	True	568	67002288	Warlock	EX1_312	8.0	ranked	Twisting Nether	Shaman	me	loss	12
+44	True	568	67002288	Warlock	CFM_308	10.0	ranked	Kun the Forgotten King	Shaman	opponent	loss	13
+45	True	568	67002288	Warlock	CS2_012	4.0	ranked	Swipe	Shaman	opponent	loss	13
+46	True	568	67002288	Warlock	CS2_017	2.0	ranked	Shapeshift	Shaman	opponent	loss	13
+47	True	568	67002288	Warlock	CS2_013	2.0	ranked	Wild Growth	Shaman	opponent	loss	13
+48	True	568	67002288	Warlock	CS2_013t	0.0	ranked	Excess Mana	Shaman	opponent	loss	13
+49	True	568	67002288	Warlock	AT_037	1.0	ranked	Living Roots	Shaman	opponent	loss	13
+0	False	186	67000859	Warlock	CS2_056	2.0	ranked	Life Tap	Shaman	me	loss	2
+1	False	186	67000859	Warlock	CS2_106	2.0	ranked	Fiery War Axe	Shaman	opponent	loss	2
+2	False	186	67000859	Warlock	CS2_056	2.0	ranked	Life Tap	Shaman	me	loss	3
+3	False	186	67000859	Warlock	NEW1_018	2.0	ranked	Bloodsail Raider	Shaman	opponent	loss	3
+4	False	186	67000859	Warlock	CFM_637	1.0	ranked	Patches the Pirate	Shaman	opponent	loss	3
+5	False	186	67000859	Warlock	CFM_851	4.0	ranked	Daring Reporter	Shaman	me	loss	4
+6	False	186	67000859	Warlock	GAME_005		ranked	The Coin	Shaman	opponent	loss	4
+7	False	186	67000859	Warlock	CS2_112	5.0	ranked	Arcanite Reaper	Shaman	opponent	loss	4
+8	False	186	67000859	Warlock	CFM_668	5.0	ranked	Doppelgangster	Shaman	me	loss	5
+9	False	186	67000859	Warlock	NEW1_011	4.0	ranked	Kor'kron Elite	Shaman	opponent	loss	5
+0	True	831	66945721	Warlock	GAME_005		ranked	The Coin	Shaman	me	win	1
+1	True	831	66945721	Warlock	NEW1_023	2.0	ranked	Faerie Dragon	Shaman	me	win	1
+2	True	831	66945721	Warlock	AT_042	2.0	ranked	Druid of the Saber	Shaman	opponent	win	2
+3	True	831	66945721	Warlock	KAR_011	2.0	ranked	Pompous Thespian	Shaman	me	win	2
+4	True	831	66945721	Warlock	OG_048	2.0	ranked	Mark of Y'Shaarj	Shaman	opponent	win	3
+5	True	831	66945721	Warlock	AT_037	1.0	ranked	Living Roots	Shaman	opponent	win	3
+6	True	831	66945721	Warlock	EX1_302	1.0	ranked	Mortal Coil	Shaman	me	win	3
+7	True	831	66945721	Warlock	EX1_066	2.0	ranked	Acidic Swamp Ooze	Shaman	me	win	3
+8	True	831	66945721	Warlock	AT_042	2.0	ranked	Druid of the Saber	Shaman	opponent	win	4
+9	True	831	66945721	Warlock	OG_048	2.0	ranked	Mark of Y'Shaarj	Shaman	opponent	win	4
+10	True	831	66945721	Warlock	KAR_114	4.0	ranked	Barnes	Shaman	me	win	4
+11	True	831	66945721	Warlock	EX1_165	5.0	ranked	Druid of the Claw	Shaman	opponent	win	5
+12	True	831	66945721	Warlock	EX1_316	1.0	ranked	Power Overwhelming	Shaman	me	win	5
+13	True	831	66945721	Warlock	KAR_712	3.0	ranked	Violet Illusionist	Shaman	me	win	5
+14	True	831	66945721	Warlock	CS2_065	1.0	ranked	Voidwalker	Shaman	me	win	5
+15	True	831	66945721	Warlock	EX1_284	5.0	ranked	Azure Drake	Shaman	opponent	win	6
+16	True	831	66945721	Warlock	CS2_056	2.0	ranked	Life Tap	Shaman	me	win	6
+17	True	831	66945721	Warlock	CFM_120	1.0	ranked	Mistress of Mixtures	Shaman	me	win	6
+18	True	831	66945721	Warlock	KAR_061	7.0	ranked	The Curator	Shaman	opponent	win	7
+19	True	831	66945721	Warlock	CFM_751	7.0	ranked	Abyssal Enforcer	Shaman	me	win	7
+20	True	831	66945721	Warlock	EX1_284	5.0	ranked	Azure Drake	Shaman	opponent	win	8
+21	True	831	66945721	Warlock	CS2_017	2.0	ranked	Shapeshift	Shaman	opponent	win	8
+22	True	831	66945721	Warlock	LOE_076	1.0	ranked	Sir Finley Mrrgglton	Shaman	opponent	win	8
+23	True	831	66945721	Warlock	EX1_284	5.0	ranked	Azure Drake	Shaman	me	win	8
+24	True	831	66945721	Warlock	CFM_649	3.0	ranked	Kabal Courier	Shaman	me	win	8
+25	True	831	66945721	Warlock	AT_037	1.0	ranked	Living Roots	Shaman	opponent	win	9
+26	True	831	66945721	Warlock	AT_039	4.0	ranked	Savage Combatant	Shaman	opponent	win	9
+27	True	831	66945721	Warlock	EX1_169	0.0	ranked	Innervate	Shaman	opponent	win	9
+28	True	831	66945721	Warlock	KAR_065	6.0	ranked	Menagerie Warden	Shaman	opponent	win	9
+29	True	831	66945721	Warlock	EX1_169	0.0	ranked	Innervate	Shaman	opponent	win	9
+30	True	831	66945721	Warlock	CS2_101	2.0	ranked	Reinforce	Shaman	opponent	win	9
+31	True	831	66945721	Warlock	CFM_094	6.0	ranked	Felfire Potion	Shaman	me	win	9
+32	True	831	66945721	Warlock	LOE_023	2.0	ranked	Dark Peddler	Shaman	me	win	9
+33	True	831	66945721	Warlock	CS2_065	1.0	ranked	Voidwalker	Shaman	me	win	9
+34	True	831	66945721	Warlock	CS2_101	2.0	ranked	Reinforce	Shaman	opponent	win	10
+35	True	831	66945721	Warlock	KAR_300	1.0	ranked	Enchanted Raven	Shaman	opponent	win	10
+36	True	831	66945721	Warlock	EX1_160	2.0	ranked	Power of the Wild	Shaman	opponent	win	10
+37	True	831	66945721	Warlock	CS2_062	4.0	ranked	Hellfire	Shaman	me	win	10
+38	True	831	66945721	Warlock	CFM_851	4.0	ranked	Daring Reporter	Shaman	me	win	10
+39	True	831	66945721	Warlock	CS2_056	2.0	ranked	Life Tap	Shaman	me	win	10
+40	True	831	66945721	Warlock	CS2_012	4.0	ranked	Swipe	Shaman	opponent	win	11
+41	True	831	66945721	Warlock	CS2_101	2.0	ranked	Reinforce	Shaman	opponent	win	11
+42	True	831	66945721	Warlock	CFM_621	4.0	ranked	Kazakus	Shaman	me	win	11
+43	True	831	66945721	Warlock	CFM_654	2.0	ranked	Friendly Bartender	Shaman	me	win	11
+44	True	831	66945721	Warlock	EX1_165	5.0	ranked	Druid of the Claw	Shaman	opponent	win	12
+45	True	831	66945721	Warlock	CS2_101	2.0	ranked	Reinforce	Shaman	opponent	win	12
+46	True	831	66945721	Warlock	CS2_057	3.0	ranked	Shadow Bolt	Shaman	me	win	12
+47	True	831	66945721	Warlock	LOE_011	6.0	ranked	Reno Jackson	Shaman	me	win	12
+48	True	831	66945721	Warlock	CS2_101	2.0	ranked	Reinforce	Shaman	opponent	win	13
+49	True	831	66945721	Warlock	CS2_011	3.0	ranked	Savage Roar	Shaman	opponent	win	13
+50	True	831	66945721	Warlock	CFM_614	1.0	ranked	Mark of the Lotus	Shaman	opponent	win	13
+51	True	831	66945721	Warlock	CFM_621t15	10.0	ranked	Kazakus Potion	Shaman	me	win	13
+52	True	831	66945721	Warlock	NEW1_026	4.0	ranked	Violet Teacher	Shaman	opponent	win	14
+53	True	831	66945721	Warlock	CS2_101	2.0	ranked	Reinforce	Shaman	opponent	win	14
+54	True	831	66945721	Warlock	EX1_309	6.0	ranked	Siphon Soul	Shaman	me	win	14
+55	True	831	66945721	Warlock	BRM_006	3.0	ranked	Imp Gang Boss	Shaman	me	win	14
+56	True	831	66945721	Warlock	LOE_050	3.0	ranked	Mounted Raptor	Shaman	opponent	win	15
+0	True	794	66942249	Warlock	GAME_005		ranked	The Coin	Shaman	me	win	1
+1	True	794	66942249	Warlock	CS2_056	2.0	ranked	Life Tap	Shaman	me	win	1
+2	True	794	66942249	Warlock	CS1h_001	2.0	ranked	Lesser Heal	Shaman	opponent	win	2
+3	True	794	66942249	Warlock	CS2_056	2.0	ranked	Life Tap	Shaman	me	win	2
+4	True	794	66942249	Warlock	KAR_062	2.0	ranked	Netherspite Historian	Shaman	opponent	win	3
+5	True	794	66942249	Warlock	CS2_056	2.0	ranked	Life Tap	Shaman	me	win	3
+6	True	794	66942249	Warlock	CS2_065	1.0	ranked	Voidwalker	Shaman	me	win	3
+7	True	794	66942249	Warlock	AT_017	4.0	ranked	Twilight Guardian	Shaman	opponent	win	4
+8	True	794	66942249	Warlock	CFM_851	4.0	ranked	Daring Reporter	Shaman	me	win	4
+9	True	794	66942249	Warlock	CS1_129	1.0	ranked	Inner Fire	Shaman	opponent	win	5
+10	True	794	66942249	Warlock	CS2_234	2.0	ranked	Shadow Word: Pain	Shaman	opponent	win	5
+11	True	794	66942249	Warlock	CS1h_001	2.0	ranked	Lesser Heal	Shaman	opponent	win	5
+12	True	794	66942249	Warlock	CS2_062	4.0	ranked	Hellfire	Shaman	me	win	5
+13	True	794	66942249	Warlock	EX1_302	1.0	ranked	Mortal Coil	Shaman	me	win	5
+14	True	794	66942249	Warlock	CFM_605	5.0	ranked	Drakonid Operative	Shaman	opponent	win	6
+15	True	794	66942249	Warlock	EX1_016	6.0	ranked	Sylvanas Windrunner	Shaman	me	win	6
+16	True	794	66942249	Warlock	AT_017	4.0	ranked	Twilight Guardian	Shaman	opponent	win	7
+17	True	794	66942249	Warlock	CFM_626	3.0	ranked	Kabal Talonpriest	Shaman	opponent	win	7
+18	True	794	66942249	Warlock	LOE_077	3.0	ranked	Brann Bronzebeard	Shaman	me	win	7
+19	True	794	66942249	Warlock	CFM_621	4.0	ranked	Kazakus	Shaman	me	win	7
+20	True	794	66942249	Warlock	BRM_034	5.0	ranked	Blackwing Corruptor	Shaman	opponent	win	8
+21	True	794	66942249	Warlock	CS1h_001	2.0	ranked	Lesser Heal	Shaman	opponent	win	8
+22	True	794	66942249	Warlock	EX1_309	6.0	ranked	Siphon Soul	Shaman	me	win	8
+23	True	794	66942249	Warlock	KAR_011	2.0	ranked	Pompous Thespian	Shaman	me	win	8
+24	True	794	66942249	Warlock	CFM_605	5.0	ranked	Drakonid Operative	Shaman	opponent	win	9
+25	True	794	66942249	Warlock	CFM_608	4.0	ranked	Blastcrystal Potion	Shaman	opponent	win	9
+26	True	794	66942249	Warlock	CS2_056	2.0	ranked	Life Tap	Shaman	me	win	9
+27	True	794	66942249	Warlock	LOE_011	6.0	ranked	Reno Jackson	Shaman	me	win	9
+28	True	794	66942249	Warlock	LOE_077	3.0	ranked	Brann Bronzebeard	Shaman	opponent	win	10
+29	True	794	66942249	Warlock	CFM_626	3.0	ranked	Kabal Talonpriest	Shaman	opponent	win	10
+30	True	794	66942249	Warlock	CS2_235	1.0	ranked	Northshire Cleric	Shaman	opponent	win	10
+31	True	794	66942249	Warlock	CS1h_001	2.0	ranked	Lesser Heal	Shaman	opponent	win	10
+32	True	794	66942249	Warlock	EX1_312	8.0	ranked	Twisting Nether	Shaman	me	win	10
+33	True	794	66942249	Warlock	EX1_284	5.0	ranked	Azure Drake	Shaman	opponent	win	11
+34	True	794	66942249	Warlock	CS2_004	1.0	ranked	Power Word: Shield	Shaman	opponent	win	11
+35	True	794	66942249	Warlock	CS2_004	1.0	ranked	Power Word: Shield	Shaman	opponent	win	11
+36	True	794	66942249	Warlock	CS1h_001	2.0	ranked	Lesser Heal	Shaman	opponent	win	11
+37	True	794	66942249	Warlock	CFM_621t15	10.0	ranked	Kazakus Potion	Shaman	me	win	11
+38	True	794	66942249	Warlock	EX1_622	3.0	ranked	Shadow Word: Death	Shaman	opponent	win	12
+39	True	794	66942249	Warlock	CS1h_001	2.0	ranked	Lesser Heal	Shaman	opponent	win	12
+40	True	794	66942249	Warlock	KAR_114	4.0	ranked	Barnes	Shaman	me	win	12
+41	True	794	66942249	Warlock	CFM_668	5.0	ranked	Doppelgangster	Shaman	me	win	12
+42	True	794	66942249	Warlock	CS1_112	5.0	ranked	Holy Nova	Shaman	opponent	win	13
+43	True	794	66942249	Warlock	BRM_034	5.0	ranked	Blackwing Corruptor	Shaman	opponent	win	13
+44	True	794	66942249	Warlock	CFM_649	3.0	ranked	Kabal Courier	Shaman	me	win	13
+45	True	794	66942249	Warlock	KAR_009	1.0	ranked	Babbling Book	Shaman	me	win	13
+46	True	794	66942249	Warlock	KAR_712	3.0	ranked	Violet Illusionist	Shaman	me	win	13
+47	True	794	66942249	Warlock	LOE_023	2.0	ranked	Dark Peddler	Shaman	me	win	13
+48	True	794	66942249	Warlock	CFM_662	6.0	ranked	Dragonfire Potion	Shaman	opponent	win	14
+49	True	794	66942249	Warlock	BRM_004	1.0	ranked	Twilight Whelp	Shaman	opponent	win	14
+50	True	794	66942249	Warlock	CS1h_001	2.0	ranked	Lesser Heal	Shaman	opponent	win	14
+51	True	794	66942249	Warlock	EX1_284	5.0	ranked	Azure Drake	Shaman	me	win	14
+52	True	794	66942249	Warlock	EX1_596	2.0	ranked	Demonfire	Shaman	me	win	14
+53	True	794	66942249	Warlock	EX1_066	2.0	ranked	Acidic Swamp Ooze	Shaman	me	win	14
+54	True	794	66942249	Warlock	EX1_323	9.0	ranked	Lord Jaraxxus	Shaman	opponent	win	15
+55	True	794	66942249	Warlock	BRM_004	1.0	ranked	Twilight Whelp	Shaman	opponent	win	15
+56	True	794	66942249	Warlock	CFM_621t15	10.0	ranked	Kazakus Potion	Shaman	me	win	15
+0	True	1115	66934100	Warlock	CS2_065	1.0	ranked	Voidwalker	Shaman	me	win	1
+1	True	1115	66934100	Warlock	AT_116	2.0	ranked	Wyrmrest Agent	Shaman	opponent	win	2
+2	True	1115	66934100	Warlock	LOE_023	2.0	ranked	Dark Peddler	Shaman	me	win	2
+3	True	1115	66934100	Warlock	CS2_234	2.0	ranked	Shadow Word: Pain	Shaman	opponent	win	3
+4	True	1115	66934100	Warlock	KAR_712	3.0	ranked	Violet Illusionist	Shaman	me	win	3
+5	True	1115	66934100	Warlock	AT_017	4.0	ranked	Twilight Guardian	Shaman	opponent	win	4
+6	True	1115	66934100	Warlock	GAME_005		ranked	The Coin	Shaman	me	win	4
+7	True	1115	66934100	Warlock	CFM_668	5.0	ranked	Doppelgangster	Shaman	me	win	4
+8	True	1115	66934100	Warlock	AT_116	2.0	ranked	Wyrmrest Agent	Shaman	opponent	win	5
+9	True	1115	66934100	Warlock	CS2_056	2.0	ranked	Life Tap	Shaman	me	win	5
+10	True	1115	66934100	Warlock	NEW1_023	2.0	ranked	Faerie Dragon	Shaman	me	win	5
+11	True	1115	66934100	Warlock	CFM_120	1.0	ranked	Mistress of Mixtures	Shaman	me	win	5
+12	True	1115	66934100	Warlock	CFM_626	3.0	ranked	Kabal Talonpriest	Shaman	opponent	win	6
+13	True	1115	66934100	Warlock	CFM_094	6.0	ranked	Felfire Potion	Shaman	me	win	6
+14	True	1115	66934100	Warlock	CFM_605	5.0	ranked	Drakonid Operative	Shaman	opponent	win	7
+15	True	1115	66934100	Warlock	EX1_016	6.0	ranked	Sylvanas Windrunner	Shaman	me	win	7
+16	True	1115	66934100	Warlock	EX1_284	5.0	ranked	Azure Drake	Shaman	opponent	win	8
+17	True	1115	66934100	Warlock	CS2_004	1.0	ranked	Power Word: Shield	Shaman	opponent	win	8
+18	True	1115	66934100	Warlock	EX1_046	4.0	ranked	Dark Iron Dwarf	Shaman	me	win	8
+19	True	1115	66934100	Warlock	CS2_056	2.0	ranked	Life Tap	Shaman	me	win	8
+20	True	1115	66934100	Warlock	EX1_284	5.0	ranked	Azure Drake	Shaman	opponent	win	9
+21	True	1115	66934100	Warlock	CFM_626	3.0	ranked	Kabal Talonpriest	Shaman	opponent	win	9
+22	True	1115	66934100	Warlock	EX1_309	6.0	ranked	Siphon Soul	Shaman	me	win	9
+23	True	1115	66934100	Warlock	EX1_066	2.0	ranked	Acidic Swamp Ooze	Shaman	me	win	9
+24	True	1115	66934100	Warlock	KAR_062	2.0	ranked	Netherspite Historian	Shaman	opponent	win	10
+25	True	1115	66934100	Warlock	CS1_112	5.0	ranked	Holy Nova	Shaman	opponent	win	10
+26	True	1115	66934100	Warlock	EX1_298	8.0	ranked	Ragnaros the Firelord	Shaman	me	win	10
+27	True	1115	66934100	Warlock	CS2_056	2.0	ranked	Life Tap	Shaman	me	win	10
+28	True	1115	66934100	Warlock	CFM_605	5.0	ranked	Drakonid Operative	Shaman	opponent	win	11
+29	True	1115	66934100	Warlock	EX1_622	3.0	ranked	Shadow Word: Death	Shaman	opponent	win	11
+30	True	1115	66934100	Warlock	EX1_284	5.0	ranked	Azure Drake	Shaman	me	win	11
+31	True	1115	66934100	Warlock	EX1_302	1.0	ranked	Mortal Coil	Shaman	me	win	11
+32	True	1115	66934100	Warlock	CFM_851	4.0	ranked	Daring Reporter	Shaman	me	win	11
+33	True	1115	66934100	Warlock	LOE_077	3.0	ranked	Brann Bronzebeard	Shaman	opponent	win	12
+34	True	1115	66934100	Warlock	CS2_004	1.0	ranked	Power Word: Shield	Shaman	opponent	win	12
+35	True	1115	66934100	Warlock	AT_017	4.0	ranked	Twilight Guardian	Shaman	opponent	win	12
+36	True	1115	66934100	Warlock	CS2_056	2.0	ranked	Life Tap	Shaman	me	win	12
+37	True	1115	66934100	Warlock	CFM_654	2.0	ranked	Friendly Bartender	Shaman	me	win	12
+38	True	1115	66934100	Warlock	CFM_120	1.0	ranked	Mistress of Mixtures	Shaman	me	win	12
+39	True	1115	66934100	Warlock	KAR_033	6.0	ranked	Book Wyrm	Shaman	opponent	win	13
+40	True	1115	66934100	Warlock	EX1_622	3.0	ranked	Shadow Word: Death	Shaman	opponent	win	13
+41	True	1115	66934100	Warlock	CS2_056	2.0	ranked	Life Tap	Shaman	me	win	13
+42	True	1115	66934100	Warlock	EX1_312	8.0	ranked	Twisting Nether	Shaman	me	win	13
+43	True	1115	66934100	Warlock	CS2_235	1.0	ranked	Northshire Cleric	Shaman	opponent	win	14
+44	True	1115	66934100	Warlock	CFM_751	7.0	ranked	Abyssal Enforcer	Shaman	me	win	14
+45	True	1115	66934100	Warlock	BRM_004	1.0	ranked	Twilight Whelp	Shaman	opponent	win	15
+46	True	1115	66934100	Warlock	CS2_057	3.0	ranked	Shadow Bolt	Shaman	me	win	15
+47	True	1115	66934100	Warlock	LOE_077	3.0	ranked	Brann Bronzebeard	Shaman	me	win	15
+48	True	1115	66934100	Warlock	BRM_034	5.0	ranked	Blackwing Corruptor	Shaman	opponent	win	16
+49	True	1115	66934100	Warlock	EX1_323	9.0	ranked	Lord Jaraxxus	Shaman	me	win	16
+50	True	1115	66934100	Warlock	EX1_066	2.0	ranked	Acidic Swamp Ooze	Shaman	opponent	win	17
+51	True	1115	66934100	Warlock	BRM_033	3.0	ranked	Blackwing Technician	Shaman	opponent	win	17
+52	True	1115	66934100	Warlock	CFM_621	4.0	ranked	Kazakus	Shaman	opponent	win	17
+53	True	1115	66934100	Warlock	EX1_596	2.0	ranked	Demonfire	Shaman	me	win	17
+54	True	1115	66934100	Warlock	CS2_062	4.0	ranked	Hellfire	Shaman	me	win	17
+55	True	1115	66934100	Warlock	EX1_tk33	2.0	ranked	INFERNO!	Shaman	me	win	17
+56	True	1115	66934100	Warlock	KAR_011	2.0	ranked	Pompous Thespian	Shaman	me	win	17
+57	True	1115	66934100	Warlock	CFM_621t15	10.0	ranked	Kazakus Potion	Shaman	opponent	win	18
+58	True	1115	66934100	Warlock	CFM_649	3.0	ranked	Kabal Courier	Shaman	me	win	18
+59	True	1115	66934100	Warlock	CS2_234	2.0	ranked	Shadow Word: Pain	Shaman	me	win	18
+60	True	1115	66934100	Warlock	EX1_tk33	2.0	ranked	INFERNO!	Shaman	me	win	18
+61	True	1115	66934100	Warlock	CFM_604	4.0	ranked	Greater Healing Potion	Shaman	opponent	win	19
+62	True	1115	66934100	Warlock	BRM_034	5.0	ranked	Blackwing Corruptor	Shaman	opponent	win	19
+63	True	1115	66934100	Warlock	KAR_114	4.0	ranked	Barnes	Shaman	me	win	19
+64	True	1115	66934100	Warlock	EX1_tk33	2.0	ranked	INFERNO!	Shaman	me	win	19
+65	True	1115	66934100	Warlock	CFM_608	4.0	ranked	Blastcrystal Potion	Shaman	me	win	19
+66	True	1115	66934100	Warlock	CFM_605	5.0	ranked	Drakonid Operative	Shaman	opponent	win	20
+67	True	1115	66934100	Warlock	CFM_621	4.0	ranked	Kazakus	Shaman	opponent	win	20
+68	True	1115	66934100	Warlock	CFM_621t	1.0	ranked	Kazakus Potion	Shaman	opponent	win	20
+0	False	444	66932087	Warlock	KAR_069	1.0	ranked	Swashburglar	Shaman	opponent	loss	1
+1	False	444	66932087	Warlock	CFM_637	1.0	ranked	Patches the Pirate	Shaman	opponent	loss	1
+2	False	444	66932087	Warlock	EX1_302	1.0	ranked	Mortal Coil	Shaman	me	loss	2
+3	False	444	66932087	Warlock	AT_029	1.0	ranked	Buccaneer	Shaman	opponent	loss	2
+4	False	444	66932087	Warlock	LOE_023	2.0	ranked	Dark Peddler	Shaman	me	loss	3
+5	False	444	66932087	Warlock	CS2_171	1.0	ranked	Stonetusk Boar	Shaman	me	loss	3
+6	False	444	66932087	Warlock	CS2_146	1.0	ranked	Southsea Deckhand	Shaman	opponent	loss	3
+7	False	444	66932087	Warlock	CS2_083b	2.0	ranked	Dagger Mastery	Shaman	opponent	loss	3
+8	False	444	66932087	Warlock	CFM_851	4.0	ranked	Daring Reporter	Shaman	me	loss	4
+9	False	444	66932087	Warlock	GAME_005		ranked	The Coin	Shaman	opponent	loss	4
+10	False	444	66932087	Warlock	EX1_284	5.0	ranked	Azure Drake	Shaman	opponent	loss	4
+11	False	444	66932087	Warlock	CS2_072	0.0	ranked	Backstab	Shaman	opponent	loss	4
+12	False	444	66932087	Warlock	CS2_057	3.0	ranked	Shadow Bolt	Shaman	me	loss	5
+13	False	444	66932087	Warlock	CS2_056	2.0	ranked	Life Tap	Shaman	me	loss	5
+14	False	444	66932087	Warlock	OG_330	2.0	ranked	Undercity Huckster	Shaman	opponent	loss	5
+15	False	444	66932087	Warlock	CS2_083b	2.0	ranked	Dagger Mastery	Shaman	opponent	loss	5
+16	False	444	66932087	Warlock	CS2_146	1.0	ranked	Southsea Deckhand	Shaman	opponent	loss	5
+17	False	444	66932087	Warlock	CFM_668	5.0	ranked	Doppelgangster	Shaman	me	loss	6
+18	False	444	66932087	Warlock	EX1_596	2.0	ranked	Demonfire	Shaman	opponent	loss	6
+19	False	444	66932087	Warlock	EX1_134	3.0	ranked	SI:7 Agent	Shaman	opponent	loss	6
+20	False	444	66932087	Warlock	CS2_073	1.0	ranked	Cold Blood	Shaman	opponent	loss	6
+21	False	444	66932087	Warlock	CFM_094	6.0	ranked	Felfire Potion	Shaman	me	loss	7
+22	False	444	66932087	Warlock	CS2_077	7.0	ranked	Sprint	Shaman	opponent	loss	7
+23	False	444	66932087	Warlock	KAR_011	2.0	ranked	Pompous Thespian	Shaman	me	loss	8
+24	False	444	66932087	Warlock	KAR_114	4.0	ranked	Barnes	Shaman	me	loss	8
+25	False	444	66932087	Warlock	CS2_072	0.0	ranked	Backstab	Shaman	opponent	loss	8
+26	False	444	66932087	Warlock	CS2_080	5.0	ranked	Assassin's Blade	Shaman	opponent	loss	8
+27	False	444	66932087	Warlock	CFM_325	1.0	ranked	Small-Time Buccaneer	Shaman	opponent	loss	8
+28	False	444	66932087	Warlock	OG_330	2.0	ranked	Undercity Huckster	Shaman	opponent	loss	8
+29	False	444	66932087	Warlock	CFM_654	2.0	ranked	Friendly Bartender	Shaman	me	loss	9
+30	False	444	66932087	Warlock	CFM_621	4.0	ranked	Kazakus	Shaman	me	loss	9
+31	False	444	66932087	Warlock	EX1_323	9.0	ranked	Lord Jaraxxus	Shaman	opponent	loss	9
+0	False	451	66931435	Warlock	GAME_005		ranked	The Coin	Shaman	opponent	win	1
+1	False	451	66931435	Warlock	AT_116	2.0	ranked	Wyrmrest Agent	Shaman	opponent	win	1
+2	False	451	66931435	Warlock	KAR_011	2.0	ranked	Pompous Thespian	Shaman	me	win	2
+3	False	451	66931435	Warlock	CS1h_001	2.0	ranked	Lesser Heal	Shaman	opponent	win	2
+4	False	451	66931435	Warlock	CS2_056	2.0	ranked	Life Tap	Shaman	me	win	3
+5	False	451	66931435	Warlock	NEW1_023	2.0	ranked	Faerie Dragon	Shaman	opponent	win	3
+6	False	451	66931435	Warlock	CFM_851	4.0	ranked	Daring Reporter	Shaman	me	win	4
+7	False	451	66931435	Warlock	EX1_043	4.0	ranked	Twilight Drake	Shaman	opponent	win	4
+8	False	451	66931435	Warlock	CS2_056	2.0	ranked	Life Tap	Shaman	me	win	5
+9	False	451	66931435	Warlock	CS2_065	1.0	ranked	Voidwalker	Shaman	me	win	5
+10	False	451	66931435	Warlock	CFM_605	5.0	ranked	Drakonid Operative	Shaman	opponent	win	5
+11	False	451	66931435	Warlock	EX1_016	6.0	ranked	Sylvanas Windrunner	Shaman	me	win	6
+12	False	451	66931435	Warlock	CS1h_001	2.0	ranked	Lesser Heal	Shaman	opponent	win	6
+13	False	451	66931435	Warlock	AT_055	1.0	ranked	Flash Heal	Shaman	opponent	win	6
+14	False	451	66931435	Warlock	CFM_751	7.0	ranked	Abyssal Enforcer	Shaman	me	win	7
+15	False	451	66931435	Warlock	CS2_003	1.0	ranked	Mind Vision	Shaman	opponent	win	7
+16	False	451	66931435	Warlock	EX1_284	5.0	ranked	Azure Drake	Shaman	opponent	win	7
+17	False	451	66931435	Warlock	EX1_298	8.0	ranked	Ragnaros the Firelord	Shaman	me	win	8
+18	False	451	66931435	Warlock	LOE_029	2.0	ranked	Jeweled Scarab	Shaman	opponent	win	8
+19	False	451	66931435	Warlock	EX1_339	3.0	ranked	Thoughtsteal	Shaman	opponent	win	8
+20	False	451	66931435	Warlock	CFM_626	3.0	ranked	Kabal Talonpriest	Shaman	opponent	win	8
+21	False	451	66931435	Warlock	CS2_057	3.0	ranked	Shadow Bolt	Shaman	me	win	9
+22	False	451	66931435	Warlock	KAR_712	3.0	ranked	Violet Illusionist	Shaman	me	win	9
+23	False	451	66931435	Warlock	CS2_056	2.0	ranked	Life Tap	Shaman	me	win	9
+24	False	451	66931435	Warlock	CS2_062	4.0	ranked	Hellfire	Shaman	opponent	win	9
+25	False	451	66931435	Warlock	EX1_284	5.0	ranked	Azure Drake	Shaman	opponent	win	9
+0	False	519	66930775	Warlock	KAR_011	2.0	ranked	Pompous Thespian	Shaman	me	win	2
+1	False	519	66930775	Warlock	EX1_066	2.0	ranked	Acidic Swamp Ooze	Shaman	opponent	win	2
+2	False	519	66930775	Warlock	LOE_023	2.0	ranked	Dark Peddler	Shaman	me	win	3
+3	False	519	66930775	Warlock	CFM_781	3.0	ranked	Shaku the Collector	Shaman	opponent	win	3
+4	False	519	66930775	Warlock	CS2_056	2.0	ranked	Life Tap	Shaman	me	win	4
+5	False	519	66930775	Warlock	EX1_066	2.0	ranked	Acidic Swamp Ooze	Shaman	me	win	4
+6	False	519	66930775	Warlock	EX1_044	3.0	ranked	Questing Adventurer	Shaman	opponent	win	4
+7	False	519	66930775	Warlock	EX1_145	0.0	ranked	Preparation	Shaman	opponent	win	4
+8	False	519	66930775	Warlock	EX1_129	3.0	ranked	Fan of Knives	Shaman	opponent	win	4
+9	False	519	66930775	Warlock	EX1_128	1.0	ranked	Conceal	Shaman	opponent	win	4
+10	False	519	66930775	Warlock	CFM_668	5.0	ranked	Doppelgangster	Shaman	me	win	5
+11	False	519	66930775	Warlock	GAME_005		ranked	The Coin	Shaman	opponent	win	5
+12	False	519	66930775	Warlock	OG_176	3.0	ranked	Shadow Strike	Shaman	opponent	win	5
+13	False	519	66930775	Warlock	OG_176	3.0	ranked	Shadow Strike	Shaman	opponent	win	5
+14	False	519	66930775	Warlock	CS2_063	1.0	ranked	Corruption	Shaman	me	win	6
+15	False	519	66930775	Warlock	KAR_114	4.0	ranked	Barnes	Shaman	me	win	6
+16	False	519	66930775	Warlock	CFM_120	1.0	ranked	Mistress of Mixtures	Shaman	me	win	6
+17	False	519	66930775	Warlock	CS2_083b	2.0	ranked	Dagger Mastery	Shaman	opponent	win	6
+18	False	519	66930775	Warlock	CS2_074	1.0	ranked	Deadly Poison	Shaman	opponent	win	6
+19	False	519	66930775	Warlock	EX1_124	2.0	ranked	Eviscerate	Shaman	opponent	win	6
+20	False	519	66930775	Warlock	CFM_751	7.0	ranked	Abyssal Enforcer	Shaman	me	win	7
+21	False	519	66930775	Warlock	KAR_712	3.0	ranked	Violet Illusionist	Shaman	me	win	8
+22	False	519	66930775	Warlock	CS2_056	2.0	ranked	Life Tap	Shaman	me	win	8
+23	False	519	66930775	Warlock	AT_025	6.0	ranked	Dark Bargain	Shaman	opponent	win	8
+24	False	519	66930775	Warlock	CS2_083b	2.0	ranked	Dagger Mastery	Shaman	opponent	win	8
+25	False	519	66930775	Warlock	CS2_056	2.0	ranked	Life Tap	Shaman	me	win	9
+26	False	519	66930775	Warlock	LOE_011	6.0	ranked	Reno Jackson	Shaman	me	win	9
+27	False	519	66930775	Warlock	CFM_750	9.0	ranked	Krul the Unshackled	Shaman	opponent	win	9
+28	False	519	66930775	Warlock	CS2_056	2.0	ranked	Life Tap	Shaman	me	win	10
+29	False	519	66930775	Warlock	EX1_309	6.0	ranked	Siphon Soul	Shaman	me	win	10
+30	False	519	66930775	Warlock	CFM_654	2.0	ranked	Friendly Bartender	Shaman	me	win	10
+0	False	290	66929448		EX1_319	1.0	ranked	Flame Imp		me	loss	1
+1	False	290	66929448		GAME_005		ranked	The Coin		opponent	loss	1
+2	False	290	66929448		CFM_717	2.0	ranked	Jade Claws		opponent	loss	1
+3	False	290	66929448		CS2_065	1.0	ranked	Voidwalker		me	loss	2
+4	False	290	66929448		LOE_018	1.0	ranked	Tunnel Trogg		opponent	loss	2
+5	False	290	66929448		NEW1_023	2.0	ranked	Faerie Dragon		me	loss	3
+6	False	290	66929448		AT_052	2.0	ranked	Totem Golem		opponent	loss	3
+7	False	290	66929448		EX1_046	4.0	ranked	Dark Iron Dwarf		me	loss	4
+8	False	290	66929448		EX1_248	3.0	ranked	Feral Spirit		opponent	loss	4
+9	False	290	66929448		CS2_056	2.0	ranked	Life Tap		me	loss	5
+10	False	290	66929448		KAR_712	3.0	ranked	Violet Illusionist		me	loss	5
+11	False	290	66929448		AT_052	2.0	ranked	Totem Golem		opponent	loss	5
+12	False	290	66929448		EX1_238	1.0	ranked	Lightning Bolt		opponent	loss	5
+13	False	290	66929448		CS2_056	2.0	ranked	Life Tap		me	loss	6
+14	False	290	66929448		LOE_018	1.0	ranked	Tunnel Trogg		opponent	loss	6
+15	False	290	66929448		CS2_049	2.0	ranked	Totemic Call		opponent	loss	6
+16	False	290	66929448		CS2_062	4.0	ranked	Hellfire		me	loss	7
+17	False	290	66929448		EX1_596	2.0	ranked	Demonfire		me	loss	7
+18	False	290	66929448		NEW1_025	1.0	ranked	Bloodsail Corsair		me	loss	7
+19	False	290	66929448		CFM_061	4.0	ranked	Jinyu Waterspeaker		opponent	loss	7
+20	False	290	66929448		OG_028	6.0	ranked	Thing from Below		opponent	loss	7
