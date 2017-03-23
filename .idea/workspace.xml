@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32f82fbc-33db-4c5d-aa3a-3ca45fe9bda8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grab_data_from_url.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grab_data_from_url_v2.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/hs_alytic_v2.csv" afterPath="$PROJECT_DIR$/Data/hs_alytic_v2.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iterate_over_games.py" afterPath="$PROJECT_DIR$/iterate_over_games.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/url_looping.py" afterPath="$PROJECT_DIR$/url_looping.py" />
     </list>
     <ignored path="HS_Project.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,11 +24,11 @@
     <favorites_list name="HS_Project" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="iterate_over_games.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/iterate_over_games.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
+            <state relative-caret-position="459">
               <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="49" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
@@ -38,25 +37,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="readjson.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="readjson.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/readjson.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="391">
               <caret line="50" column="1" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="29" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="grab_data_from_url.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/grab_data_from_url.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
-              <folding>
-                <element signature="e#4#15#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -81,6 +68,7 @@
         <option value="$PROJECT_DIR$/readjson.py" />
         <option value="$PROJECT_DIR$/iterate_over_games.py" />
         <option value="$PROJECT_DIR$/grab_data_from_url.py" />
+        <option value="$PROJECT_DIR$/url_looping.py" />
       </list>
     </option>
   </component>
@@ -115,6 +103,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -135,15 +125,13 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Python.grab_data_from_url">
+  <component name="RunManager" selected="Python.url_looping">
     <configuration default="false" name="readjson" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -208,6 +196,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="HS_Project" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/grab_data_from_url.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="url_looping" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HS_Project" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/url_looping.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -346,18 +351,20 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.readjson" />
       <item index="1" class="java.lang.String" itemvalue="Python.iterate_over_games" />
       <item index="2" class="java.lang.String" itemvalue="Python.for_loop_testing" />
       <item index="3" class="java.lang.String" itemvalue="Python.grab_data_from_url" />
+      <item index="4" class="java.lang.String" itemvalue="Python.url_looping" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.grab_data_from_url" />
-        <item index="1" class="java.lang.String" itemvalue="Python.iterate_over_games" />
-        <item index="2" class="java.lang.String" itemvalue="Python.for_loop_testing" />
-        <item index="3" class="java.lang.String" itemvalue="Python.readjson" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.url_looping" />
+        <item index="1" class="java.lang.String" itemvalue="Python.grab_data_from_url" />
+        <item index="2" class="java.lang.String" itemvalue="Python.iterate_over_games" />
+        <item index="3" class="java.lang.String" itemvalue="Python.for_loop_testing" />
+        <item index="4" class="java.lang.String" itemvalue="Python.readjson" />
       </list>
     </recent_temporary>
   </component>
@@ -435,6 +442,36 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/iterate_over_games.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readjson.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="50" column="1" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grab_data_from_url.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#4#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/readjson.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -456,7 +493,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -464,9 +500,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-150">
           <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#11#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -474,7 +507,36 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="32" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iterate_over_games.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/url_looping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding>
+            <element signature="e#130#165#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grab_data_from_url.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="52" column="31" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="31" />
+          <folding>
+            <element signature="e#4#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -484,26 +546,6 @@
           <caret line="50" column="1" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="29" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/iterate_over_games.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="49" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grab_data_from_url.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
-          <folding>
-            <element signature="e#4#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
